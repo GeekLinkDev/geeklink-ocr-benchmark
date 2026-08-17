@@ -1,0 +1,18 @@
+GeekLink OCR Benchmark — Data License
+
+The annotations (data/manifest.csv, data/manifest.jsonl) and the subtitle
+text itself are original writing by GeekLink, released under CC0 1.0
+(public domain dedication): https://creativecommons.org/publicdomain/zero/1.0/
+
+The rendered images in data/images/ are frames from three source films:
+
+- The General (1926) — Public Domain Mark 1.0. No rights reserved.
+- Nosferatu (1922) — CC0 1.0. No rights reserved.
+- San Francisco (1955 Cinemascope film) — CC BY-SA 3.0. Attribution
+  required if you redistribute frames from this source separately; see
+  the README Sources section for the required credit line. Any
+  redistribution of a derivative including this source's frames should
+  carry the same CC BY-SA 3.0 license for that portion.
+
+No real user data, real user videos, or real people's personal footage are
+included in this dataset.

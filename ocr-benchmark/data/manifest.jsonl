@@ -1,0 +1,600 @@
+{"id": "v01_0000", "video_id": "v01", "lang": "en", "image": "data/images/v01_0000.jpg", "ground_truth": "You see, but you do not observe.", "has_watermark": false}
+{"id": "v01_0001", "video_id": "v01", "lang": "es", "image": "data/images/v01_0001.jpg", "ground_truth": "Usted ve, pero no observa.", "has_watermark": false}
+{"id": "v01_0002", "video_id": "v01", "lang": "ja", "image": "data/images/v01_0002.jpg", "ground_truth": "見てはいるが、観察はしていないね。", "has_watermark": false}
+{"id": "v01_0003", "video_id": "v01", "lang": "ko", "image": "data/images/v01_0003.jpg", "ground_truth": "보긴 하지만 관찰은 안 하는군요.", "has_watermark": false}
+{"id": "v01_0004", "video_id": "v01", "lang": "zh", "image": "data/images/v01_0004.jpg", "ground_truth": "你只是看，却没有观察。", "has_watermark": false}
+{"id": "v01_0005", "video_id": "v01", "lang": "el", "image": "data/images/v01_0005.jpg", "ground_truth": "Βλέπεις, αλλά δεν παρατηρείς.", "has_watermark": false}
+{"id": "v01_0006", "video_id": "v01", "lang": "en", "image": "data/images/v01_0006.jpg", "ground_truth": "It's quite simple, once you know how.", "has_watermark": false}
+{"id": "v01_0007", "video_id": "v01", "lang": "es", "image": "data/images/v01_0007.jpg", "ground_truth": "Es bastante simple, una vez que sabes cómo.", "has_watermark": false}
+{"id": "v01_0008", "video_id": "v01", "lang": "ja", "image": "data/images/v01_0008.jpg", "ground_truth": "コツさえ分かれば簡単さ。", "has_watermark": false}
+{"id": "v01_0009", "video_id": "v01", "lang": "ko", "image": "data/images/v01_0009.jpg", "ground_truth": "알고 나면 아주 간단한 거예요.", "has_watermark": true}
+{"id": "v01_0010", "video_id": "v01", "lang": "zh", "image": "data/images/v01_0010.jpg", "ground_truth": "知道方法之后其实很简单。", "has_watermark": true}
+{"id": "v01_0011", "video_id": "v01", "lang": "el", "image": "data/images/v01_0011.jpg", "ground_truth": "Είναι απλό, αρκεί να ξέρεις πώς.", "has_watermark": false}
+{"id": "v01_0012", "video_id": "v01", "lang": "en", "image": "data/images/v01_0012.jpg", "ground_truth": "There's no use trying, that's impossible.", "has_watermark": false}
+{"id": "v01_0013", "video_id": "v01", "lang": "es", "image": "data/images/v01_0013.jpg", "ground_truth": "No sirve de nada intentarlo, es imposible.", "has_watermark": false}
+{"id": "v01_0014", "video_id": "v01", "lang": "ja", "image": "data/images/v01_0014.jpg", "ground_truth": "無駄だよ、それは不可能だ。", "has_watermark": false}
+{"id": "v01_0015", "video_id": "v01", "lang": "ko", "image": "data/images/v01_0015.jpg", "ground_truth": "그건 불가능해요, 소용없어요.", "has_watermark": false}
+{"id": "v01_0016", "video_id": "v01", "lang": "zh", "image": "data/images/v01_0016.jpg", "ground_truth": "别白费力气了，那不可能。", "has_watermark": true}
+{"id": "v01_0017", "video_id": "v01", "lang": "el", "image": "data/images/v01_0017.jpg", "ground_truth": "Δεν έχει νόημα, είναι αδύνατο.", "has_watermark": true}
+{"id": "v01_0018", "video_id": "v01", "lang": "en", "image": "data/images/v01_0018.jpg", "ground_truth": "Curiouser and curiouser!", "has_watermark": false}
+{"id": "v01_0019", "video_id": "v01", "lang": "es", "image": "data/images/v01_0019.jpg", "ground_truth": "¡Cada vez más raro!", "has_watermark": true}
+{"id": "v01_0020", "video_id": "v01", "lang": "ja", "image": "data/images/v01_0020.jpg", "ground_truth": "ますます不思議になっていく！", "has_watermark": false}
+{"id": "v01_0021", "video_id": "v01", "lang": "ko", "image": "data/images/v01_0021.jpg", "ground_truth": "점점 더 이상해지네!", "has_watermark": true}
+{"id": "v01_0022", "video_id": "v01", "lang": "zh", "image": "data/images/v01_0022.jpg", "ground_truth": "越来越奇怪了！", "has_watermark": true}
+{"id": "v01_0023", "video_id": "v01", "lang": "el", "image": "data/images/v01_0023.jpg", "ground_truth": "Όλο και πιο περίεργο!", "has_watermark": true}
+{"id": "v01_0024", "video_id": "v01", "lang": "en", "image": "data/images/v01_0024.jpg", "ground_truth": "Who in the world am I?", "has_watermark": false}
+{"id": "v01_0025", "video_id": "v01", "lang": "es", "image": "data/images/v01_0025.jpg", "ground_truth": "¿Quién demonios soy yo?", "has_watermark": false}
+{"id": "v01_0026", "video_id": "v01", "lang": "ja", "image": "data/images/v01_0026.jpg", "ground_truth": "私はいったい誰なの？", "has_watermark": false}
+{"id": "v01_0027", "video_id": "v01", "lang": "ko", "image": "data/images/v01_0027.jpg", "ground_truth": "도대체 나는 누구지?", "has_watermark": false}
+{"id": "v01_0028", "video_id": "v01", "lang": "zh", "image": "data/images/v01_0028.jpg", "ground_truth": "我到底是谁？", "has_watermark": false}
+{"id": "v01_0029", "video_id": "v01", "lang": "el", "image": "data/images/v01_0029.jpg", "ground_truth": "Ποια είμαι επιτέλους εγώ;", "has_watermark": false}
+{"id": "v01_0030", "video_id": "v01", "lang": "en", "image": "data/images/v01_0030.jpg", "ground_truth": "We're all mad here.", "has_watermark": false}
+{"id": "v01_0031", "video_id": "v01", "lang": "es", "image": "data/images/v01_0031.jpg", "ground_truth": "Aquí todos estamos locos.", "has_watermark": true}
+{"id": "v01_0032", "video_id": "v01", "lang": "ja", "image": "data/images/v01_0032.jpg", "ground_truth": "ここではみんな狂ってるよ。", "has_watermark": false}
+{"id": "v01_0033", "video_id": "v01", "lang": "ko", "image": "data/images/v01_0033.jpg", "ground_truth": "여긴 다 미쳤어요.", "has_watermark": false}
+{"id": "v01_0034", "video_id": "v01", "lang": "zh", "image": "data/images/v01_0034.jpg", "ground_truth": "这里的人都疯了。", "has_watermark": false}
+{"id": "v01_0035", "video_id": "v01", "lang": "el", "image": "data/images/v01_0035.jpg", "ground_truth": "Εδώ όλοι είναι τρελοί.", "has_watermark": false}
+{"id": "v01_0036", "video_id": "v01", "lang": "en", "image": "data/images/v01_0036.jpg", "ground_truth": "It is a truth universally acknowledged.", "has_watermark": false}
+{"id": "v01_0037", "video_id": "v01", "lang": "es", "image": "data/images/v01_0037.jpg", "ground_truth": "Es una verdad reconocida por todos.", "has_watermark": false}
+{"id": "v01_0038", "video_id": "v01", "lang": "ja", "image": "data/images/v01_0038.jpg", "ground_truth": "それは誰もが認める真実だ。", "has_watermark": false}
+{"id": "v01_0039", "video_id": "v01", "lang": "ko", "image": "data/images/v01_0039.jpg", "ground_truth": "그건 누구나 아는 진실이죠.", "has_watermark": false}
+{"id": "v01_0040", "video_id": "v01", "lang": "zh", "image": "data/images/v01_0040.jpg", "ground_truth": "这是人人都承认的真理。", "has_watermark": false}
+{"id": "v01_0041", "video_id": "v01", "lang": "el", "image": "data/images/v01_0041.jpg", "ground_truth": "Είναι μια αλήθεια που όλοι αποδέχονται.", "has_watermark": false}
+{"id": "v01_0042", "video_id": "v01", "lang": "en", "image": "data/images/v01_0042.jpg", "ground_truth": "I could not tell you what I really think.", "has_watermark": true}
+{"id": "v01_0043", "video_id": "v01", "lang": "es", "image": "data/images/v01_0043.jpg", "ground_truth": "No podría decirte lo que realmente pienso.", "has_watermark": false}
+{"id": "v01_0044", "video_id": "v01", "lang": "ja", "image": "data/images/v01_0044.jpg", "ground_truth": "本当の気持ちは言葉にできない。", "has_watermark": false}
+{"id": "v01_0045", "video_id": "v01", "lang": "ko", "image": "data/images/v01_0045.jpg", "ground_truth": "내 진심은 말로 다 못해요.", "has_watermark": false}
+{"id": "v01_0046", "video_id": "v01", "lang": "zh", "image": "data/images/v01_0046.jpg", "ground_truth": "我说不出自己真正的想法。", "has_watermark": false}
+{"id": "v01_0047", "video_id": "v01", "lang": "el", "image": "data/images/v01_0047.jpg", "ground_truth": "Δεν μπορώ να πω τι πραγματικά σκέφτομαι.", "has_watermark": false}
+{"id": "v01_0048", "video_id": "v01", "lang": "en", "image": "data/images/v01_0048.jpg", "ground_truth": "Vanity and pride are different things.", "has_watermark": true}
+{"id": "v01_0049", "video_id": "v01", "lang": "es", "image": "data/images/v01_0049.jpg", "ground_truth": "La vanidad y el orgullo son cosas distintas.", "has_watermark": false}
+{"id": "v01_0050", "video_id": "v01", "lang": "ja", "image": "data/images/v01_0050.jpg", "ground_truth": "虚栄心とプライドは別物だよ。", "has_watermark": false}
+{"id": "v01_0051", "video_id": "v01", "lang": "ko", "image": "data/images/v01_0051.jpg", "ground_truth": "허영이랑 자존심은 다른 거예요.", "has_watermark": false}
+{"id": "v01_0052", "video_id": "v01", "lang": "zh", "image": "data/images/v01_0052.jpg", "ground_truth": "虚荣和自尊是两回事。", "has_watermark": false}
+{"id": "v01_0053", "video_id": "v01", "lang": "el", "image": "data/images/v01_0053.jpg", "ground_truth": "Η ματαιοδοξία κι η υπερηφάνεια είναι διαφορετικά πράγματα.", "has_watermark": false}
+{"id": "v01_0054", "video_id": "v01", "lang": "en", "image": "data/images/v01_0054.jpg", "ground_truth": "I have been in a dream all afternoon.", "has_watermark": false}
+{"id": "v01_0055", "video_id": "v01", "lang": "es", "image": "data/images/v01_0055.jpg", "ground_truth": "He estado como en un sueño toda la tarde.", "has_watermark": false}
+{"id": "v01_0056", "video_id": "v01", "lang": "ja", "image": "data/images/v01_0056.jpg", "ground_truth": "午後じゅう夢の中にいたみたい。", "has_watermark": false}
+{"id": "v01_0057", "video_id": "v01", "lang": "ko", "image": "data/images/v01_0057.jpg", "ground_truth": "오후 내내 꿈속에 있었던 것 같아요.", "has_watermark": false}
+{"id": "v01_0058", "video_id": "v01", "lang": "zh", "image": "data/images/v01_0058.jpg", "ground_truth": "整个下午我都像在做梦。", "has_watermark": true}
+{"id": "v01_0059", "video_id": "v01", "lang": "el", "image": "data/images/v01_0059.jpg", "ground_truth": "Ήμουν σαν σε όνειρο όλο το απόγευμα.", "has_watermark": false}
+{"id": "v01_0060", "video_id": "v01", "lang": "en", "image": "data/images/v01_0060.jpg", "ground_truth": "It was the best of times, it was the worst of times.", "has_watermark": false}
+{"id": "v01_0061", "video_id": "v01", "lang": "es", "image": "data/images/v01_0061.jpg", "ground_truth": "Era el mejor de los tiempos, era el peor de los tiempos.", "has_watermark": false}
+{"id": "v01_0062", "video_id": "v01", "lang": "ja", "image": "data/images/v01_0062.jpg", "ground_truth": "最良の時代であり、最悪の時代でもあった。", "has_watermark": true}
+{"id": "v01_0063", "video_id": "v01", "lang": "ko", "image": "data/images/v01_0063.jpg", "ground_truth": "최고의 시절이자, 최악의 시절이었죠.", "has_watermark": false}
+{"id": "v01_0064", "video_id": "v01", "lang": "zh", "image": "data/images/v01_0064.jpg", "ground_truth": "那是最好的时代，也是最坏的时代。", "has_watermark": false}
+{"id": "v01_0065", "video_id": "v01", "lang": "el", "image": "data/images/v01_0065.jpg", "ground_truth": "Ήταν η καλύτερη εποχή, ήταν η χειρότερη εποχή.", "has_watermark": false}
+{"id": "v01_0066", "video_id": "v01", "lang": "en", "image": "data/images/v01_0066.jpg", "ground_truth": "God bless us, every one.", "has_watermark": false}
+{"id": "v01_0067", "video_id": "v01", "lang": "es", "image": "data/images/v01_0067.jpg", "ground_truth": "Que Dios nos bendiga a todos.", "has_watermark": false}
+{"id": "v01_0068", "video_id": "v01", "lang": "ja", "image": "data/images/v01_0068.jpg", "ground_truth": "みんなに神の祝福を。", "has_watermark": false}
+{"id": "v01_0069", "video_id": "v01", "lang": "ko", "image": "data/images/v01_0069.jpg", "ground_truth": "모두에게 신의 축복이 있기를.", "has_watermark": false}
+{"id": "v01_0070", "video_id": "v01", "lang": "zh", "image": "data/images/v01_0070.jpg", "ground_truth": "愿上帝保佑我们每一个人。", "has_watermark": false}
+{"id": "v01_0071", "video_id": "v01", "lang": "el", "image": "data/images/v01_0071.jpg", "ground_truth": "Ο Θεός να μας ευλογεί όλους.", "has_watermark": false}
+{"id": "v01_0072", "video_id": "v01", "lang": "en", "image": "data/images/v01_0072.jpg", "ground_truth": "I will honor Christmas in my heart.", "has_watermark": false}
+{"id": "v01_0073", "video_id": "v01", "lang": "es", "image": "data/images/v01_0073.jpg", "ground_truth": "Guardaré la Navidad en mi corazón.", "has_watermark": false}
+{"id": "v01_0074", "video_id": "v01", "lang": "ja", "image": "data/images/v01_0074.jpg", "ground_truth": "心の中でクリスマスを大切にするよ。", "has_watermark": false}
+{"id": "v01_0075", "video_id": "v01", "lang": "ko", "image": "data/images/v01_0075.jpg", "ground_truth": "마음속으로 크리스마스를 기억할게요.", "has_watermark": true}
+{"id": "v01_0076", "video_id": "v01", "lang": "zh", "image": "data/images/v01_0076.jpg", "ground_truth": "我会把圣诞节永远放在心里。", "has_watermark": false}
+{"id": "v01_0077", "video_id": "v01", "lang": "el", "image": "data/images/v01_0077.jpg", "ground_truth": "Θα κρατήσω τα Χριστούγεννα στην καρδιά μου.", "has_watermark": false}
+{"id": "v01_0078", "video_id": "v01", "lang": "en", "image": "data/images/v01_0078.jpg", "ground_truth": "Are there no prisons? No workhouses?", "has_watermark": false}
+{"id": "v01_0079", "video_id": "v01", "lang": "es", "image": "data/images/v01_0079.jpg", "ground_truth": "¿No hay cárceles? ¿No hay asilos?", "has_watermark": false}
+{"id": "v01_0080", "video_id": "v01", "lang": "ja", "image": "data/images/v01_0080.jpg", "ground_truth": "刑務所も救貧院もないのか？", "has_watermark": false}
+{"id": "v01_0081", "video_id": "v01", "lang": "ko", "image": "data/images/v01_0081.jpg", "ground_truth": "감옥도 없나요? 구빈원도 없어요?", "has_watermark": false}
+{"id": "v01_0082", "video_id": "v01", "lang": "zh", "image": "data/images/v01_0082.jpg", "ground_truth": "难道没有监狱？没有济贫院吗？", "has_watermark": false}
+{"id": "v01_0083", "video_id": "v01", "lang": "el", "image": "data/images/v01_0083.jpg", "ground_truth": "Δεν υπάρχουν φυλακές; Δεν υπάρχουν άσυλα;", "has_watermark": false}
+{"id": "v01_0084", "video_id": "v01", "lang": "en", "image": "data/images/v01_0084.jpg", "ground_truth": "Welcome to my house. Enter freely, of your own will.", "has_watermark": false}
+{"id": "v01_0085", "video_id": "v01", "lang": "es", "image": "data/images/v01_0085.jpg", "ground_truth": "Bienvenido a mi casa. Entre por su propia voluntad.", "has_watermark": false}
+{"id": "v01_0086", "video_id": "v01", "lang": "ja", "image": "data/images/v01_0086.jpg", "ground_truth": "ようこそ、私の家へ。自由に入っておくれ。", "has_watermark": false}
+{"id": "v01_0087", "video_id": "v01", "lang": "ko", "image": "data/images/v01_0087.jpg", "ground_truth": "제 집에 오신 걸 환영합니다. 마음대로 들어오세요.", "has_watermark": false}
+{"id": "v01_0088", "video_id": "v01", "lang": "zh", "image": "data/images/v01_0088.jpg", "ground_truth": "欢迎来到我家，请自由进入。", "has_watermark": false}
+{"id": "v01_0089", "video_id": "v01", "lang": "el", "image": "data/images/v01_0089.jpg", "ground_truth": "Καλώς ήρθες στο σπίτι μου. Πέρασε ελεύθερα.", "has_watermark": false}
+{"id": "v01_0090", "video_id": "v01", "lang": "en", "image": "data/images/v01_0090.jpg", "ground_truth": "Listen to them, the children of the night.", "has_watermark": true}
+{"id": "v01_0091", "video_id": "v01", "lang": "es", "image": "data/images/v01_0091.jpg", "ground_truth": "Escuche eso, los hijos de la noche.", "has_watermark": false}
+{"id": "v01_0092", "video_id": "v01", "lang": "ja", "image": "data/images/v01_0092.jpg", "ground_truth": "聞こえるかい、あれが夜の子たちの声だ。", "has_watermark": true}
+{"id": "v01_0093", "video_id": "v01", "lang": "ko", "image": "data/images/v01_0093.jpg", "ground_truth": "저 소리 들려요? 밤의 아이들이에요.", "has_watermark": false}
+{"id": "v01_0094", "video_id": "v01", "lang": "zh", "image": "data/images/v01_0094.jpg", "ground_truth": "听，那是黑夜之子的声音。", "has_watermark": true}
+{"id": "v01_0095", "video_id": "v01", "lang": "el", "image": "data/images/v01_0095.jpg", "ground_truth": "Άκου, τα παιδιά της νύχτας.", "has_watermark": false}
+{"id": "v01_0096", "video_id": "v01", "lang": "en", "image": "data/images/v01_0096.jpg", "ground_truth": "I never drink... wine.", "has_watermark": false}
+{"id": "v01_0097", "video_id": "v01", "lang": "es", "image": "data/images/v01_0097.jpg", "ground_truth": "Yo nunca bebo... vino.", "has_watermark": false}
+{"id": "v01_0098", "video_id": "v01", "lang": "ja", "image": "data/images/v01_0098.jpg", "ground_truth": "私はワインを…飲まないんだ。", "has_watermark": false}
+{"id": "v01_0099", "video_id": "v01", "lang": "ko", "image": "data/images/v01_0099.jpg", "ground_truth": "저는 와인을... 마시지 않아요.", "has_watermark": false}
+{"id": "v01_0100", "video_id": "v01", "lang": "zh", "image": "data/images/v01_0100.jpg", "ground_truth": "我从不喝……酒。", "has_watermark": false}
+{"id": "v01_0101", "video_id": "v01", "lang": "el", "image": "data/images/v01_0101.jpg", "ground_truth": "Εγώ ποτέ δεν πίνω... κρασί.", "has_watermark": false}
+{"id": "v01_0102", "video_id": "v01", "lang": "en", "image": "data/images/v01_0102.jpg", "ground_truth": "The blood is the life.", "has_watermark": false}
+{"id": "v01_0103", "video_id": "v01", "lang": "es", "image": "data/images/v01_0103.jpg", "ground_truth": "La sangre es la vida.", "has_watermark": true}
+{"id": "v01_0104", "video_id": "v01", "lang": "ja", "image": "data/images/v01_0104.jpg", "ground_truth": "血こそが命なんだ。", "has_watermark": true}
+{"id": "v01_0105", "video_id": "v01", "lang": "ko", "image": "data/images/v01_0105.jpg", "ground_truth": "피가 곧 생명이에요.", "has_watermark": false}
+{"id": "v01_0106", "video_id": "v01", "lang": "zh", "image": "data/images/v01_0106.jpg", "ground_truth": "血就是生命。", "has_watermark": false}
+{"id": "v01_0107", "video_id": "v01", "lang": "el", "image": "data/images/v01_0107.jpg", "ground_truth": "Το αίμα είναι η ζωή.", "has_watermark": false}
+{"id": "v01_0108", "video_id": "v01", "lang": "en", "image": "data/images/v01_0108.jpg", "ground_truth": "Even a man who is pure of heart may fall to darkness.", "has_watermark": false}
+{"id": "v01_0109", "video_id": "v01", "lang": "es", "image": "data/images/v01_0109.jpg", "ground_truth": "Hasta un hombre puro puede caer en la oscuridad.", "has_watermark": false}
+{"id": "v01_0110", "video_id": "v01", "lang": "ja", "image": "data/images/v01_0110.jpg", "ground_truth": "純粋な心の持ち主でも闇に落ちることがある。", "has_watermark": false}
+{"id": "v01_0111", "video_id": "v01", "lang": "ko", "image": "data/images/v01_0111.jpg", "ground_truth": "순수한 사람도 어둠에 빠질 수 있어요.", "has_watermark": false}
+{"id": "v01_0112", "video_id": "v01", "lang": "zh", "image": "data/images/v01_0112.jpg", "ground_truth": "再纯洁的人也可能坠入黑暗。", "has_watermark": false}
+{"id": "v01_0113", "video_id": "v01", "lang": "el", "image": "data/images/v01_0113.jpg", "ground_truth": "Ακόμα κι ένας αγνός άνθρωπος μπορεί να πέσει στο σκοτάδι.", "has_watermark": false}
+{"id": "v01_0114", "video_id": "v01", "lang": "en", "image": "data/images/v01_0114.jpg", "ground_truth": "It was a dark and stormy night.", "has_watermark": false}
+{"id": "v01_0115", "video_id": "v01", "lang": "es", "image": "data/images/v01_0115.jpg", "ground_truth": "Era una noche oscura y tormentosa.", "has_watermark": false}
+{"id": "v01_0116", "video_id": "v01", "lang": "ja", "image": "data/images/v01_0116.jpg", "ground_truth": "暗く嵐の夜だった。", "has_watermark": true}
+{"id": "v01_0117", "video_id": "v01", "lang": "ko", "image": "data/images/v01_0117.jpg", "ground_truth": "어둡고 폭풍우 치는 밤이었어요.", "has_watermark": false}
+{"id": "v01_0118", "video_id": "v01", "lang": "zh", "image": "data/images/v01_0118.jpg", "ground_truth": "那是一个黑暗又多雷雨的夜晚。", "has_watermark": false}
+{"id": "v01_0119", "video_id": "v01", "lang": "el", "image": "data/images/v01_0119.jpg", "ground_truth": "Ήταν μια σκοτεινή και θυελλώδης νύχτα.", "has_watermark": false}
+{"id": "v01_0120", "video_id": "v01", "lang": "en", "image": "data/images/v01_0120.jpg", "ground_truth": "I have created a monster, and I cannot control it.", "has_watermark": false}
+{"id": "v01_0121", "video_id": "v01", "lang": "es", "image": "data/images/v01_0121.jpg", "ground_truth": "He creado un monstruo y ya no puedo controlarlo.", "has_watermark": false}
+{"id": "v01_0122", "video_id": "v01", "lang": "ja", "image": "data/images/v01_0122.jpg", "ground_truth": "怪物を作ってしまった、もう制御できない。", "has_watermark": false}
+{"id": "v01_0123", "video_id": "v01", "lang": "ko", "image": "data/images/v01_0123.jpg", "ground_truth": "괴물을 만들었는데, 이제 통제가 안 돼요.", "has_watermark": false}
+{"id": "v01_0124", "video_id": "v01", "lang": "zh", "image": "data/images/v01_0124.jpg", "ground_truth": "我造出了一个怪物，如今已无法控制它。", "has_watermark": false}
+{"id": "v01_0125", "video_id": "v01", "lang": "el", "image": "data/images/v01_0125.jpg", "ground_truth": "Δημιούργησα ένα τέρας και δεν μπορώ πια να το ελέγξω.", "has_watermark": false}
+{"id": "v01_0126", "video_id": "v01", "lang": "en", "image": "data/images/v01_0126.jpg", "ground_truth": "Beware, for I am fearless, and therefore powerful.", "has_watermark": false}
+{"id": "v01_0127", "video_id": "v01", "lang": "es", "image": "data/images/v01_0127.jpg", "ground_truth": "Cuidado, porque no tengo miedo, y eso me hace poderoso.", "has_watermark": false}
+{"id": "v01_0128", "video_id": "v01", "lang": "ja", "image": "data/images/v01_0128.jpg", "ground_truth": "気をつけろ、私は恐れを知らない、だから強いんだ。", "has_watermark": false}
+{"id": "v01_0129", "video_id": "v01", "lang": "ko", "image": "data/images/v01_0129.jpg", "ground_truth": "조심해요, 저는 두려움이 없으니까요.", "has_watermark": false}
+{"id": "v01_0130", "video_id": "v01", "lang": "zh", "image": "data/images/v01_0130.jpg", "ground_truth": "小心点，我天不怕地不怕，所以才强大。", "has_watermark": false}
+{"id": "v01_0131", "video_id": "v01", "lang": "el", "image": "data/images/v01_0131.jpg", "ground_truth": "Πρόσεχε, δεν φοβάμαι τίποτα, γι' αυτό είμαι δυνατός.", "has_watermark": false}
+{"id": "v01_0132", "video_id": "v01", "lang": "en", "image": "data/images/v01_0132.jpg", "ground_truth": "There can be no life without pain.", "has_watermark": false}
+{"id": "v01_0133", "video_id": "v01", "lang": "es", "image": "data/images/v01_0133.jpg", "ground_truth": "No puede haber vida sin dolor.", "has_watermark": false}
+{"id": "v01_0134", "video_id": "v01", "lang": "ja", "image": "data/images/v01_0134.jpg", "ground_truth": "痛みのない人生なんてない。", "has_watermark": false}
+{"id": "v01_0135", "video_id": "v01", "lang": "ko", "image": "data/images/v01_0135.jpg", "ground_truth": "고통 없인 삶도 없어요.", "has_watermark": true}
+{"id": "v01_0136", "video_id": "v01", "lang": "zh", "image": "data/images/v01_0136.jpg", "ground_truth": "没有痛苦，就没有真正的人生。", "has_watermark": true}
+{"id": "v01_0137", "video_id": "v01", "lang": "el", "image": "data/images/v01_0137.jpg", "ground_truth": "Δεν υπάρχει ζωή χωρίς πόνο.", "has_watermark": false}
+{"id": "v01_0138", "video_id": "v01", "lang": "en", "image": "data/images/v01_0138.jpg", "ground_truth": "Nothing is impossible if you set your mind to it.", "has_watermark": false}
+{"id": "v01_0139", "video_id": "v01", "lang": "es", "image": "data/images/v01_0139.jpg", "ground_truth": "Nada es imposible si te lo propones.", "has_watermark": false}
+{"id": "v01_0140", "video_id": "v01", "lang": "ja", "image": "data/images/v01_0140.jpg", "ground_truth": "本気になれば不可能なんてない。", "has_watermark": false}
+{"id": "v01_0141", "video_id": "v01", "lang": "ko", "image": "data/images/v01_0141.jpg", "ground_truth": "마음만 먹으면 불가능한 건 없어요.", "has_watermark": false}
+{"id": "v01_0142", "video_id": "v01", "lang": "zh", "image": "data/images/v01_0142.jpg", "ground_truth": "只要下定决心，没有什么不可能。", "has_watermark": false}
+{"id": "v01_0143", "video_id": "v01", "lang": "el", "image": "data/images/v01_0143.jpg", "ground_truth": "Τίποτα δεν είναι αδύνατο αν το θέλεις πραγματικά.", "has_watermark": false}
+{"id": "v01_0144", "video_id": "v01", "lang": "en", "image": "data/images/v01_0144.jpg", "ground_truth": "The game is afoot.", "has_watermark": false}
+{"id": "v01_0145", "video_id": "v01", "lang": "es", "image": "data/images/v01_0145.jpg", "ground_truth": "El juego ha comenzado.", "has_watermark": false}
+{"id": "v01_0146", "video_id": "v01", "lang": "ja", "image": "data/images/v01_0146.jpg", "ground_truth": "勝負は始まった。", "has_watermark": true}
+{"id": "v01_0147", "video_id": "v01", "lang": "ko", "image": "data/images/v01_0147.jpg", "ground_truth": "게임이 시작됐어요.", "has_watermark": false}
+{"id": "v01_0148", "video_id": "v01", "lang": "zh", "image": "data/images/v01_0148.jpg", "ground_truth": "游戏开始了。", "has_watermark": false}
+{"id": "v01_0149", "video_id": "v01", "lang": "el", "image": "data/images/v01_0149.jpg", "ground_truth": "Το παιχνίδι άρχισε.", "has_watermark": false}
+{"id": "v01_0150", "video_id": "v01", "lang": "en", "image": "data/images/v01_0150.jpg", "ground_truth": "Elementary, my dear fellow.", "has_watermark": false}
+{"id": "v01_0151", "video_id": "v01", "lang": "es", "image": "data/images/v01_0151.jpg", "ground_truth": "Elemental, querido amigo.", "has_watermark": false}
+{"id": "v01_0152", "video_id": "v01", "lang": "ja", "image": "data/images/v01_0152.jpg", "ground_truth": "簡単なことだよ、君。", "has_watermark": false}
+{"id": "v01_0153", "video_id": "v01", "lang": "ko", "image": "data/images/v01_0153.jpg", "ground_truth": "간단해요, 친구.", "has_watermark": false}
+{"id": "v01_0154", "video_id": "v01", "lang": "zh", "image": "data/images/v01_0154.jpg", "ground_truth": "很简单，朋友。", "has_watermark": true}
+{"id": "v01_0155", "video_id": "v01", "lang": "el", "image": "data/images/v01_0155.jpg", "ground_truth": "Απλό, φίλε μου.", "has_watermark": false}
+{"id": "v01_0156", "video_id": "v01", "lang": "en", "image": "data/images/v01_0156.jpg", "ground_truth": "When you eliminate the impossible, what remains must be true.", "has_watermark": true}
+{"id": "v01_0157", "video_id": "v01", "lang": "es", "image": "data/images/v01_0157.jpg", "ground_truth": "Cuando eliminas lo imposible, lo que queda es la verdad.", "has_watermark": false}
+{"id": "v01_0158", "video_id": "v01", "lang": "ja", "image": "data/images/v01_0158.jpg", "ground_truth": "不可能を除いていけば、残るのが真実だ。", "has_watermark": false}
+{"id": "v01_0159", "video_id": "v01", "lang": "ko", "image": "data/images/v01_0159.jpg", "ground_truth": "불가능한 걸 지우면 남는 게 진실이에요.", "has_watermark": true}
+{"id": "v01_0160", "video_id": "v01", "lang": "zh", "image": "data/images/v01_0160.jpg", "ground_truth": "排除掉不可能的，剩下的就是真相。", "has_watermark": false}
+{"id": "v01_0161", "video_id": "v01", "lang": "el", "image": "data/images/v01_0161.jpg", "ground_truth": "Όταν αποκλείσεις το αδύνατο, ό,τι μένει είναι η αλήθεια.", "has_watermark": false}
+{"id": "v01_0162", "video_id": "v01", "lang": "en", "image": "data/images/v01_0162.jpg", "ground_truth": "I never guess. It is a shocking habit.", "has_watermark": false}
+{"id": "v01_0163", "video_id": "v01", "lang": "es", "image": "data/images/v01_0163.jpg", "ground_truth": "Nunca adivino. Es un hábito terrible.", "has_watermark": false}
+{"id": "v01_0164", "video_id": "v01", "lang": "ja", "image": "data/images/v01_0164.jpg", "ground_truth": "私は推測しない。それは悪い癖だ。", "has_watermark": false}
+{"id": "v01_0165", "video_id": "v01", "lang": "ko", "image": "data/images/v01_0165.jpg", "ground_truth": "저는 추측 안 해요, 그건 나쁜 버릇이죠.", "has_watermark": false}
+{"id": "v01_0166", "video_id": "v01", "lang": "zh", "image": "data/images/v01_0166.jpg", "ground_truth": "我从不猜测，那是个坏习惯。", "has_watermark": false}
+{"id": "v01_0167", "video_id": "v01", "lang": "el", "image": "data/images/v01_0167.jpg", "ground_truth": "Ποτέ δεν μαντεύω, είναι κακή συνήθεια.", "has_watermark": false}
+{"id": "v01_0168", "video_id": "v01", "lang": "en", "image": "data/images/v01_0168.jpg", "ground_truth": "Data, data, data! I cannot make bricks without clay.", "has_watermark": false}
+{"id": "v01_0169", "video_id": "v01", "lang": "es", "image": "data/images/v01_0169.jpg", "ground_truth": "¡Datos, datos, datos! No puedo trabajar sin ellos.", "has_watermark": false}
+{"id": "v01_0170", "video_id": "v01", "lang": "ja", "image": "data/images/v01_0170.jpg", "ground_truth": "データだ、データがなければ何も作れない。", "has_watermark": true}
+{"id": "v01_0171", "video_id": "v01", "lang": "ko", "image": "data/images/v01_0171.jpg", "ground_truth": "자료가 있어야 뭘 만들죠.", "has_watermark": false}
+{"id": "v01_0172", "video_id": "v01", "lang": "zh", "image": "data/images/v01_0172.jpg", "ground_truth": "数据，数据，没有数据什么都做不出来。", "has_watermark": false}
+{"id": "v01_0173", "video_id": "v01", "lang": "el", "image": "data/images/v01_0173.jpg", "ground_truth": "Στοιχεία, χρειάζομαι στοιχεία για να δουλέψω.", "has_watermark": false}
+{"id": "v01_0174", "video_id": "v01", "lang": "en", "image": "data/images/v01_0174.jpg", "ground_truth": "I have often been wrong before.", "has_watermark": false}
+{"id": "v01_0175", "video_id": "v01", "lang": "es", "image": "data/images/v01_0175.jpg", "ground_truth": "Antes también me he equivocado muchas veces.", "has_watermark": false}
+{"id": "v01_0176", "video_id": "v01", "lang": "ja", "image": "data/images/v01_0176.jpg", "ground_truth": "私も以前は何度も間違えたよ。", "has_watermark": false}
+{"id": "v01_0177", "video_id": "v01", "lang": "ko", "image": "data/images/v01_0177.jpg", "ground_truth": "저도 예전에 자주 틀렸어요.", "has_watermark": true}
+{"id": "v01_0178", "video_id": "v01", "lang": "zh", "image": "data/images/v01_0178.jpg", "ground_truth": "我以前也常常犯错。", "has_watermark": false}
+{"id": "v01_0179", "video_id": "v01", "lang": "el", "image": "data/images/v01_0179.jpg", "ground_truth": "Κι εγώ έχω κάνει λάθος πολλές φορές.", "has_watermark": true}
+{"id": "v01_0180", "video_id": "v01", "lang": "en", "image": "data/images/v01_0180.jpg", "ground_truth": "Time flies over us but leaves its shadow behind.", "has_watermark": false}
+{"id": "v01_0181", "video_id": "v01", "lang": "es", "image": "data/images/v01_0181.jpg", "ground_truth": "El tiempo pasa, pero deja su sombra.", "has_watermark": true}
+{"id": "v01_0182", "video_id": "v01", "lang": "ja", "image": "data/images/v01_0182.jpg", "ground_truth": "時は流れても、影を残していく。", "has_watermark": false}
+{"id": "v01_0183", "video_id": "v01", "lang": "ko", "image": "data/images/v01_0183.jpg", "ground_truth": "시간은 흘러가도 그림자를 남겨요.", "has_watermark": false}
+{"id": "v01_0184", "video_id": "v01", "lang": "zh", "image": "data/images/v01_0184.jpg", "ground_truth": "时光流逝，却留下影子。", "has_watermark": true}
+{"id": "v01_0185", "video_id": "v01", "lang": "el", "image": "data/images/v01_0185.jpg", "ground_truth": "Ο χρόνος περνά, μα αφήνει τη σκιά του.", "has_watermark": false}
+{"id": "v01_0186", "video_id": "v01", "lang": "en", "image": "data/images/v01_0186.jpg", "ground_truth": "A man's real possession is his memory.", "has_watermark": false}
+{"id": "v01_0187", "video_id": "v01", "lang": "es", "image": "data/images/v01_0187.jpg", "ground_truth": "La verdadera posesión de un hombre es su memoria.", "has_watermark": true}
+{"id": "v01_0188", "video_id": "v01", "lang": "ja", "image": "data/images/v01_0188.jpg", "ground_truth": "人の本当の財産は記憶なんだ。", "has_watermark": false}
+{"id": "v01_0189", "video_id": "v01", "lang": "ko", "image": "data/images/v01_0189.jpg", "ground_truth": "사람의 진짜 재산은 기억이에요.", "has_watermark": false}
+{"id": "v01_0190", "video_id": "v01", "lang": "zh", "image": "data/images/v01_0190.jpg", "ground_truth": "一个人真正的财富是记忆。", "has_watermark": false}
+{"id": "v01_0191", "video_id": "v01", "lang": "el", "image": "data/images/v01_0191.jpg", "ground_truth": "Η αληθινή περιουσία ενός ανθρώπου είναι η μνήμη του.", "has_watermark": false}
+{"id": "v01_0192", "video_id": "v01", "lang": "en", "image": "data/images/v01_0192.jpg", "ground_truth": "The future is still in your hands.", "has_watermark": false}
+{"id": "v01_0193", "video_id": "v01", "lang": "es", "image": "data/images/v01_0193.jpg", "ground_truth": "El futuro todavía está en tus manos.", "has_watermark": false}
+{"id": "v01_0194", "video_id": "v01", "lang": "ja", "image": "data/images/v01_0194.jpg", "ground_truth": "未来はまだ君の手の中にある。", "has_watermark": false}
+{"id": "v01_0195", "video_id": "v01", "lang": "ko", "image": "data/images/v01_0195.jpg", "ground_truth": "미래는 아직 당신 손에 있어요.", "has_watermark": true}
+{"id": "v01_0196", "video_id": "v01", "lang": "zh", "image": "data/images/v01_0196.jpg", "ground_truth": "未来依然掌握在你手中。", "has_watermark": false}
+{"id": "v01_0197", "video_id": "v01", "lang": "el", "image": "data/images/v01_0197.jpg", "ground_truth": "Το μέλλον είναι ακόμα στα χέρια σου.", "has_watermark": true}
+{"id": "v01_0198", "video_id": "v01", "lang": "en", "image": "data/images/v01_0198.jpg", "ground_truth": "It is our choices that show who we truly are.", "has_watermark": true}
+{"id": "v01_0199", "video_id": "v01", "lang": "es", "image": "data/images/v01_0199.jpg", "ground_truth": "Son nuestras decisiones las que muestran quiénes somos.", "has_watermark": false}
+{"id": "v01_0200", "video_id": "v01", "lang": "ja", "image": "data/images/v01_0200.jpg", "ground_truth": "選択こそがその人を表すんだ。", "has_watermark": false}
+{"id": "v01_0201", "video_id": "v01", "lang": "ko", "image": "data/images/v01_0201.jpg", "ground_truth": "선택이 그 사람을 보여주는 거예요.", "has_watermark": false}
+{"id": "v01_0202", "video_id": "v01", "lang": "zh", "image": "data/images/v01_0202.jpg", "ground_truth": "选择才真正显示一个人是谁。", "has_watermark": false}
+{"id": "v01_0203", "video_id": "v01", "lang": "el", "image": "data/images/v01_0203.jpg", "ground_truth": "Οι επιλογές μας δείχνουν ποιοι πραγματικά είμαστε.", "has_watermark": false}
+{"id": "v01_0204", "video_id": "v01", "lang": "en", "image": "data/images/v01_0204.jpg", "ground_truth": "There's no place like home, is there?", "has_watermark": false}
+{"id": "v01_0205", "video_id": "v01", "lang": "es", "image": "data/images/v01_0205.jpg", "ground_truth": "No hay lugar como el hogar, ¿verdad?", "has_watermark": false}
+{"id": "v01_0206", "video_id": "v01", "lang": "ja", "image": "data/images/v01_0206.jpg", "ground_truth": "やっぱり家に勝る場所はないね。", "has_watermark": false}
+{"id": "v01_0207", "video_id": "v01", "lang": "ko", "image": "data/images/v01_0207.jpg", "ground_truth": "역시 집만 한 곳이 없죠?", "has_watermark": true}
+{"id": "v01_0208", "video_id": "v01", "lang": "zh", "image": "data/images/v01_0208.jpg", "ground_truth": "还是家里最好，不是吗？", "has_watermark": false}
+{"id": "v01_0209", "video_id": "v01", "lang": "el", "image": "data/images/v01_0209.jpg", "ground_truth": "Πουθενά σαν το σπίτι, έτσι δεν είναι;", "has_watermark": false}
+{"id": "v01_0210", "video_id": "v01", "lang": "en", "image": "data/images/v01_0210.jpg", "ground_truth": "I don't know half of you half as well as I should like.", "has_watermark": false}
+{"id": "v01_0211", "video_id": "v01", "lang": "es", "image": "data/images/v01_0211.jpg", "ground_truth": "No los conocía ni la mitad de lo que debería.", "has_watermark": false}
+{"id": "v01_0212", "video_id": "v01", "lang": "ja", "image": "data/images/v01_0212.jpg", "ground_truth": "君のことを半分も分かっていなかったよ。", "has_watermark": false}
+{"id": "v01_0213", "video_id": "v01", "lang": "ko", "image": "data/images/v01_0213.jpg", "ground_truth": "당신을 절반도 제대로 몰랐네요.", "has_watermark": false}
+{"id": "v01_0214", "video_id": "v01", "lang": "zh", "image": "data/images/v01_0214.jpg", "ground_truth": "我对你的了解还不到一半。", "has_watermark": false}
+{"id": "v01_0215", "video_id": "v01", "lang": "el", "image": "data/images/v01_0215.jpg", "ground_truth": "Δεν σε ήξερα ούτε στο μισό όσο έπρεπε.", "has_watermark": true}
+{"id": "v01_0216", "video_id": "v01", "lang": "en", "image": "data/images/v01_0216.jpg", "ground_truth": "It's a dangerous business, going out your door.", "has_watermark": false}
+{"id": "v01_0217", "video_id": "v01", "lang": "es", "image": "data/images/v01_0217.jpg", "ground_truth": "Es peligroso salir por esa puerta.", "has_watermark": false}
+{"id": "v01_0218", "video_id": "v01", "lang": "ja", "image": "data/images/v01_0218.jpg", "ground_truth": "扉を出るのはいつだって危険なことだ。", "has_watermark": true}
+{"id": "v01_0219", "video_id": "v01", "lang": "ko", "image": "data/images/v01_0219.jpg", "ground_truth": "문을 나서는 건 늘 위험한 일이에요.", "has_watermark": false}
+{"id": "v02_0000", "video_id": "v02", "lang": "en", "image": "data/images/v02_0000.jpg", "ground_truth": "All we have to decide is what to do with the time given us.", "has_watermark": false}
+{"id": "v02_0001", "video_id": "v02", "lang": "es", "image": "data/images/v02_0001.jpg", "ground_truth": "Solo podemos decidir qué hacer con el tiempo que tenemos.", "has_watermark": true}
+{"id": "v02_0002", "video_id": "v02", "lang": "ja", "image": "data/images/v02_0002.jpg", "ground_truth": "決められるのは、与えられた時間をどう使うかだけだ。", "has_watermark": true}
+{"id": "v02_0003", "video_id": "v02", "lang": "ko", "image": "data/images/v02_0003.jpg", "ground_truth": "우리가 정할 수 있는 건 주어진 시간을 어떻게 쓰느냐예요.", "has_watermark": false}
+{"id": "v02_0004", "video_id": "v02", "lang": "zh", "image": "data/images/v02_0004.jpg", "ground_truth": "出门在外总是危险的。", "has_watermark": false}
+{"id": "v02_0005", "video_id": "v02", "lang": "el", "image": "data/images/v02_0005.jpg", "ground_truth": "Είναι επικίνδυνο να βγαίνεις απ' την πόρτα σου.", "has_watermark": false}
+{"id": "v02_0006", "video_id": "v02", "lang": "en", "image": "data/images/v02_0006.jpg", "ground_truth": "Not all who wander are lost.", "has_watermark": false}
+{"id": "v02_0007", "video_id": "v02", "lang": "es", "image": "data/images/v02_0007.jpg", "ground_truth": "No todo el que vaga está perdido.", "has_watermark": false}
+{"id": "v02_0008", "video_id": "v02", "lang": "ja", "image": "data/images/v02_0008.jpg", "ground_truth": "さまよう者がみな迷っているわけじゃない。", "has_watermark": false}
+{"id": "v02_0009", "video_id": "v02", "lang": "ko", "image": "data/images/v02_0009.jpg", "ground_truth": "떠도는 자가 다 길을 잃은 건 아니에요.", "has_watermark": false}
+{"id": "v02_0010", "video_id": "v02", "lang": "zh", "image": "data/images/v02_0010.jpg", "ground_truth": "我们能决定的，只是如何使用被给予的时间。", "has_watermark": true}
+{"id": "v02_0011", "video_id": "v02", "lang": "el", "image": "data/images/v02_0011.jpg", "ground_truth": "Το μόνο που αποφασίζουμε είναι τι θα κάνουμε με τον χρόνο μας.", "has_watermark": false}
+{"id": "v02_0012", "video_id": "v02", "lang": "en", "image": "data/images/v02_0012.jpg", "ground_truth": "Even the smallest person can change the course of things.", "has_watermark": false}
+{"id": "v02_0013", "video_id": "v02", "lang": "es", "image": "data/images/v02_0013.jpg", "ground_truth": "Hasta la persona más pequeña puede cambiar el rumbo de las cosas.", "has_watermark": false}
+{"id": "v02_0014", "video_id": "v02", "lang": "ja", "image": "data/images/v02_0014.jpg", "ground_truth": "どんなに小さな者でも流れを変えられる。", "has_watermark": false}
+{"id": "v02_0015", "video_id": "v02", "lang": "ko", "image": "data/images/v02_0015.jpg", "ground_truth": "아무리 작은 사람도 흐름을 바꿀 수 있어요.", "has_watermark": false}
+{"id": "v02_0016", "video_id": "v02", "lang": "zh", "image": "data/images/v02_0016.jpg", "ground_truth": "流浪的人未必都迷了路。", "has_watermark": false}
+{"id": "v02_0017", "video_id": "v02", "lang": "el", "image": "data/images/v02_0017.jpg", "ground_truth": "Δεν χάνονται όλοι όσοι περιπλανιούνται.", "has_watermark": false}
+{"id": "v02_0018", "video_id": "v02", "lang": "en", "image": "data/images/v02_0018.jpg", "ground_truth": "The night is dark and full of secrets.", "has_watermark": false}
+{"id": "v02_0019", "video_id": "v02", "lang": "es", "image": "data/images/v02_0019.jpg", "ground_truth": "La noche es oscura y está llena de secretos.", "has_watermark": false}
+{"id": "v02_0020", "video_id": "v02", "lang": "ja", "image": "data/images/v02_0020.jpg", "ground_truth": "夜は暗く、秘密に満ちている。", "has_watermark": false}
+{"id": "v02_0021", "video_id": "v02", "lang": "ko", "image": "data/images/v02_0021.jpg", "ground_truth": "밤은 어둡고 비밀로 가득해요.", "has_watermark": false}
+{"id": "v02_0022", "video_id": "v02", "lang": "zh", "image": "data/images/v02_0022.jpg", "ground_truth": "再渺小的人也能改变局势。", "has_watermark": false}
+{"id": "v02_0023", "video_id": "v02", "lang": "el", "image": "data/images/v02_0023.jpg", "ground_truth": "Ακόμα κι ο πιο μικρός μπορεί ν' αλλάξει την πορεία των πραγμάτων.", "has_watermark": false}
+{"id": "v02_0024", "video_id": "v02", "lang": "en", "image": "data/images/v02_0024.jpg", "ground_truth": "Speak softly and carry a big stick.", "has_watermark": false}
+{"id": "v02_0025", "video_id": "v02", "lang": "es", "image": "data/images/v02_0025.jpg", "ground_truth": "Habla con calma y actúa con firmeza.", "has_watermark": true}
+{"id": "v02_0026", "video_id": "v02", "lang": "ja", "image": "data/images/v02_0026.jpg", "ground_truth": "静かに話し、大きく行動しろ。", "has_watermark": false}
+{"id": "v02_0027", "video_id": "v02", "lang": "ko", "image": "data/images/v02_0027.jpg", "ground_truth": "조용히 말하고 크게 행동해요.", "has_watermark": false}
+{"id": "v02_0028", "video_id": "v02", "lang": "zh", "image": "data/images/v02_0028.jpg", "ground_truth": "夜色深沉，藏着无数秘密。", "has_watermark": false}
+{"id": "v02_0029", "video_id": "v02", "lang": "el", "image": "data/images/v02_0029.jpg", "ground_truth": "Η νύχτα είναι σκοτεινή και γεμάτη μυστικά.", "has_watermark": false}
+{"id": "v02_0030", "video_id": "v02", "lang": "en", "image": "data/images/v02_0030.jpg", "ground_truth": "Fortune favors the bold.", "has_watermark": false}
+{"id": "v02_0031", "video_id": "v02", "lang": "es", "image": "data/images/v02_0031.jpg", "ground_truth": "La fortuna favorece a los valientes.", "has_watermark": false}
+{"id": "v02_0032", "video_id": "v02", "lang": "ja", "image": "data/images/v02_0032.jpg", "ground_truth": "幸運は勇者に味方する。", "has_watermark": false}
+{"id": "v02_0033", "video_id": "v02", "lang": "ko", "image": "data/images/v02_0033.jpg", "ground_truth": "용기 있는 자에게 행운이 따라요.", "has_watermark": false}
+{"id": "v02_0034", "video_id": "v02", "lang": "zh", "image": "data/images/v02_0034.jpg", "ground_truth": "说话要轻，行动要有力。", "has_watermark": false}
+{"id": "v02_0035", "video_id": "v02", "lang": "el", "image": "data/images/v02_0035.jpg", "ground_truth": "Μίλα ήσυχα, δράσε δυνατά.", "has_watermark": true}
+{"id": "v02_0036", "video_id": "v02", "lang": "en", "image": "data/images/v02_0036.jpg", "ground_truth": "Adventure is out there, waiting.", "has_watermark": false}
+{"id": "v02_0037", "video_id": "v02", "lang": "es", "image": "data/images/v02_0037.jpg", "ground_truth": "La aventura está ahí afuera, esperando.", "has_watermark": false}
+{"id": "v02_0038", "video_id": "v02", "lang": "ja", "image": "data/images/v02_0038.jpg", "ground_truth": "冒険はあそこで待っている。", "has_watermark": true}
+{"id": "v02_0039", "video_id": "v02", "lang": "ko", "image": "data/images/v02_0039.jpg", "ground_truth": "모험은 저 밖에서 기다리고 있어요.", "has_watermark": true}
+{"id": "v02_0040", "video_id": "v02", "lang": "zh", "image": "data/images/v02_0040.jpg", "ground_truth": "幸运总是眷顾勇敢的人。", "has_watermark": false}
+{"id": "v02_0041", "video_id": "v02", "lang": "el", "image": "data/images/v02_0041.jpg", "ground_truth": "Η τύχη ευνοεί τους τολμηρούς.", "has_watermark": true}
+{"id": "v02_0042", "video_id": "v02", "lang": "en", "image": "data/images/v02_0042.jpg", "ground_truth": "Some day you will be old enough to start reading fairy tales again.", "has_watermark": false}
+{"id": "v02_0043", "video_id": "v02", "lang": "es", "image": "data/images/v02_0043.jpg", "ground_truth": "Algún día tendrás edad para volver a leer cuentos de hadas.", "has_watermark": true}
+{"id": "v02_0044", "video_id": "v02", "lang": "ja", "image": "data/images/v02_0044.jpg", "ground_truth": "いつかまた、おとぎ話を読める歳になるよ。", "has_watermark": false}
+{"id": "v02_0045", "video_id": "v02", "lang": "ko", "image": "data/images/v02_0045.jpg", "ground_truth": "언젠가 다시 동화를 읽을 나이가 될 거예요.", "has_watermark": true}
+{"id": "v02_0046", "video_id": "v02", "lang": "zh", "image": "data/images/v02_0046.jpg", "ground_truth": "冒险就在外面等着呢。", "has_watermark": false}
+{"id": "v02_0047", "video_id": "v02", "lang": "el", "image": "data/images/v02_0047.jpg", "ground_truth": "Η περιπέτεια περιμένει εκεί έξω.", "has_watermark": false}
+{"id": "v02_0048", "video_id": "v02", "lang": "en", "image": "data/images/v02_0048.jpg", "ground_truth": "It always seems impossible until it's done.", "has_watermark": false}
+{"id": "v02_0049", "video_id": "v02", "lang": "es", "image": "data/images/v02_0049.jpg", "ground_truth": "Siempre parece imposible hasta que se logra.", "has_watermark": false}
+{"id": "v02_0050", "video_id": "v02", "lang": "ja", "image": "data/images/v02_0050.jpg", "ground_truth": "終わるまではいつも不可能に思えるものだ。", "has_watermark": false}
+{"id": "v02_0051", "video_id": "v02", "lang": "ko", "image": "data/images/v02_0051.jpg", "ground_truth": "다 되고 나면 항상 쉬워 보이죠.", "has_watermark": false}
+{"id": "v02_0052", "video_id": "v02", "lang": "zh", "image": "data/images/v02_0052.jpg", "ground_truth": "总有一天你会重新爱上童话。", "has_watermark": false}
+{"id": "v02_0053", "video_id": "v02", "lang": "el", "image": "data/images/v02_0053.jpg", "ground_truth": "Κάποια μέρα θα είσαι έτοιμος να διαβάσεις ξανά παραμύθια.", "has_watermark": true}
+{"id": "v02_0054", "video_id": "v02", "lang": "en", "image": "data/images/v02_0054.jpg", "ground_truth": "Whatever you are, be a good one.", "has_watermark": false}
+{"id": "v02_0055", "video_id": "v02", "lang": "es", "image": "data/images/v02_0055.jpg", "ground_truth": "Seas lo que seas, sé bueno en ello.", "has_watermark": false}
+{"id": "v02_0056", "video_id": "v02", "lang": "ja", "image": "data/images/v02_0056.jpg", "ground_truth": "何になるにせよ、いいものになれ。", "has_watermark": true}
+{"id": "v02_0057", "video_id": "v02", "lang": "ko", "image": "data/images/v02_0057.jpg", "ground_truth": "뭐가 됐든, 제대로 된 사람이 되세요.", "has_watermark": false}
+{"id": "v02_0058", "video_id": "v02", "lang": "zh", "image": "data/images/v02_0058.jpg", "ground_truth": "事情做成之前，总看起来不可能。", "has_watermark": true}
+{"id": "v02_0059", "video_id": "v02", "lang": "el", "image": "data/images/v02_0059.jpg", "ground_truth": "Πάντα φαίνεται αδύνατο, μέχρι να γίνει.", "has_watermark": false}
+{"id": "v02_0060", "video_id": "v02", "lang": "en", "image": "data/images/v02_0060.jpg", "ground_truth": "The best way out is always through.", "has_watermark": false}
+{"id": "v02_0061", "video_id": "v02", "lang": "es", "image": "data/images/v02_0061.jpg", "ground_truth": "La mejor salida siempre es seguir adelante.", "has_watermark": true}
+{"id": "v02_0062", "video_id": "v02", "lang": "ja", "image": "data/images/v02_0062.jpg", "ground_truth": "抜け出す一番の方法は、突き進むことだ。", "has_watermark": false}
+{"id": "v02_0063", "video_id": "v02", "lang": "ko", "image": "data/images/v02_0063.jpg", "ground_truth": "빠져나가는 가장 좋은 방법은 그냥 뚫고 가는 거예요.", "has_watermark": true}
+{"id": "v02_0064", "video_id": "v02", "lang": "zh", "image": "data/images/v02_0064.jpg", "ground_truth": "无论做什么，都要做到最好。", "has_watermark": false}
+{"id": "v02_0065", "video_id": "v02", "lang": "el", "image": "data/images/v02_0065.jpg", "ground_truth": "Ό,τι κι αν είσαι, γίνε καλός σε αυτό.", "has_watermark": true}
+{"id": "v02_0066", "video_id": "v02", "lang": "en", "image": "data/images/v02_0066.jpg", "ground_truth": "You see, but you do not observe.", "has_watermark": true}
+{"id": "v02_0067", "video_id": "v02", "lang": "es", "image": "data/images/v02_0067.jpg", "ground_truth": "Usted ve, pero no observa.", "has_watermark": false}
+{"id": "v02_0068", "video_id": "v02", "lang": "ja", "image": "data/images/v02_0068.jpg", "ground_truth": "見てはいるが、観察はしていないね。", "has_watermark": false}
+{"id": "v02_0069", "video_id": "v02", "lang": "ko", "image": "data/images/v02_0069.jpg", "ground_truth": "보긴 하지만 관찰은 안 하는군요.", "has_watermark": true}
+{"id": "v02_0070", "video_id": "v02", "lang": "zh", "image": "data/images/v02_0070.jpg", "ground_truth": "脱身的最好办法，就是一直往前走。", "has_watermark": false}
+{"id": "v02_0071", "video_id": "v02", "lang": "el", "image": "data/images/v02_0071.jpg", "ground_truth": "Ο καλύτερος τρόπος να βγεις είναι να προχωρήσεις.", "has_watermark": true}
+{"id": "v02_0072", "video_id": "v02", "lang": "en", "image": "data/images/v02_0072.jpg", "ground_truth": "It's quite simple, once you know how.", "has_watermark": true}
+{"id": "v02_0073", "video_id": "v02", "lang": "es", "image": "data/images/v02_0073.jpg", "ground_truth": "Es bastante simple, una vez que sabes cómo.", "has_watermark": false}
+{"id": "v02_0074", "video_id": "v02", "lang": "ja", "image": "data/images/v02_0074.jpg", "ground_truth": "コツさえ分かれば簡単さ。", "has_watermark": false}
+{"id": "v02_0075", "video_id": "v02", "lang": "ko", "image": "data/images/v02_0075.jpg", "ground_truth": "알고 나면 아주 간단한 거예요.", "has_watermark": false}
+{"id": "v02_0076", "video_id": "v02", "lang": "zh", "image": "data/images/v02_0076.jpg", "ground_truth": "你只是看，却没有观察。", "has_watermark": false}
+{"id": "v02_0077", "video_id": "v02", "lang": "el", "image": "data/images/v02_0077.jpg", "ground_truth": "Βλέπεις, αλλά δεν παρατηρείς.", "has_watermark": false}
+{"id": "v02_0078", "video_id": "v02", "lang": "en", "image": "data/images/v02_0078.jpg", "ground_truth": "There's no use trying, that's impossible.", "has_watermark": false}
+{"id": "v02_0079", "video_id": "v02", "lang": "es", "image": "data/images/v02_0079.jpg", "ground_truth": "No sirve de nada intentarlo, es imposible.", "has_watermark": false}
+{"id": "v02_0080", "video_id": "v02", "lang": "ja", "image": "data/images/v02_0080.jpg", "ground_truth": "無駄だよ、それは不可能だ。", "has_watermark": false}
+{"id": "v02_0081", "video_id": "v02", "lang": "ko", "image": "data/images/v02_0081.jpg", "ground_truth": "그건 불가능해요, 소용없어요.", "has_watermark": false}
+{"id": "v02_0082", "video_id": "v02", "lang": "zh", "image": "data/images/v02_0082.jpg", "ground_truth": "知道方法之后其实很简单。", "has_watermark": false}
+{"id": "v02_0083", "video_id": "v02", "lang": "el", "image": "data/images/v02_0083.jpg", "ground_truth": "Είναι απλό, αρκεί να ξέρεις πώς.", "has_watermark": false}
+{"id": "v02_0084", "video_id": "v02", "lang": "en", "image": "data/images/v02_0084.jpg", "ground_truth": "Curiouser and curiouser!", "has_watermark": false}
+{"id": "v02_0085", "video_id": "v02", "lang": "es", "image": "data/images/v02_0085.jpg", "ground_truth": "¡Cada vez más raro!", "has_watermark": false}
+{"id": "v02_0086", "video_id": "v02", "lang": "ja", "image": "data/images/v02_0086.jpg", "ground_truth": "ますます不思議になっていく！", "has_watermark": false}
+{"id": "v02_0087", "video_id": "v02", "lang": "ko", "image": "data/images/v02_0087.jpg", "ground_truth": "점점 더 이상해지네!", "has_watermark": true}
+{"id": "v02_0088", "video_id": "v02", "lang": "zh", "image": "data/images/v02_0088.jpg", "ground_truth": "别白费力气了，那不可能。", "has_watermark": false}
+{"id": "v02_0089", "video_id": "v02", "lang": "el", "image": "data/images/v02_0089.jpg", "ground_truth": "Δεν έχει νόημα, είναι αδύνατο.", "has_watermark": true}
+{"id": "v02_0090", "video_id": "v02", "lang": "en", "image": "data/images/v02_0090.jpg", "ground_truth": "Who in the world am I?", "has_watermark": false}
+{"id": "v02_0091", "video_id": "v02", "lang": "es", "image": "data/images/v02_0091.jpg", "ground_truth": "¿Quién demonios soy yo?", "has_watermark": false}
+{"id": "v02_0092", "video_id": "v02", "lang": "ja", "image": "data/images/v02_0092.jpg", "ground_truth": "私はいったい誰なの？", "has_watermark": false}
+{"id": "v02_0093", "video_id": "v02", "lang": "ko", "image": "data/images/v02_0093.jpg", "ground_truth": "도대체 나는 누구지?", "has_watermark": true}
+{"id": "v02_0094", "video_id": "v02", "lang": "zh", "image": "data/images/v02_0094.jpg", "ground_truth": "越来越奇怪了！", "has_watermark": false}
+{"id": "v02_0095", "video_id": "v02", "lang": "el", "image": "data/images/v02_0095.jpg", "ground_truth": "Όλο και πιο περίεργο!", "has_watermark": false}
+{"id": "v02_0096", "video_id": "v02", "lang": "en", "image": "data/images/v02_0096.jpg", "ground_truth": "We're all mad here.", "has_watermark": false}
+{"id": "v02_0097", "video_id": "v02", "lang": "es", "image": "data/images/v02_0097.jpg", "ground_truth": "Aquí todos estamos locos.", "has_watermark": false}
+{"id": "v02_0098", "video_id": "v02", "lang": "ja", "image": "data/images/v02_0098.jpg", "ground_truth": "ここではみんな狂ってるよ。", "has_watermark": false}
+{"id": "v02_0099", "video_id": "v02", "lang": "ko", "image": "data/images/v02_0099.jpg", "ground_truth": "여긴 다 미쳤어요.", "has_watermark": false}
+{"id": "v02_0100", "video_id": "v02", "lang": "zh", "image": "data/images/v02_0100.jpg", "ground_truth": "我到底是谁？", "has_watermark": false}
+{"id": "v02_0101", "video_id": "v02", "lang": "el", "image": "data/images/v02_0101.jpg", "ground_truth": "Ποια είμαι επιτέλους εγώ;", "has_watermark": false}
+{"id": "v02_0102", "video_id": "v02", "lang": "en", "image": "data/images/v02_0102.jpg", "ground_truth": "It is a truth universally acknowledged.", "has_watermark": true}
+{"id": "v02_0103", "video_id": "v02", "lang": "es", "image": "data/images/v02_0103.jpg", "ground_truth": "Es una verdad reconocida por todos.", "has_watermark": false}
+{"id": "v02_0104", "video_id": "v02", "lang": "ja", "image": "data/images/v02_0104.jpg", "ground_truth": "それは誰もが認める真実だ。", "has_watermark": false}
+{"id": "v02_0105", "video_id": "v02", "lang": "ko", "image": "data/images/v02_0105.jpg", "ground_truth": "그건 누구나 아는 진실이죠.", "has_watermark": true}
+{"id": "v02_0106", "video_id": "v02", "lang": "zh", "image": "data/images/v02_0106.jpg", "ground_truth": "这里的人都疯了。", "has_watermark": true}
+{"id": "v02_0107", "video_id": "v02", "lang": "el", "image": "data/images/v02_0107.jpg", "ground_truth": "Εδώ όλοι είναι τρελοί.", "has_watermark": false}
+{"id": "v02_0108", "video_id": "v02", "lang": "en", "image": "data/images/v02_0108.jpg", "ground_truth": "I could not tell you what I really think.", "has_watermark": false}
+{"id": "v02_0109", "video_id": "v02", "lang": "es", "image": "data/images/v02_0109.jpg", "ground_truth": "No podría decirte lo que realmente pienso.", "has_watermark": false}
+{"id": "v02_0110", "video_id": "v02", "lang": "ja", "image": "data/images/v02_0110.jpg", "ground_truth": "本当の気持ちは言葉にできない。", "has_watermark": false}
+{"id": "v02_0111", "video_id": "v02", "lang": "ko", "image": "data/images/v02_0111.jpg", "ground_truth": "내 진심은 말로 다 못해요.", "has_watermark": true}
+{"id": "v02_0112", "video_id": "v02", "lang": "zh", "image": "data/images/v02_0112.jpg", "ground_truth": "这是人人都承认的真理。", "has_watermark": false}
+{"id": "v02_0113", "video_id": "v02", "lang": "el", "image": "data/images/v02_0113.jpg", "ground_truth": "Είναι μια αλήθεια που όλοι αποδέχονται.", "has_watermark": true}
+{"id": "v02_0114", "video_id": "v02", "lang": "en", "image": "data/images/v02_0114.jpg", "ground_truth": "Vanity and pride are different things.", "has_watermark": false}
+{"id": "v02_0115", "video_id": "v02", "lang": "es", "image": "data/images/v02_0115.jpg", "ground_truth": "La vanidad y el orgullo son cosas distintas.", "has_watermark": false}
+{"id": "v02_0116", "video_id": "v02", "lang": "ja", "image": "data/images/v02_0116.jpg", "ground_truth": "虚栄心とプライドは別物だよ。", "has_watermark": false}
+{"id": "v02_0117", "video_id": "v02", "lang": "ko", "image": "data/images/v02_0117.jpg", "ground_truth": "허영이랑 자존심은 다른 거예요.", "has_watermark": false}
+{"id": "v02_0118", "video_id": "v02", "lang": "zh", "image": "data/images/v02_0118.jpg", "ground_truth": "我说不出自己真正的想法。", "has_watermark": false}
+{"id": "v02_0119", "video_id": "v02", "lang": "el", "image": "data/images/v02_0119.jpg", "ground_truth": "Δεν μπορώ να πω τι πραγματικά σκέφτομαι.", "has_watermark": true}
+{"id": "v02_0120", "video_id": "v02", "lang": "en", "image": "data/images/v02_0120.jpg", "ground_truth": "I have been in a dream all afternoon.", "has_watermark": false}
+{"id": "v02_0121", "video_id": "v02", "lang": "es", "image": "data/images/v02_0121.jpg", "ground_truth": "He estado como en un sueño toda la tarde.", "has_watermark": false}
+{"id": "v02_0122", "video_id": "v02", "lang": "ja", "image": "data/images/v02_0122.jpg", "ground_truth": "午後じゅう夢の中にいたみたい。", "has_watermark": true}
+{"id": "v02_0123", "video_id": "v02", "lang": "ko", "image": "data/images/v02_0123.jpg", "ground_truth": "오후 내내 꿈속에 있었던 것 같아요.", "has_watermark": false}
+{"id": "v02_0124", "video_id": "v02", "lang": "zh", "image": "data/images/v02_0124.jpg", "ground_truth": "虚荣和自尊是两回事。", "has_watermark": true}
+{"id": "v02_0125", "video_id": "v02", "lang": "el", "image": "data/images/v02_0125.jpg", "ground_truth": "Η ματαιοδοξία κι η υπερηφάνεια είναι διαφορετικά πράγματα.", "has_watermark": false}
+{"id": "v02_0126", "video_id": "v02", "lang": "en", "image": "data/images/v02_0126.jpg", "ground_truth": "It was the best of times, it was the worst of times.", "has_watermark": false}
+{"id": "v02_0127", "video_id": "v02", "lang": "es", "image": "data/images/v02_0127.jpg", "ground_truth": "Era el mejor de los tiempos, era el peor de los tiempos.", "has_watermark": false}
+{"id": "v02_0128", "video_id": "v02", "lang": "ja", "image": "data/images/v02_0128.jpg", "ground_truth": "最良の時代であり、最悪の時代でもあった。", "has_watermark": false}
+{"id": "v02_0129", "video_id": "v02", "lang": "ko", "image": "data/images/v02_0129.jpg", "ground_truth": "최고의 시절이자, 최악의 시절이었죠.", "has_watermark": false}
+{"id": "v02_0130", "video_id": "v02", "lang": "zh", "image": "data/images/v02_0130.jpg", "ground_truth": "整个下午我都像在做梦。", "has_watermark": false}
+{"id": "v02_0131", "video_id": "v02", "lang": "el", "image": "data/images/v02_0131.jpg", "ground_truth": "Ήμουν σαν σε όνειρο όλο το απόγευμα.", "has_watermark": false}
+{"id": "v02_0132", "video_id": "v02", "lang": "en", "image": "data/images/v02_0132.jpg", "ground_truth": "God bless us, every one.", "has_watermark": false}
+{"id": "v02_0133", "video_id": "v02", "lang": "es", "image": "data/images/v02_0133.jpg", "ground_truth": "Que Dios nos bendiga a todos.", "has_watermark": false}
+{"id": "v02_0134", "video_id": "v02", "lang": "ja", "image": "data/images/v02_0134.jpg", "ground_truth": "みんなに神の祝福を。", "has_watermark": false}
+{"id": "v02_0135", "video_id": "v02", "lang": "ko", "image": "data/images/v02_0135.jpg", "ground_truth": "모두에게 신의 축복이 있기를.", "has_watermark": false}
+{"id": "v02_0136", "video_id": "v02", "lang": "zh", "image": "data/images/v02_0136.jpg", "ground_truth": "那是最好的时代，也是最坏的时代。", "has_watermark": false}
+{"id": "v02_0137", "video_id": "v02", "lang": "el", "image": "data/images/v02_0137.jpg", "ground_truth": "Ήταν η καλύτερη εποχή, ήταν η χειρότερη εποχή.", "has_watermark": false}
+{"id": "v02_0138", "video_id": "v02", "lang": "en", "image": "data/images/v02_0138.jpg", "ground_truth": "I will honor Christmas in my heart.", "has_watermark": false}
+{"id": "v02_0139", "video_id": "v02", "lang": "es", "image": "data/images/v02_0139.jpg", "ground_truth": "Guardaré la Navidad en mi corazón.", "has_watermark": false}
+{"id": "v02_0140", "video_id": "v02", "lang": "ja", "image": "data/images/v02_0140.jpg", "ground_truth": "心の中でクリスマスを大切にするよ。", "has_watermark": false}
+{"id": "v02_0141", "video_id": "v02", "lang": "ko", "image": "data/images/v02_0141.jpg", "ground_truth": "마음속으로 크리스마스를 기억할게요.", "has_watermark": false}
+{"id": "v02_0142", "video_id": "v02", "lang": "zh", "image": "data/images/v02_0142.jpg", "ground_truth": "愿上帝保佑我们每一个人。", "has_watermark": false}
+{"id": "v02_0143", "video_id": "v02", "lang": "el", "image": "data/images/v02_0143.jpg", "ground_truth": "Ο Θεός να μας ευλογεί όλους.", "has_watermark": false}
+{"id": "v02_0144", "video_id": "v02", "lang": "en", "image": "data/images/v02_0144.jpg", "ground_truth": "Are there no prisons? No workhouses?", "has_watermark": false}
+{"id": "v02_0145", "video_id": "v02", "lang": "es", "image": "data/images/v02_0145.jpg", "ground_truth": "¿No hay cárceles? ¿No hay asilos?", "has_watermark": false}
+{"id": "v02_0146", "video_id": "v02", "lang": "ja", "image": "data/images/v02_0146.jpg", "ground_truth": "刑務所も救貧院もないのか？", "has_watermark": true}
+{"id": "v02_0147", "video_id": "v02", "lang": "ko", "image": "data/images/v02_0147.jpg", "ground_truth": "감옥도 없나요? 구빈원도 없어요?", "has_watermark": false}
+{"id": "v02_0148", "video_id": "v02", "lang": "zh", "image": "data/images/v02_0148.jpg", "ground_truth": "我会把圣诞节永远放在心里。", "has_watermark": true}
+{"id": "v02_0149", "video_id": "v02", "lang": "el", "image": "data/images/v02_0149.jpg", "ground_truth": "Θα κρατήσω τα Χριστούγεννα στην καρδιά μου.", "has_watermark": false}
+{"id": "v02_0150", "video_id": "v02", "lang": "en", "image": "data/images/v02_0150.jpg", "ground_truth": "Welcome to my house. Enter freely, of your own will.", "has_watermark": false}
+{"id": "v02_0151", "video_id": "v02", "lang": "es", "image": "data/images/v02_0151.jpg", "ground_truth": "Bienvenido a mi casa. Entre por su propia voluntad.", "has_watermark": false}
+{"id": "v02_0152", "video_id": "v02", "lang": "ja", "image": "data/images/v02_0152.jpg", "ground_truth": "ようこそ、私の家へ。自由に入っておくれ。", "has_watermark": true}
+{"id": "v02_0153", "video_id": "v02", "lang": "ko", "image": "data/images/v02_0153.jpg", "ground_truth": "제 집에 오신 걸 환영합니다. 마음대로 들어오세요.", "has_watermark": false}
+{"id": "v02_0154", "video_id": "v02", "lang": "zh", "image": "data/images/v02_0154.jpg", "ground_truth": "难道没有监狱？没有济贫院吗？", "has_watermark": false}
+{"id": "v02_0155", "video_id": "v02", "lang": "el", "image": "data/images/v02_0155.jpg", "ground_truth": "Δεν υπάρχουν φυλακές; Δεν υπάρχουν άσυλα;", "has_watermark": false}
+{"id": "v02_0156", "video_id": "v02", "lang": "en", "image": "data/images/v02_0156.jpg", "ground_truth": "Listen to them, the children of the night.", "has_watermark": true}
+{"id": "v02_0157", "video_id": "v02", "lang": "es", "image": "data/images/v02_0157.jpg", "ground_truth": "Escuche eso, los hijos de la noche.", "has_watermark": false}
+{"id": "v02_0158", "video_id": "v02", "lang": "ja", "image": "data/images/v02_0158.jpg", "ground_truth": "聞こえるかい、あれが夜の子たちの声だ。", "has_watermark": false}
+{"id": "v02_0159", "video_id": "v02", "lang": "ko", "image": "data/images/v02_0159.jpg", "ground_truth": "저 소리 들려요? 밤의 아이들이에요.", "has_watermark": false}
+{"id": "v02_0160", "video_id": "v02", "lang": "zh", "image": "data/images/v02_0160.jpg", "ground_truth": "欢迎来到我家，请自由进入。", "has_watermark": false}
+{"id": "v02_0161", "video_id": "v02", "lang": "el", "image": "data/images/v02_0161.jpg", "ground_truth": "Καλώς ήρθες στο σπίτι μου. Πέρασε ελεύθερα.", "has_watermark": false}
+{"id": "v02_0162", "video_id": "v02", "lang": "en", "image": "data/images/v02_0162.jpg", "ground_truth": "I never drink... wine.", "has_watermark": true}
+{"id": "v02_0163", "video_id": "v02", "lang": "es", "image": "data/images/v02_0163.jpg", "ground_truth": "Yo nunca bebo... vino.", "has_watermark": false}
+{"id": "v02_0164", "video_id": "v02", "lang": "ja", "image": "data/images/v02_0164.jpg", "ground_truth": "私はワインを…飲まないんだ。", "has_watermark": true}
+{"id": "v02_0165", "video_id": "v02", "lang": "ko", "image": "data/images/v02_0165.jpg", "ground_truth": "저는 와인을... 마시지 않아요.", "has_watermark": false}
+{"id": "v02_0166", "video_id": "v02", "lang": "zh", "image": "data/images/v02_0166.jpg", "ground_truth": "听，那是黑夜之子的声音。", "has_watermark": false}
+{"id": "v02_0167", "video_id": "v02", "lang": "el", "image": "data/images/v02_0167.jpg", "ground_truth": "Άκου, τα παιδιά της νύχτας.", "has_watermark": false}
+{"id": "v02_0168", "video_id": "v02", "lang": "en", "image": "data/images/v02_0168.jpg", "ground_truth": "The blood is the life.", "has_watermark": true}
+{"id": "v02_0169", "video_id": "v02", "lang": "es", "image": "data/images/v02_0169.jpg", "ground_truth": "La sangre es la vida.", "has_watermark": false}
+{"id": "v02_0170", "video_id": "v02", "lang": "ja", "image": "data/images/v02_0170.jpg", "ground_truth": "血こそが命なんだ。", "has_watermark": false}
+{"id": "v02_0171", "video_id": "v02", "lang": "ko", "image": "data/images/v02_0171.jpg", "ground_truth": "피가 곧 생명이에요.", "has_watermark": false}
+{"id": "v02_0172", "video_id": "v02", "lang": "zh", "image": "data/images/v02_0172.jpg", "ground_truth": "我从不喝……酒。", "has_watermark": false}
+{"id": "v02_0173", "video_id": "v02", "lang": "el", "image": "data/images/v02_0173.jpg", "ground_truth": "Εγώ ποτέ δεν πίνω... κρασί.", "has_watermark": false}
+{"id": "v02_0174", "video_id": "v02", "lang": "en", "image": "data/images/v02_0174.jpg", "ground_truth": "Even a man who is pure of heart may fall to darkness.", "has_watermark": false}
+{"id": "v02_0175", "video_id": "v02", "lang": "es", "image": "data/images/v02_0175.jpg", "ground_truth": "Hasta un hombre puro puede caer en la oscuridad.", "has_watermark": true}
+{"id": "v02_0176", "video_id": "v02", "lang": "ja", "image": "data/images/v02_0176.jpg", "ground_truth": "純粋な心の持ち主でも闇に落ちることがある。", "has_watermark": false}
+{"id": "v02_0177", "video_id": "v02", "lang": "ko", "image": "data/images/v02_0177.jpg", "ground_truth": "순수한 사람도 어둠에 빠질 수 있어요.", "has_watermark": false}
+{"id": "v02_0178", "video_id": "v02", "lang": "zh", "image": "data/images/v02_0178.jpg", "ground_truth": "血就是生命。", "has_watermark": true}
+{"id": "v02_0179", "video_id": "v02", "lang": "el", "image": "data/images/v02_0179.jpg", "ground_truth": "Το αίμα είναι η ζωή.", "has_watermark": false}
+{"id": "v02_0180", "video_id": "v02", "lang": "en", "image": "data/images/v02_0180.jpg", "ground_truth": "It was a dark and stormy night.", "has_watermark": false}
+{"id": "v02_0181", "video_id": "v02", "lang": "es", "image": "data/images/v02_0181.jpg", "ground_truth": "Era una noche oscura y tormentosa.", "has_watermark": false}
+{"id": "v02_0182", "video_id": "v02", "lang": "ja", "image": "data/images/v02_0182.jpg", "ground_truth": "暗く嵐の夜だった。", "has_watermark": true}
+{"id": "v02_0183", "video_id": "v02", "lang": "ko", "image": "data/images/v02_0183.jpg", "ground_truth": "어둡고 폭풍우 치는 밤이었어요.", "has_watermark": false}
+{"id": "v02_0184", "video_id": "v02", "lang": "zh", "image": "data/images/v02_0184.jpg", "ground_truth": "再纯洁的人也可能坠入黑暗。", "has_watermark": false}
+{"id": "v02_0185", "video_id": "v02", "lang": "el", "image": "data/images/v02_0185.jpg", "ground_truth": "Ακόμα κι ένας αγνός άνθρωπος μπορεί να πέσει στο σκοτάδι.", "has_watermark": false}
+{"id": "v02_0186", "video_id": "v02", "lang": "en", "image": "data/images/v02_0186.jpg", "ground_truth": "I have created a monster, and I cannot control it.", "has_watermark": true}
+{"id": "v02_0187", "video_id": "v02", "lang": "es", "image": "data/images/v02_0187.jpg", "ground_truth": "He creado un monstruo y ya no puedo controlarlo.", "has_watermark": true}
+{"id": "v02_0188", "video_id": "v02", "lang": "ja", "image": "data/images/v02_0188.jpg", "ground_truth": "怪物を作ってしまった、もう制御できない。", "has_watermark": false}
+{"id": "v02_0189", "video_id": "v02", "lang": "ko", "image": "data/images/v02_0189.jpg", "ground_truth": "괴물을 만들었는데, 이제 통제가 안 돼요.", "has_watermark": false}
+{"id": "v02_0190", "video_id": "v02", "lang": "zh", "image": "data/images/v02_0190.jpg", "ground_truth": "那是一个黑暗又多雷雨的夜晚。", "has_watermark": false}
+{"id": "v02_0191", "video_id": "v02", "lang": "el", "image": "data/images/v02_0191.jpg", "ground_truth": "Ήταν μια σκοτεινή και θυελλώδης νύχτα.", "has_watermark": false}
+{"id": "v02_0192", "video_id": "v02", "lang": "en", "image": "data/images/v02_0192.jpg", "ground_truth": "Beware, for I am fearless, and therefore powerful.", "has_watermark": false}
+{"id": "v02_0193", "video_id": "v02", "lang": "es", "image": "data/images/v02_0193.jpg", "ground_truth": "Cuidado, porque no tengo miedo, y eso me hace poderoso.", "has_watermark": false}
+{"id": "v02_0194", "video_id": "v02", "lang": "ja", "image": "data/images/v02_0194.jpg", "ground_truth": "気をつけろ、私は恐れを知らない、だから強いんだ。", "has_watermark": false}
+{"id": "v02_0195", "video_id": "v02", "lang": "ko", "image": "data/images/v02_0195.jpg", "ground_truth": "조심해요, 저는 두려움이 없으니까요.", "has_watermark": true}
+{"id": "v02_0196", "video_id": "v02", "lang": "zh", "image": "data/images/v02_0196.jpg", "ground_truth": "我造出了一个怪物，如今已无法控制它。", "has_watermark": false}
+{"id": "v02_0197", "video_id": "v02", "lang": "el", "image": "data/images/v02_0197.jpg", "ground_truth": "Δημιούργησα ένα τέρας και δεν μπορώ πια να το ελέγξω.", "has_watermark": true}
+{"id": "v02_0198", "video_id": "v02", "lang": "en", "image": "data/images/v02_0198.jpg", "ground_truth": "There can be no life without pain.", "has_watermark": false}
+{"id": "v02_0199", "video_id": "v02", "lang": "es", "image": "data/images/v02_0199.jpg", "ground_truth": "No puede haber vida sin dolor.", "has_watermark": false}
+{"id": "v02_0200", "video_id": "v02", "lang": "ja", "image": "data/images/v02_0200.jpg", "ground_truth": "痛みのない人生なんてない。", "has_watermark": false}
+{"id": "v02_0201", "video_id": "v02", "lang": "ko", "image": "data/images/v02_0201.jpg", "ground_truth": "고통 없인 삶도 없어요.", "has_watermark": false}
+{"id": "v02_0202", "video_id": "v02", "lang": "zh", "image": "data/images/v02_0202.jpg", "ground_truth": "小心点，我天不怕地不怕，所以才强大。", "has_watermark": false}
+{"id": "v02_0203", "video_id": "v02", "lang": "el", "image": "data/images/v02_0203.jpg", "ground_truth": "Πρόσεχε, δεν φοβάμαι τίποτα, γι' αυτό είμαι δυνατός.", "has_watermark": false}
+{"id": "v02_0204", "video_id": "v02", "lang": "en", "image": "data/images/v02_0204.jpg", "ground_truth": "Nothing is impossible if you set your mind to it.", "has_watermark": false}
+{"id": "v02_0205", "video_id": "v02", "lang": "es", "image": "data/images/v02_0205.jpg", "ground_truth": "Nada es imposible si te lo propones.", "has_watermark": false}
+{"id": "v02_0206", "video_id": "v02", "lang": "ja", "image": "data/images/v02_0206.jpg", "ground_truth": "本気になれば不可能なんてない。", "has_watermark": true}
+{"id": "v02_0207", "video_id": "v02", "lang": "ko", "image": "data/images/v02_0207.jpg", "ground_truth": "마음만 먹으면 불가능한 건 없어요.", "has_watermark": false}
+{"id": "v02_0208", "video_id": "v02", "lang": "zh", "image": "data/images/v02_0208.jpg", "ground_truth": "没有痛苦，就没有真正的人生。", "has_watermark": false}
+{"id": "v02_0209", "video_id": "v02", "lang": "el", "image": "data/images/v02_0209.jpg", "ground_truth": "Δεν υπάρχει ζωή χωρίς πόνο.", "has_watermark": true}
+{"id": "v02_0210", "video_id": "v02", "lang": "en", "image": "data/images/v02_0210.jpg", "ground_truth": "The game is afoot.", "has_watermark": false}
+{"id": "v02_0211", "video_id": "v02", "lang": "es", "image": "data/images/v02_0211.jpg", "ground_truth": "El juego ha comenzado.", "has_watermark": false}
+{"id": "v02_0212", "video_id": "v02", "lang": "ja", "image": "data/images/v02_0212.jpg", "ground_truth": "勝負は始まった。", "has_watermark": false}
+{"id": "v02_0213", "video_id": "v02", "lang": "ko", "image": "data/images/v02_0213.jpg", "ground_truth": "게임이 시작됐어요.", "has_watermark": true}
+{"id": "v02_0214", "video_id": "v02", "lang": "zh", "image": "data/images/v02_0214.jpg", "ground_truth": "只要下定决心，没有什么不可能。", "has_watermark": false}
+{"id": "v02_0215", "video_id": "v02", "lang": "el", "image": "data/images/v02_0215.jpg", "ground_truth": "Τίποτα δεν είναι αδύνατο αν το θέλεις πραγματικά.", "has_watermark": false}
+{"id": "v02_0216", "video_id": "v02", "lang": "en", "image": "data/images/v02_0216.jpg", "ground_truth": "Elementary, my dear fellow.", "has_watermark": false}
+{"id": "v02_0217", "video_id": "v02", "lang": "es", "image": "data/images/v02_0217.jpg", "ground_truth": "Elemental, querido amigo.", "has_watermark": false}
+{"id": "v02_0218", "video_id": "v02", "lang": "ja", "image": "data/images/v02_0218.jpg", "ground_truth": "簡単なことだよ、君。", "has_watermark": false}
+{"id": "v02_0219", "video_id": "v02", "lang": "ko", "image": "data/images/v02_0219.jpg", "ground_truth": "간단해요, 친구.", "has_watermark": false}
+{"id": "v03_0000", "video_id": "v03", "lang": "en", "image": "data/images/v03_0000.jpg", "ground_truth": "When you eliminate the impossible, what remains must be true.", "has_watermark": false}
+{"id": "v03_0001", "video_id": "v03", "lang": "es", "image": "data/images/v03_0001.jpg", "ground_truth": "Cuando eliminas lo imposible, lo que queda es la verdad.", "has_watermark": false}
+{"id": "v03_0002", "video_id": "v03", "lang": "ja", "image": "data/images/v03_0002.jpg", "ground_truth": "不可能を除いていけば、残るのが真実だ。", "has_watermark": false}
+{"id": "v03_0003", "video_id": "v03", "lang": "ko", "image": "data/images/v03_0003.jpg", "ground_truth": "불가능한 걸 지우면 남는 게 진실이에요.", "has_watermark": false}
+{"id": "v03_0004", "video_id": "v03", "lang": "zh", "image": "data/images/v03_0004.jpg", "ground_truth": "游戏开始了。", "has_watermark": false}
+{"id": "v03_0005", "video_id": "v03", "lang": "el", "image": "data/images/v03_0005.jpg", "ground_truth": "Το παιχνίδι άρχισε.", "has_watermark": false}
+{"id": "v03_0006", "video_id": "v03", "lang": "en", "image": "data/images/v03_0006.jpg", "ground_truth": "I never guess. It is a shocking habit.", "has_watermark": false}
+{"id": "v03_0007", "video_id": "v03", "lang": "es", "image": "data/images/v03_0007.jpg", "ground_truth": "Nunca adivino. Es un hábito terrible.", "has_watermark": false}
+{"id": "v03_0008", "video_id": "v03", "lang": "ja", "image": "data/images/v03_0008.jpg", "ground_truth": "私は推測しない。それは悪い癖だ。", "has_watermark": false}
+{"id": "v03_0009", "video_id": "v03", "lang": "ko", "image": "data/images/v03_0009.jpg", "ground_truth": "저는 추측 안 해요, 그건 나쁜 버릇이죠.", "has_watermark": false}
+{"id": "v03_0010", "video_id": "v03", "lang": "zh", "image": "data/images/v03_0010.jpg", "ground_truth": "很简单，朋友。", "has_watermark": false}
+{"id": "v03_0011", "video_id": "v03", "lang": "el", "image": "data/images/v03_0011.jpg", "ground_truth": "Απλό, φίλε μου.", "has_watermark": true}
+{"id": "v03_0012", "video_id": "v03", "lang": "en", "image": "data/images/v03_0012.jpg", "ground_truth": "Data, data, data! I cannot make bricks without clay.", "has_watermark": false}
+{"id": "v03_0013", "video_id": "v03", "lang": "es", "image": "data/images/v03_0013.jpg", "ground_truth": "¡Datos, datos, datos! No puedo trabajar sin ellos.", "has_watermark": false}
+{"id": "v03_0014", "video_id": "v03", "lang": "ja", "image": "data/images/v03_0014.jpg", "ground_truth": "データだ、データがなければ何も作れない。", "has_watermark": true}
+{"id": "v03_0015", "video_id": "v03", "lang": "ko", "image": "data/images/v03_0015.jpg", "ground_truth": "자료가 있어야 뭘 만들죠.", "has_watermark": false}
+{"id": "v03_0016", "video_id": "v03", "lang": "zh", "image": "data/images/v03_0016.jpg", "ground_truth": "排除掉不可能的，剩下的就是真相。", "has_watermark": false}
+{"id": "v03_0017", "video_id": "v03", "lang": "el", "image": "data/images/v03_0017.jpg", "ground_truth": "Όταν αποκλείσεις το αδύνατο, ό,τι μένει είναι η αλήθεια.", "has_watermark": false}
+{"id": "v03_0018", "video_id": "v03", "lang": "en", "image": "data/images/v03_0018.jpg", "ground_truth": "I have often been wrong before.", "has_watermark": false}
+{"id": "v03_0019", "video_id": "v03", "lang": "es", "image": "data/images/v03_0019.jpg", "ground_truth": "Antes también me he equivocado muchas veces.", "has_watermark": false}
+{"id": "v03_0020", "video_id": "v03", "lang": "ja", "image": "data/images/v03_0020.jpg", "ground_truth": "私も以前は何度も間違えたよ。", "has_watermark": false}
+{"id": "v03_0021", "video_id": "v03", "lang": "ko", "image": "data/images/v03_0021.jpg", "ground_truth": "저도 예전에 자주 틀렸어요.", "has_watermark": false}
+{"id": "v03_0022", "video_id": "v03", "lang": "zh", "image": "data/images/v03_0022.jpg", "ground_truth": "我从不猜测，那是个坏习惯。", "has_watermark": false}
+{"id": "v03_0023", "video_id": "v03", "lang": "el", "image": "data/images/v03_0023.jpg", "ground_truth": "Ποτέ δεν μαντεύω, είναι κακή συνήθεια.", "has_watermark": false}
+{"id": "v03_0024", "video_id": "v03", "lang": "en", "image": "data/images/v03_0024.jpg", "ground_truth": "Time flies over us but leaves its shadow behind.", "has_watermark": false}
+{"id": "v03_0025", "video_id": "v03", "lang": "es", "image": "data/images/v03_0025.jpg", "ground_truth": "El tiempo pasa, pero deja su sombra.", "has_watermark": false}
+{"id": "v03_0026", "video_id": "v03", "lang": "ja", "image": "data/images/v03_0026.jpg", "ground_truth": "時は流れても、影を残していく。", "has_watermark": false}
+{"id": "v03_0027", "video_id": "v03", "lang": "ko", "image": "data/images/v03_0027.jpg", "ground_truth": "시간은 흘러가도 그림자를 남겨요.", "has_watermark": true}
+{"id": "v03_0028", "video_id": "v03", "lang": "zh", "image": "data/images/v03_0028.jpg", "ground_truth": "数据，数据，没有数据什么都做不出来。", "has_watermark": false}
+{"id": "v03_0029", "video_id": "v03", "lang": "el", "image": "data/images/v03_0029.jpg", "ground_truth": "Στοιχεία, χρειάζομαι στοιχεία για να δουλέψω.", "has_watermark": false}
+{"id": "v03_0030", "video_id": "v03", "lang": "en", "image": "data/images/v03_0030.jpg", "ground_truth": "A man's real possession is his memory.", "has_watermark": true}
+{"id": "v03_0031", "video_id": "v03", "lang": "es", "image": "data/images/v03_0031.jpg", "ground_truth": "La verdadera posesión de un hombre es su memoria.", "has_watermark": false}
+{"id": "v03_0032", "video_id": "v03", "lang": "ja", "image": "data/images/v03_0032.jpg", "ground_truth": "人の本当の財産は記憶なんだ。", "has_watermark": false}
+{"id": "v03_0033", "video_id": "v03", "lang": "ko", "image": "data/images/v03_0033.jpg", "ground_truth": "사람의 진짜 재산은 기억이에요.", "has_watermark": false}
+{"id": "v03_0034", "video_id": "v03", "lang": "zh", "image": "data/images/v03_0034.jpg", "ground_truth": "我以前也常常犯错。", "has_watermark": false}
+{"id": "v03_0035", "video_id": "v03", "lang": "el", "image": "data/images/v03_0035.jpg", "ground_truth": "Κι εγώ έχω κάνει λάθος πολλές φορές.", "has_watermark": false}
+{"id": "v03_0036", "video_id": "v03", "lang": "en", "image": "data/images/v03_0036.jpg", "ground_truth": "The future is still in your hands.", "has_watermark": false}
+{"id": "v03_0037", "video_id": "v03", "lang": "es", "image": "data/images/v03_0037.jpg", "ground_truth": "El futuro todavía está en tus manos.", "has_watermark": false}
+{"id": "v03_0038", "video_id": "v03", "lang": "ja", "image": "data/images/v03_0038.jpg", "ground_truth": "未来はまだ君の手の中にある。", "has_watermark": false}
+{"id": "v03_0039", "video_id": "v03", "lang": "ko", "image": "data/images/v03_0039.jpg", "ground_truth": "미래는 아직 당신 손에 있어요.", "has_watermark": false}
+{"id": "v03_0040", "video_id": "v03", "lang": "zh", "image": "data/images/v03_0040.jpg", "ground_truth": "时光流逝，却留下影子。", "has_watermark": true}
+{"id": "v03_0041", "video_id": "v03", "lang": "el", "image": "data/images/v03_0041.jpg", "ground_truth": "Ο χρόνος περνά, μα αφήνει τη σκιά του.", "has_watermark": false}
+{"id": "v03_0042", "video_id": "v03", "lang": "en", "image": "data/images/v03_0042.jpg", "ground_truth": "It is our choices that show who we truly are.", "has_watermark": true}
+{"id": "v03_0043", "video_id": "v03", "lang": "es", "image": "data/images/v03_0043.jpg", "ground_truth": "Son nuestras decisiones las que muestran quiénes somos.", "has_watermark": false}
+{"id": "v03_0044", "video_id": "v03", "lang": "ja", "image": "data/images/v03_0044.jpg", "ground_truth": "選択こそがその人を表すんだ。", "has_watermark": false}
+{"id": "v03_0045", "video_id": "v03", "lang": "ko", "image": "data/images/v03_0045.jpg", "ground_truth": "선택이 그 사람을 보여주는 거예요.", "has_watermark": false}
+{"id": "v03_0046", "video_id": "v03", "lang": "zh", "image": "data/images/v03_0046.jpg", "ground_truth": "一个人真正的财富是记忆。", "has_watermark": false}
+{"id": "v03_0047", "video_id": "v03", "lang": "el", "image": "data/images/v03_0047.jpg", "ground_truth": "Η αληθινή περιουσία ενός ανθρώπου είναι η μνήμη του.", "has_watermark": true}
+{"id": "v03_0048", "video_id": "v03", "lang": "en", "image": "data/images/v03_0048.jpg", "ground_truth": "There's no place like home, is there?", "has_watermark": false}
+{"id": "v03_0049", "video_id": "v03", "lang": "es", "image": "data/images/v03_0049.jpg", "ground_truth": "No hay lugar como el hogar, ¿verdad?", "has_watermark": false}
+{"id": "v03_0050", "video_id": "v03", "lang": "ja", "image": "data/images/v03_0050.jpg", "ground_truth": "やっぱり家に勝る場所はないね。", "has_watermark": true}
+{"id": "v03_0051", "video_id": "v03", "lang": "ko", "image": "data/images/v03_0051.jpg", "ground_truth": "역시 집만 한 곳이 없죠?", "has_watermark": true}
+{"id": "v03_0052", "video_id": "v03", "lang": "zh", "image": "data/images/v03_0052.jpg", "ground_truth": "未来依然掌握在你手中。", "has_watermark": false}
+{"id": "v03_0053", "video_id": "v03", "lang": "el", "image": "data/images/v03_0053.jpg", "ground_truth": "Το μέλλον είναι ακόμα στα χέρια σου.", "has_watermark": false}
+{"id": "v03_0054", "video_id": "v03", "lang": "en", "image": "data/images/v03_0054.jpg", "ground_truth": "I don't know half of you half as well as I should like.", "has_watermark": false}
+{"id": "v03_0055", "video_id": "v03", "lang": "es", "image": "data/images/v03_0055.jpg", "ground_truth": "No los conocía ni la mitad de lo que debería.", "has_watermark": false}
+{"id": "v03_0056", "video_id": "v03", "lang": "ja", "image": "data/images/v03_0056.jpg", "ground_truth": "君のことを半分も分かっていなかったよ。", "has_watermark": true}
+{"id": "v03_0057", "video_id": "v03", "lang": "ko", "image": "data/images/v03_0057.jpg", "ground_truth": "당신을 절반도 제대로 몰랐네요.", "has_watermark": true}
+{"id": "v03_0058", "video_id": "v03", "lang": "zh", "image": "data/images/v03_0058.jpg", "ground_truth": "选择才真正显示一个人是谁。", "has_watermark": false}
+{"id": "v03_0059", "video_id": "v03", "lang": "el", "image": "data/images/v03_0059.jpg", "ground_truth": "Οι επιλογές μας δείχνουν ποιοι πραγματικά είμαστε.", "has_watermark": false}
+{"id": "v03_0060", "video_id": "v03", "lang": "en", "image": "data/images/v03_0060.jpg", "ground_truth": "It's a dangerous business, going out your door.", "has_watermark": false}
+{"id": "v03_0061", "video_id": "v03", "lang": "es", "image": "data/images/v03_0061.jpg", "ground_truth": "Es peligroso salir por esa puerta.", "has_watermark": false}
+{"id": "v03_0062", "video_id": "v03", "lang": "ja", "image": "data/images/v03_0062.jpg", "ground_truth": "扉を出るのはいつだって危険なことだ。", "has_watermark": false}
+{"id": "v03_0063", "video_id": "v03", "lang": "ko", "image": "data/images/v03_0063.jpg", "ground_truth": "문을 나서는 건 늘 위험한 일이에요.", "has_watermark": false}
+{"id": "v03_0064", "video_id": "v03", "lang": "zh", "image": "data/images/v03_0064.jpg", "ground_truth": "还是家里最好，不是吗？", "has_watermark": true}
+{"id": "v03_0065", "video_id": "v03", "lang": "el", "image": "data/images/v03_0065.jpg", "ground_truth": "Πουθενά σαν το σπίτι, έτσι δεν είναι;", "has_watermark": false}
+{"id": "v03_0066", "video_id": "v03", "lang": "en", "image": "data/images/v03_0066.jpg", "ground_truth": "All we have to decide is what to do with the time given us.", "has_watermark": false}
+{"id": "v03_0067", "video_id": "v03", "lang": "es", "image": "data/images/v03_0067.jpg", "ground_truth": "Solo podemos decidir qué hacer con el tiempo que tenemos.", "has_watermark": false}
+{"id": "v03_0068", "video_id": "v03", "lang": "ja", "image": "data/images/v03_0068.jpg", "ground_truth": "決められるのは、与えられた時間をどう使うかだけだ。", "has_watermark": false}
+{"id": "v03_0069", "video_id": "v03", "lang": "ko", "image": "data/images/v03_0069.jpg", "ground_truth": "우리가 정할 수 있는 건 주어진 시간을 어떻게 쓰느냐예요.", "has_watermark": false}
+{"id": "v03_0070", "video_id": "v03", "lang": "zh", "image": "data/images/v03_0070.jpg", "ground_truth": "我对你的了解还不到一半。", "has_watermark": false}
+{"id": "v03_0071", "video_id": "v03", "lang": "el", "image": "data/images/v03_0071.jpg", "ground_truth": "Δεν σε ήξερα ούτε στο μισό όσο έπρεπε.", "has_watermark": true}
+{"id": "v03_0072", "video_id": "v03", "lang": "en", "image": "data/images/v03_0072.jpg", "ground_truth": "Not all who wander are lost.", "has_watermark": true}
+{"id": "v03_0073", "video_id": "v03", "lang": "es", "image": "data/images/v03_0073.jpg", "ground_truth": "No todo el que vaga está perdido.", "has_watermark": false}
+{"id": "v03_0074", "video_id": "v03", "lang": "ja", "image": "data/images/v03_0074.jpg", "ground_truth": "さまよう者がみな迷っているわけじゃない。", "has_watermark": false}
+{"id": "v03_0075", "video_id": "v03", "lang": "ko", "image": "data/images/v03_0075.jpg", "ground_truth": "떠도는 자가 다 길을 잃은 건 아니에요.", "has_watermark": false}
+{"id": "v03_0076", "video_id": "v03", "lang": "zh", "image": "data/images/v03_0076.jpg", "ground_truth": "出门在外总是危险的。", "has_watermark": false}
+{"id": "v03_0077", "video_id": "v03", "lang": "el", "image": "data/images/v03_0077.jpg", "ground_truth": "Είναι επικίνδυνο να βγαίνεις απ' την πόρτα σου.", "has_watermark": false}
+{"id": "v03_0078", "video_id": "v03", "lang": "en", "image": "data/images/v03_0078.jpg", "ground_truth": "Even the smallest person can change the course of things.", "has_watermark": false}
+{"id": "v03_0079", "video_id": "v03", "lang": "es", "image": "data/images/v03_0079.jpg", "ground_truth": "Hasta la persona más pequeña puede cambiar el rumbo de las cosas.", "has_watermark": false}
+{"id": "v03_0080", "video_id": "v03", "lang": "ja", "image": "data/images/v03_0080.jpg", "ground_truth": "どんなに小さな者でも流れを変えられる。", "has_watermark": false}
+{"id": "v03_0081", "video_id": "v03", "lang": "ko", "image": "data/images/v03_0081.jpg", "ground_truth": "아무리 작은 사람도 흐름을 바꿀 수 있어요.", "has_watermark": false}
+{"id": "v03_0082", "video_id": "v03", "lang": "zh", "image": "data/images/v03_0082.jpg", "ground_truth": "我们能决定的，只是如何使用被给予的时间。", "has_watermark": false}
+{"id": "v03_0083", "video_id": "v03", "lang": "el", "image": "data/images/v03_0083.jpg", "ground_truth": "Το μόνο που αποφασίζουμε είναι τι θα κάνουμε με τον χρόνο μας.", "has_watermark": false}
+{"id": "v03_0084", "video_id": "v03", "lang": "en", "image": "data/images/v03_0084.jpg", "ground_truth": "The night is dark and full of secrets.", "has_watermark": true}
+{"id": "v03_0085", "video_id": "v03", "lang": "es", "image": "data/images/v03_0085.jpg", "ground_truth": "La noche es oscura y está llena de secretos.", "has_watermark": false}
+{"id": "v03_0086", "video_id": "v03", "lang": "ja", "image": "data/images/v03_0086.jpg", "ground_truth": "夜は暗く、秘密に満ちている。", "has_watermark": false}
+{"id": "v03_0087", "video_id": "v03", "lang": "ko", "image": "data/images/v03_0087.jpg", "ground_truth": "밤은 어둡고 비밀로 가득해요.", "has_watermark": false}
+{"id": "v03_0088", "video_id": "v03", "lang": "zh", "image": "data/images/v03_0088.jpg", "ground_truth": "流浪的人未必都迷了路。", "has_watermark": false}
+{"id": "v03_0089", "video_id": "v03", "lang": "el", "image": "data/images/v03_0089.jpg", "ground_truth": "Δεν χάνονται όλοι όσοι περιπλανιούνται.", "has_watermark": true}
+{"id": "v03_0090", "video_id": "v03", "lang": "en", "image": "data/images/v03_0090.jpg", "ground_truth": "Speak softly and carry a big stick.", "has_watermark": false}
+{"id": "v03_0091", "video_id": "v03", "lang": "es", "image": "data/images/v03_0091.jpg", "ground_truth": "Habla con calma y actúa con firmeza.", "has_watermark": false}
+{"id": "v03_0092", "video_id": "v03", "lang": "ja", "image": "data/images/v03_0092.jpg", "ground_truth": "静かに話し、大きく行動しろ。", "has_watermark": false}
+{"id": "v03_0093", "video_id": "v03", "lang": "ko", "image": "data/images/v03_0093.jpg", "ground_truth": "조용히 말하고 크게 행동해요.", "has_watermark": false}
+{"id": "v03_0094", "video_id": "v03", "lang": "zh", "image": "data/images/v03_0094.jpg", "ground_truth": "再渺小的人也能改变局势。", "has_watermark": false}
+{"id": "v03_0095", "video_id": "v03", "lang": "el", "image": "data/images/v03_0095.jpg", "ground_truth": "Ακόμα κι ο πιο μικρός μπορεί ν' αλλάξει την πορεία των πραγμάτων.", "has_watermark": false}
+{"id": "v03_0096", "video_id": "v03", "lang": "en", "image": "data/images/v03_0096.jpg", "ground_truth": "Fortune favors the bold.", "has_watermark": true}
+{"id": "v03_0097", "video_id": "v03", "lang": "es", "image": "data/images/v03_0097.jpg", "ground_truth": "La fortuna favorece a los valientes.", "has_watermark": true}
+{"id": "v03_0098", "video_id": "v03", "lang": "ja", "image": "data/images/v03_0098.jpg", "ground_truth": "幸運は勇者に味方する。", "has_watermark": false}
+{"id": "v03_0099", "video_id": "v03", "lang": "ko", "image": "data/images/v03_0099.jpg", "ground_truth": "용기 있는 자에게 행운이 따라요.", "has_watermark": true}
+{"id": "v03_0100", "video_id": "v03", "lang": "zh", "image": "data/images/v03_0100.jpg", "ground_truth": "夜色深沉，藏着无数秘密。", "has_watermark": false}
+{"id": "v03_0101", "video_id": "v03", "lang": "el", "image": "data/images/v03_0101.jpg", "ground_truth": "Η νύχτα είναι σκοτεινή και γεμάτη μυστικά.", "has_watermark": false}
+{"id": "v03_0102", "video_id": "v03", "lang": "en", "image": "data/images/v03_0102.jpg", "ground_truth": "Adventure is out there, waiting.", "has_watermark": false}
+{"id": "v03_0103", "video_id": "v03", "lang": "es", "image": "data/images/v03_0103.jpg", "ground_truth": "La aventura está ahí afuera, esperando.", "has_watermark": false}
+{"id": "v03_0104", "video_id": "v03", "lang": "ja", "image": "data/images/v03_0104.jpg", "ground_truth": "冒険はあそこで待っている。", "has_watermark": false}
+{"id": "v03_0105", "video_id": "v03", "lang": "ko", "image": "data/images/v03_0105.jpg", "ground_truth": "모험은 저 밖에서 기다리고 있어요.", "has_watermark": false}
+{"id": "v03_0106", "video_id": "v03", "lang": "zh", "image": "data/images/v03_0106.jpg", "ground_truth": "说话要轻，行动要有力。", "has_watermark": false}
+{"id": "v03_0107", "video_id": "v03", "lang": "el", "image": "data/images/v03_0107.jpg", "ground_truth": "Μίλα ήσυχα, δράσε δυνατά.", "has_watermark": false}
+{"id": "v03_0108", "video_id": "v03", "lang": "en", "image": "data/images/v03_0108.jpg", "ground_truth": "Some day you will be old enough to start reading fairy tales again.", "has_watermark": false}
+{"id": "v03_0109", "video_id": "v03", "lang": "es", "image": "data/images/v03_0109.jpg", "ground_truth": "Algún día tendrás edad para volver a leer cuentos de hadas.", "has_watermark": true}
+{"id": "v03_0110", "video_id": "v03", "lang": "ja", "image": "data/images/v03_0110.jpg", "ground_truth": "いつかまた、おとぎ話を読める歳になるよ。", "has_watermark": true}
+{"id": "v03_0111", "video_id": "v03", "lang": "ko", "image": "data/images/v03_0111.jpg", "ground_truth": "언젠가 다시 동화를 읽을 나이가 될 거예요.", "has_watermark": true}
+{"id": "v03_0112", "video_id": "v03", "lang": "zh", "image": "data/images/v03_0112.jpg", "ground_truth": "幸运总是眷顾勇敢的人。", "has_watermark": false}
+{"id": "v03_0113", "video_id": "v03", "lang": "el", "image": "data/images/v03_0113.jpg", "ground_truth": "Η τύχη ευνοεί τους τολμηρούς.", "has_watermark": true}
+{"id": "v03_0114", "video_id": "v03", "lang": "en", "image": "data/images/v03_0114.jpg", "ground_truth": "It always seems impossible until it's done.", "has_watermark": false}
+{"id": "v03_0115", "video_id": "v03", "lang": "es", "image": "data/images/v03_0115.jpg", "ground_truth": "Siempre parece imposible hasta que se logra.", "has_watermark": false}
+{"id": "v03_0116", "video_id": "v03", "lang": "ja", "image": "data/images/v03_0116.jpg", "ground_truth": "終わるまではいつも不可能に思えるものだ。", "has_watermark": false}
+{"id": "v03_0117", "video_id": "v03", "lang": "ko", "image": "data/images/v03_0117.jpg", "ground_truth": "다 되고 나면 항상 쉬워 보이죠.", "has_watermark": false}
+{"id": "v03_0118", "video_id": "v03", "lang": "zh", "image": "data/images/v03_0118.jpg", "ground_truth": "冒险就在外面等着呢。", "has_watermark": false}
+{"id": "v03_0119", "video_id": "v03", "lang": "el", "image": "data/images/v03_0119.jpg", "ground_truth": "Η περιπέτεια περιμένει εκεί έξω.", "has_watermark": false}
+{"id": "v03_0120", "video_id": "v03", "lang": "en", "image": "data/images/v03_0120.jpg", "ground_truth": "Whatever you are, be a good one.", "has_watermark": false}
+{"id": "v03_0121", "video_id": "v03", "lang": "es", "image": "data/images/v03_0121.jpg", "ground_truth": "Seas lo que seas, sé bueno en ello.", "has_watermark": false}
+{"id": "v03_0122", "video_id": "v03", "lang": "ja", "image": "data/images/v03_0122.jpg", "ground_truth": "何になるにせよ、いいものになれ。", "has_watermark": false}
+{"id": "v03_0123", "video_id": "v03", "lang": "ko", "image": "data/images/v03_0123.jpg", "ground_truth": "뭐가 됐든, 제대로 된 사람이 되세요.", "has_watermark": false}
+{"id": "v03_0124", "video_id": "v03", "lang": "zh", "image": "data/images/v03_0124.jpg", "ground_truth": "总有一天你会重新爱上童话。", "has_watermark": false}
+{"id": "v03_0125", "video_id": "v03", "lang": "el", "image": "data/images/v03_0125.jpg", "ground_truth": "Κάποια μέρα θα είσαι έτοιμος να διαβάσεις ξανά παραμύθια.", "has_watermark": true}
+{"id": "v03_0126", "video_id": "v03", "lang": "en", "image": "data/images/v03_0126.jpg", "ground_truth": "The best way out is always through.", "has_watermark": false}
+{"id": "v03_0127", "video_id": "v03", "lang": "es", "image": "data/images/v03_0127.jpg", "ground_truth": "La mejor salida siempre es seguir adelante.", "has_watermark": false}
+{"id": "v03_0128", "video_id": "v03", "lang": "ja", "image": "data/images/v03_0128.jpg", "ground_truth": "抜け出す一番の方法は、突き進むことだ。", "has_watermark": false}
+{"id": "v03_0129", "video_id": "v03", "lang": "ko", "image": "data/images/v03_0129.jpg", "ground_truth": "빠져나가는 가장 좋은 방법은 그냥 뚫고 가는 거예요.", "has_watermark": false}
+{"id": "v03_0130", "video_id": "v03", "lang": "zh", "image": "data/images/v03_0130.jpg", "ground_truth": "事情做成之前，总看起来不可能。", "has_watermark": false}
+{"id": "v03_0131", "video_id": "v03", "lang": "el", "image": "data/images/v03_0131.jpg", "ground_truth": "Πάντα φαίνεται αδύνατο, μέχρι να γίνει.", "has_watermark": false}
+{"id": "v03_0132", "video_id": "v03", "lang": "en", "image": "data/images/v03_0132.jpg", "ground_truth": "You see, but you do not observe.", "has_watermark": false}
+{"id": "v03_0133", "video_id": "v03", "lang": "es", "image": "data/images/v03_0133.jpg", "ground_truth": "Usted ve, pero no observa.", "has_watermark": false}
+{"id": "v03_0134", "video_id": "v03", "lang": "ja", "image": "data/images/v03_0134.jpg", "ground_truth": "見てはいるが、観察はしていないね。", "has_watermark": true}
+{"id": "v03_0135", "video_id": "v03", "lang": "ko", "image": "data/images/v03_0135.jpg", "ground_truth": "보긴 하지만 관찰은 안 하는군요.", "has_watermark": true}
+{"id": "v03_0136", "video_id": "v03", "lang": "zh", "image": "data/images/v03_0136.jpg", "ground_truth": "无论做什么，都要做到最好。", "has_watermark": false}
+{"id": "v03_0137", "video_id": "v03", "lang": "el", "image": "data/images/v03_0137.jpg", "ground_truth": "Ό,τι κι αν είσαι, γίνε καλός σε αυτό.", "has_watermark": false}
+{"id": "v03_0138", "video_id": "v03", "lang": "en", "image": "data/images/v03_0138.jpg", "ground_truth": "It's quite simple, once you know how.", "has_watermark": false}
+{"id": "v03_0139", "video_id": "v03", "lang": "es", "image": "data/images/v03_0139.jpg", "ground_truth": "Es bastante simple, una vez que sabes cómo.", "has_watermark": false}
+{"id": "v03_0140", "video_id": "v03", "lang": "ja", "image": "data/images/v03_0140.jpg", "ground_truth": "コツさえ分かれば簡単さ。", "has_watermark": false}
+{"id": "v03_0141", "video_id": "v03", "lang": "ko", "image": "data/images/v03_0141.jpg", "ground_truth": "알고 나면 아주 간단한 거예요.", "has_watermark": false}
+{"id": "v03_0142", "video_id": "v03", "lang": "zh", "image": "data/images/v03_0142.jpg", "ground_truth": "脱身的最好办法，就是一直往前走。", "has_watermark": false}
+{"id": "v03_0143", "video_id": "v03", "lang": "el", "image": "data/images/v03_0143.jpg", "ground_truth": "Ο καλύτερος τρόπος να βγεις είναι να προχωρήσεις.", "has_watermark": true}
+{"id": "v03_0144", "video_id": "v03", "lang": "en", "image": "data/images/v03_0144.jpg", "ground_truth": "There's no use trying, that's impossible.", "has_watermark": false}
+{"id": "v03_0145", "video_id": "v03", "lang": "es", "image": "data/images/v03_0145.jpg", "ground_truth": "No sirve de nada intentarlo, es imposible.", "has_watermark": false}
+{"id": "v03_0146", "video_id": "v03", "lang": "ja", "image": "data/images/v03_0146.jpg", "ground_truth": "無駄だよ、それは不可能だ。", "has_watermark": false}
+{"id": "v03_0147", "video_id": "v03", "lang": "ko", "image": "data/images/v03_0147.jpg", "ground_truth": "그건 불가능해요, 소용없어요.", "has_watermark": false}
+{"id": "v03_0148", "video_id": "v03", "lang": "zh", "image": "data/images/v03_0148.jpg", "ground_truth": "你只是看，却没有观察。", "has_watermark": false}
+{"id": "v03_0149", "video_id": "v03", "lang": "el", "image": "data/images/v03_0149.jpg", "ground_truth": "Βλέπεις, αλλά δεν παρατηρείς.", "has_watermark": false}
+{"id": "v03_0150", "video_id": "v03", "lang": "en", "image": "data/images/v03_0150.jpg", "ground_truth": "Curiouser and curiouser!", "has_watermark": false}
+{"id": "v03_0151", "video_id": "v03", "lang": "es", "image": "data/images/v03_0151.jpg", "ground_truth": "¡Cada vez más raro!", "has_watermark": false}
+{"id": "v03_0152", "video_id": "v03", "lang": "ja", "image": "data/images/v03_0152.jpg", "ground_truth": "ますます不思議になっていく！", "has_watermark": false}
+{"id": "v03_0153", "video_id": "v03", "lang": "ko", "image": "data/images/v03_0153.jpg", "ground_truth": "점점 더 이상해지네!", "has_watermark": false}
+{"id": "v03_0154", "video_id": "v03", "lang": "zh", "image": "data/images/v03_0154.jpg", "ground_truth": "知道方法之后其实很简单。", "has_watermark": false}
+{"id": "v03_0155", "video_id": "v03", "lang": "el", "image": "data/images/v03_0155.jpg", "ground_truth": "Είναι απλό, αρκεί να ξέρεις πώς.", "has_watermark": false}
+{"id": "v03_0156", "video_id": "v03", "lang": "en", "image": "data/images/v03_0156.jpg", "ground_truth": "Who in the world am I?", "has_watermark": true}
+{"id": "v03_0157", "video_id": "v03", "lang": "es", "image": "data/images/v03_0157.jpg", "ground_truth": "¿Quién demonios soy yo?", "has_watermark": false}
+{"id": "v03_0158", "video_id": "v03", "lang": "ja", "image": "data/images/v03_0158.jpg", "ground_truth": "私はいったい誰なの？", "has_watermark": false}
+{"id": "v03_0159", "video_id": "v03", "lang": "ko", "image": "data/images/v03_0159.jpg", "ground_truth": "도대체 나는 누구지?", "has_watermark": true}

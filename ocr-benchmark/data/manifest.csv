@@ -1,0 +1,601 @@
+id,video_id,lang,image,ground_truth,has_watermark
+v01_0000,v01,en,data/images/v01_0000.jpg,"You see, but you do not observe.",False
+v01_0001,v01,es,data/images/v01_0001.jpg,"Usted ve, pero no observa.",False
+v01_0002,v01,ja,data/images/v01_0002.jpg,見てはいるが、観察はしていないね。,False
+v01_0003,v01,ko,data/images/v01_0003.jpg,보긴 하지만 관찰은 안 하는군요.,False
+v01_0004,v01,zh,data/images/v01_0004.jpg,你只是看，却没有观察。,False
+v01_0005,v01,el,data/images/v01_0005.jpg,"Βλέπεις, αλλά δεν παρατηρείς.",False
+v01_0006,v01,en,data/images/v01_0006.jpg,"It's quite simple, once you know how.",False
+v01_0007,v01,es,data/images/v01_0007.jpg,"Es bastante simple, una vez que sabes cómo.",False
+v01_0008,v01,ja,data/images/v01_0008.jpg,コツさえ分かれば簡単さ。,False
+v01_0009,v01,ko,data/images/v01_0009.jpg,알고 나면 아주 간단한 거예요.,True
+v01_0010,v01,zh,data/images/v01_0010.jpg,知道方法之后其实很简单。,True
+v01_0011,v01,el,data/images/v01_0011.jpg,"Είναι απλό, αρκεί να ξέρεις πώς.",False
+v01_0012,v01,en,data/images/v01_0012.jpg,"There's no use trying, that's impossible.",False
+v01_0013,v01,es,data/images/v01_0013.jpg,"No sirve de nada intentarlo, es imposible.",False
+v01_0014,v01,ja,data/images/v01_0014.jpg,無駄だよ、それは不可能だ。,False
+v01_0015,v01,ko,data/images/v01_0015.jpg,"그건 불가능해요, 소용없어요.",False
+v01_0016,v01,zh,data/images/v01_0016.jpg,别白费力气了，那不可能。,True
+v01_0017,v01,el,data/images/v01_0017.jpg,"Δεν έχει νόημα, είναι αδύνατο.",True
+v01_0018,v01,en,data/images/v01_0018.jpg,Curiouser and curiouser!,False
+v01_0019,v01,es,data/images/v01_0019.jpg,¡Cada vez más raro!,True
+v01_0020,v01,ja,data/images/v01_0020.jpg,ますます不思議になっていく！,False
+v01_0021,v01,ko,data/images/v01_0021.jpg,점점 더 이상해지네!,True
+v01_0022,v01,zh,data/images/v01_0022.jpg,越来越奇怪了！,True
+v01_0023,v01,el,data/images/v01_0023.jpg,Όλο και πιο περίεργο!,True
+v01_0024,v01,en,data/images/v01_0024.jpg,Who in the world am I?,False
+v01_0025,v01,es,data/images/v01_0025.jpg,¿Quién demonios soy yo?,False
+v01_0026,v01,ja,data/images/v01_0026.jpg,私はいったい誰なの？,False
+v01_0027,v01,ko,data/images/v01_0027.jpg,도대체 나는 누구지?,False
+v01_0028,v01,zh,data/images/v01_0028.jpg,我到底是谁？,False
+v01_0029,v01,el,data/images/v01_0029.jpg,Ποια είμαι επιτέλους εγώ;,False
+v01_0030,v01,en,data/images/v01_0030.jpg,We're all mad here.,False
+v01_0031,v01,es,data/images/v01_0031.jpg,Aquí todos estamos locos.,True
+v01_0032,v01,ja,data/images/v01_0032.jpg,ここではみんな狂ってるよ。,False
+v01_0033,v01,ko,data/images/v01_0033.jpg,여긴 다 미쳤어요.,False
+v01_0034,v01,zh,data/images/v01_0034.jpg,这里的人都疯了。,False
+v01_0035,v01,el,data/images/v01_0035.jpg,Εδώ όλοι είναι τρελοί.,False
+v01_0036,v01,en,data/images/v01_0036.jpg,It is a truth universally acknowledged.,False
+v01_0037,v01,es,data/images/v01_0037.jpg,Es una verdad reconocida por todos.,False
+v01_0038,v01,ja,data/images/v01_0038.jpg,それは誰もが認める真実だ。,False
+v01_0039,v01,ko,data/images/v01_0039.jpg,그건 누구나 아는 진실이죠.,False
+v01_0040,v01,zh,data/images/v01_0040.jpg,这是人人都承认的真理。,False
+v01_0041,v01,el,data/images/v01_0041.jpg,Είναι μια αλήθεια που όλοι αποδέχονται.,False
+v01_0042,v01,en,data/images/v01_0042.jpg,I could not tell you what I really think.,True
+v01_0043,v01,es,data/images/v01_0043.jpg,No podría decirte lo que realmente pienso.,False
+v01_0044,v01,ja,data/images/v01_0044.jpg,本当の気持ちは言葉にできない。,False
+v01_0045,v01,ko,data/images/v01_0045.jpg,내 진심은 말로 다 못해요.,False
+v01_0046,v01,zh,data/images/v01_0046.jpg,我说不出自己真正的想法。,False
+v01_0047,v01,el,data/images/v01_0047.jpg,Δεν μπορώ να πω τι πραγματικά σκέφτομαι.,False
+v01_0048,v01,en,data/images/v01_0048.jpg,Vanity and pride are different things.,True
+v01_0049,v01,es,data/images/v01_0049.jpg,La vanidad y el orgullo son cosas distintas.,False
+v01_0050,v01,ja,data/images/v01_0050.jpg,虚栄心とプライドは別物だよ。,False
+v01_0051,v01,ko,data/images/v01_0051.jpg,허영이랑 자존심은 다른 거예요.,False
+v01_0052,v01,zh,data/images/v01_0052.jpg,虚荣和自尊是两回事。,False
+v01_0053,v01,el,data/images/v01_0053.jpg,Η ματαιοδοξία κι η υπερηφάνεια είναι διαφορετικά πράγματα.,False
+v01_0054,v01,en,data/images/v01_0054.jpg,I have been in a dream all afternoon.,False
+v01_0055,v01,es,data/images/v01_0055.jpg,He estado como en un sueño toda la tarde.,False
+v01_0056,v01,ja,data/images/v01_0056.jpg,午後じゅう夢の中にいたみたい。,False
+v01_0057,v01,ko,data/images/v01_0057.jpg,오후 내내 꿈속에 있었던 것 같아요.,False
+v01_0058,v01,zh,data/images/v01_0058.jpg,整个下午我都像在做梦。,True
+v01_0059,v01,el,data/images/v01_0059.jpg,Ήμουν σαν σε όνειρο όλο το απόγευμα.,False
+v01_0060,v01,en,data/images/v01_0060.jpg,"It was the best of times, it was the worst of times.",False
+v01_0061,v01,es,data/images/v01_0061.jpg,"Era el mejor de los tiempos, era el peor de los tiempos.",False
+v01_0062,v01,ja,data/images/v01_0062.jpg,最良の時代であり、最悪の時代でもあった。,True
+v01_0063,v01,ko,data/images/v01_0063.jpg,"최고의 시절이자, 최악의 시절이었죠.",False
+v01_0064,v01,zh,data/images/v01_0064.jpg,那是最好的时代，也是最坏的时代。,False
+v01_0065,v01,el,data/images/v01_0065.jpg,"Ήταν η καλύτερη εποχή, ήταν η χειρότερη εποχή.",False
+v01_0066,v01,en,data/images/v01_0066.jpg,"God bless us, every one.",False
+v01_0067,v01,es,data/images/v01_0067.jpg,Que Dios nos bendiga a todos.,False
+v01_0068,v01,ja,data/images/v01_0068.jpg,みんなに神の祝福を。,False
+v01_0069,v01,ko,data/images/v01_0069.jpg,모두에게 신의 축복이 있기를.,False
+v01_0070,v01,zh,data/images/v01_0070.jpg,愿上帝保佑我们每一个人。,False
+v01_0071,v01,el,data/images/v01_0071.jpg,Ο Θεός να μας ευλογεί όλους.,False
+v01_0072,v01,en,data/images/v01_0072.jpg,I will honor Christmas in my heart.,False
+v01_0073,v01,es,data/images/v01_0073.jpg,Guardaré la Navidad en mi corazón.,False
+v01_0074,v01,ja,data/images/v01_0074.jpg,心の中でクリスマスを大切にするよ。,False
+v01_0075,v01,ko,data/images/v01_0075.jpg,마음속으로 크리스마스를 기억할게요.,True
+v01_0076,v01,zh,data/images/v01_0076.jpg,我会把圣诞节永远放在心里。,False
+v01_0077,v01,el,data/images/v01_0077.jpg,Θα κρατήσω τα Χριστούγεννα στην καρδιά μου.,False
+v01_0078,v01,en,data/images/v01_0078.jpg,Are there no prisons? No workhouses?,False
+v01_0079,v01,es,data/images/v01_0079.jpg,¿No hay cárceles? ¿No hay asilos?,False
+v01_0080,v01,ja,data/images/v01_0080.jpg,刑務所も救貧院もないのか？,False
+v01_0081,v01,ko,data/images/v01_0081.jpg,감옥도 없나요? 구빈원도 없어요?,False
+v01_0082,v01,zh,data/images/v01_0082.jpg,难道没有监狱？没有济贫院吗？,False
+v01_0083,v01,el,data/images/v01_0083.jpg,Δεν υπάρχουν φυλακές; Δεν υπάρχουν άσυλα;,False
+v01_0084,v01,en,data/images/v01_0084.jpg,"Welcome to my house. Enter freely, of your own will.",False
+v01_0085,v01,es,data/images/v01_0085.jpg,Bienvenido a mi casa. Entre por su propia voluntad.,False
+v01_0086,v01,ja,data/images/v01_0086.jpg,ようこそ、私の家へ。自由に入っておくれ。,False
+v01_0087,v01,ko,data/images/v01_0087.jpg,제 집에 오신 걸 환영합니다. 마음대로 들어오세요.,False
+v01_0088,v01,zh,data/images/v01_0088.jpg,欢迎来到我家，请自由进入。,False
+v01_0089,v01,el,data/images/v01_0089.jpg,Καλώς ήρθες στο σπίτι μου. Πέρασε ελεύθερα.,False
+v01_0090,v01,en,data/images/v01_0090.jpg,"Listen to them, the children of the night.",True
+v01_0091,v01,es,data/images/v01_0091.jpg,"Escuche eso, los hijos de la noche.",False
+v01_0092,v01,ja,data/images/v01_0092.jpg,聞こえるかい、あれが夜の子たちの声だ。,True
+v01_0093,v01,ko,data/images/v01_0093.jpg,저 소리 들려요? 밤의 아이들이에요.,False
+v01_0094,v01,zh,data/images/v01_0094.jpg,听，那是黑夜之子的声音。,True
+v01_0095,v01,el,data/images/v01_0095.jpg,"Άκου, τα παιδιά της νύχτας.",False
+v01_0096,v01,en,data/images/v01_0096.jpg,I never drink... wine.,False
+v01_0097,v01,es,data/images/v01_0097.jpg,Yo nunca bebo... vino.,False
+v01_0098,v01,ja,data/images/v01_0098.jpg,私はワインを…飲まないんだ。,False
+v01_0099,v01,ko,data/images/v01_0099.jpg,저는 와인을... 마시지 않아요.,False
+v01_0100,v01,zh,data/images/v01_0100.jpg,我从不喝……酒。,False
+v01_0101,v01,el,data/images/v01_0101.jpg,Εγώ ποτέ δεν πίνω... κρασί.,False
+v01_0102,v01,en,data/images/v01_0102.jpg,The blood is the life.,False
+v01_0103,v01,es,data/images/v01_0103.jpg,La sangre es la vida.,True
+v01_0104,v01,ja,data/images/v01_0104.jpg,血こそが命なんだ。,True
+v01_0105,v01,ko,data/images/v01_0105.jpg,피가 곧 생명이에요.,False
+v01_0106,v01,zh,data/images/v01_0106.jpg,血就是生命。,False
+v01_0107,v01,el,data/images/v01_0107.jpg,Το αίμα είναι η ζωή.,False
+v01_0108,v01,en,data/images/v01_0108.jpg,Even a man who is pure of heart may fall to darkness.,False
+v01_0109,v01,es,data/images/v01_0109.jpg,Hasta un hombre puro puede caer en la oscuridad.,False
+v01_0110,v01,ja,data/images/v01_0110.jpg,純粋な心の持ち主でも闇に落ちることがある。,False
+v01_0111,v01,ko,data/images/v01_0111.jpg,순수한 사람도 어둠에 빠질 수 있어요.,False
+v01_0112,v01,zh,data/images/v01_0112.jpg,再纯洁的人也可能坠入黑暗。,False
+v01_0113,v01,el,data/images/v01_0113.jpg,Ακόμα κι ένας αγνός άνθρωπος μπορεί να πέσει στο σκοτάδι.,False
+v01_0114,v01,en,data/images/v01_0114.jpg,It was a dark and stormy night.,False
+v01_0115,v01,es,data/images/v01_0115.jpg,Era una noche oscura y tormentosa.,False
+v01_0116,v01,ja,data/images/v01_0116.jpg,暗く嵐の夜だった。,True
+v01_0117,v01,ko,data/images/v01_0117.jpg,어둡고 폭풍우 치는 밤이었어요.,False
+v01_0118,v01,zh,data/images/v01_0118.jpg,那是一个黑暗又多雷雨的夜晚。,False
+v01_0119,v01,el,data/images/v01_0119.jpg,Ήταν μια σκοτεινή και θυελλώδης νύχτα.,False
+v01_0120,v01,en,data/images/v01_0120.jpg,"I have created a monster, and I cannot control it.",False
+v01_0121,v01,es,data/images/v01_0121.jpg,He creado un monstruo y ya no puedo controlarlo.,False
+v01_0122,v01,ja,data/images/v01_0122.jpg,怪物を作ってしまった、もう制御できない。,False
+v01_0123,v01,ko,data/images/v01_0123.jpg,"괴물을 만들었는데, 이제 통제가 안 돼요.",False
+v01_0124,v01,zh,data/images/v01_0124.jpg,我造出了一个怪物，如今已无法控制它。,False
+v01_0125,v01,el,data/images/v01_0125.jpg,Δημιούργησα ένα τέρας και δεν μπορώ πια να το ελέγξω.,False
+v01_0126,v01,en,data/images/v01_0126.jpg,"Beware, for I am fearless, and therefore powerful.",False
+v01_0127,v01,es,data/images/v01_0127.jpg,"Cuidado, porque no tengo miedo, y eso me hace poderoso.",False
+v01_0128,v01,ja,data/images/v01_0128.jpg,気をつけろ、私は恐れを知らない、だから強いんだ。,False
+v01_0129,v01,ko,data/images/v01_0129.jpg,"조심해요, 저는 두려움이 없으니까요.",False
+v01_0130,v01,zh,data/images/v01_0130.jpg,小心点，我天不怕地不怕，所以才强大。,False
+v01_0131,v01,el,data/images/v01_0131.jpg,"Πρόσεχε, δεν φοβάμαι τίποτα, γι' αυτό είμαι δυνατός.",False
+v01_0132,v01,en,data/images/v01_0132.jpg,There can be no life without pain.,False
+v01_0133,v01,es,data/images/v01_0133.jpg,No puede haber vida sin dolor.,False
+v01_0134,v01,ja,data/images/v01_0134.jpg,痛みのない人生なんてない。,False
+v01_0135,v01,ko,data/images/v01_0135.jpg,고통 없인 삶도 없어요.,True
+v01_0136,v01,zh,data/images/v01_0136.jpg,没有痛苦，就没有真正的人生。,True
+v01_0137,v01,el,data/images/v01_0137.jpg,Δεν υπάρχει ζωή χωρίς πόνο.,False
+v01_0138,v01,en,data/images/v01_0138.jpg,Nothing is impossible if you set your mind to it.,False
+v01_0139,v01,es,data/images/v01_0139.jpg,Nada es imposible si te lo propones.,False
+v01_0140,v01,ja,data/images/v01_0140.jpg,本気になれば不可能なんてない。,False
+v01_0141,v01,ko,data/images/v01_0141.jpg,마음만 먹으면 불가능한 건 없어요.,False
+v01_0142,v01,zh,data/images/v01_0142.jpg,只要下定决心，没有什么不可能。,False
+v01_0143,v01,el,data/images/v01_0143.jpg,Τίποτα δεν είναι αδύνατο αν το θέλεις πραγματικά.,False
+v01_0144,v01,en,data/images/v01_0144.jpg,The game is afoot.,False
+v01_0145,v01,es,data/images/v01_0145.jpg,El juego ha comenzado.,False
+v01_0146,v01,ja,data/images/v01_0146.jpg,勝負は始まった。,True
+v01_0147,v01,ko,data/images/v01_0147.jpg,게임이 시작됐어요.,False
+v01_0148,v01,zh,data/images/v01_0148.jpg,游戏开始了。,False
+v01_0149,v01,el,data/images/v01_0149.jpg,Το παιχνίδι άρχισε.,False
+v01_0150,v01,en,data/images/v01_0150.jpg,"Elementary, my dear fellow.",False
+v01_0151,v01,es,data/images/v01_0151.jpg,"Elemental, querido amigo.",False
+v01_0152,v01,ja,data/images/v01_0152.jpg,簡単なことだよ、君。,False
+v01_0153,v01,ko,data/images/v01_0153.jpg,"간단해요, 친구.",False
+v01_0154,v01,zh,data/images/v01_0154.jpg,很简单，朋友。,True
+v01_0155,v01,el,data/images/v01_0155.jpg,"Απλό, φίλε μου.",False
+v01_0156,v01,en,data/images/v01_0156.jpg,"When you eliminate the impossible, what remains must be true.",True
+v01_0157,v01,es,data/images/v01_0157.jpg,"Cuando eliminas lo imposible, lo que queda es la verdad.",False
+v01_0158,v01,ja,data/images/v01_0158.jpg,不可能を除いていけば、残るのが真実だ。,False
+v01_0159,v01,ko,data/images/v01_0159.jpg,불가능한 걸 지우면 남는 게 진실이에요.,True
+v01_0160,v01,zh,data/images/v01_0160.jpg,排除掉不可能的，剩下的就是真相。,False
+v01_0161,v01,el,data/images/v01_0161.jpg,"Όταν αποκλείσεις το αδύνατο, ό,τι μένει είναι η αλήθεια.",False
+v01_0162,v01,en,data/images/v01_0162.jpg,I never guess. It is a shocking habit.,False
+v01_0163,v01,es,data/images/v01_0163.jpg,Nunca adivino. Es un hábito terrible.,False
+v01_0164,v01,ja,data/images/v01_0164.jpg,私は推測しない。それは悪い癖だ。,False
+v01_0165,v01,ko,data/images/v01_0165.jpg,"저는 추측 안 해요, 그건 나쁜 버릇이죠.",False
+v01_0166,v01,zh,data/images/v01_0166.jpg,我从不猜测，那是个坏习惯。,False
+v01_0167,v01,el,data/images/v01_0167.jpg,"Ποτέ δεν μαντεύω, είναι κακή συνήθεια.",False
+v01_0168,v01,en,data/images/v01_0168.jpg,"Data, data, data! I cannot make bricks without clay.",False
+v01_0169,v01,es,data/images/v01_0169.jpg,"¡Datos, datos, datos! No puedo trabajar sin ellos.",False
+v01_0170,v01,ja,data/images/v01_0170.jpg,データだ、データがなければ何も作れない。,True
+v01_0171,v01,ko,data/images/v01_0171.jpg,자료가 있어야 뭘 만들죠.,False
+v01_0172,v01,zh,data/images/v01_0172.jpg,数据，数据，没有数据什么都做不出来。,False
+v01_0173,v01,el,data/images/v01_0173.jpg,"Στοιχεία, χρειάζομαι στοιχεία για να δουλέψω.",False
+v01_0174,v01,en,data/images/v01_0174.jpg,I have often been wrong before.,False
+v01_0175,v01,es,data/images/v01_0175.jpg,Antes también me he equivocado muchas veces.,False
+v01_0176,v01,ja,data/images/v01_0176.jpg,私も以前は何度も間違えたよ。,False
+v01_0177,v01,ko,data/images/v01_0177.jpg,저도 예전에 자주 틀렸어요.,True
+v01_0178,v01,zh,data/images/v01_0178.jpg,我以前也常常犯错。,False
+v01_0179,v01,el,data/images/v01_0179.jpg,Κι εγώ έχω κάνει λάθος πολλές φορές.,True
+v01_0180,v01,en,data/images/v01_0180.jpg,Time flies over us but leaves its shadow behind.,False
+v01_0181,v01,es,data/images/v01_0181.jpg,"El tiempo pasa, pero deja su sombra.",True
+v01_0182,v01,ja,data/images/v01_0182.jpg,時は流れても、影を残していく。,False
+v01_0183,v01,ko,data/images/v01_0183.jpg,시간은 흘러가도 그림자를 남겨요.,False
+v01_0184,v01,zh,data/images/v01_0184.jpg,时光流逝，却留下影子。,True
+v01_0185,v01,el,data/images/v01_0185.jpg,"Ο χρόνος περνά, μα αφήνει τη σκιά του.",False
+v01_0186,v01,en,data/images/v01_0186.jpg,A man's real possession is his memory.,False
+v01_0187,v01,es,data/images/v01_0187.jpg,La verdadera posesión de un hombre es su memoria.,True
+v01_0188,v01,ja,data/images/v01_0188.jpg,人の本当の財産は記憶なんだ。,False
+v01_0189,v01,ko,data/images/v01_0189.jpg,사람의 진짜 재산은 기억이에요.,False
+v01_0190,v01,zh,data/images/v01_0190.jpg,一个人真正的财富是记忆。,False
+v01_0191,v01,el,data/images/v01_0191.jpg,Η αληθινή περιουσία ενός ανθρώπου είναι η μνήμη του.,False
+v01_0192,v01,en,data/images/v01_0192.jpg,The future is still in your hands.,False
+v01_0193,v01,es,data/images/v01_0193.jpg,El futuro todavía está en tus manos.,False
+v01_0194,v01,ja,data/images/v01_0194.jpg,未来はまだ君の手の中にある。,False
+v01_0195,v01,ko,data/images/v01_0195.jpg,미래는 아직 당신 손에 있어요.,True
+v01_0196,v01,zh,data/images/v01_0196.jpg,未来依然掌握在你手中。,False
+v01_0197,v01,el,data/images/v01_0197.jpg,Το μέλλον είναι ακόμα στα χέρια σου.,True
+v01_0198,v01,en,data/images/v01_0198.jpg,It is our choices that show who we truly are.,True
+v01_0199,v01,es,data/images/v01_0199.jpg,Son nuestras decisiones las que muestran quiénes somos.,False
+v01_0200,v01,ja,data/images/v01_0200.jpg,選択こそがその人を表すんだ。,False
+v01_0201,v01,ko,data/images/v01_0201.jpg,선택이 그 사람을 보여주는 거예요.,False
+v01_0202,v01,zh,data/images/v01_0202.jpg,选择才真正显示一个人是谁。,False
+v01_0203,v01,el,data/images/v01_0203.jpg,Οι επιλογές μας δείχνουν ποιοι πραγματικά είμαστε.,False
+v01_0204,v01,en,data/images/v01_0204.jpg,"There's no place like home, is there?",False
+v01_0205,v01,es,data/images/v01_0205.jpg,"No hay lugar como el hogar, ¿verdad?",False
+v01_0206,v01,ja,data/images/v01_0206.jpg,やっぱり家に勝る場所はないね。,False
+v01_0207,v01,ko,data/images/v01_0207.jpg,역시 집만 한 곳이 없죠?,True
+v01_0208,v01,zh,data/images/v01_0208.jpg,还是家里最好，不是吗？,False
+v01_0209,v01,el,data/images/v01_0209.jpg,"Πουθενά σαν το σπίτι, έτσι δεν είναι;",False
+v01_0210,v01,en,data/images/v01_0210.jpg,I don't know half of you half as well as I should like.,False
+v01_0211,v01,es,data/images/v01_0211.jpg,No los conocía ni la mitad de lo que debería.,False
+v01_0212,v01,ja,data/images/v01_0212.jpg,君のことを半分も分かっていなかったよ。,False
+v01_0213,v01,ko,data/images/v01_0213.jpg,당신을 절반도 제대로 몰랐네요.,False
+v01_0214,v01,zh,data/images/v01_0214.jpg,我对你的了解还不到一半。,False
+v01_0215,v01,el,data/images/v01_0215.jpg,Δεν σε ήξερα ούτε στο μισό όσο έπρεπε.,True
+v01_0216,v01,en,data/images/v01_0216.jpg,"It's a dangerous business, going out your door.",False
+v01_0217,v01,es,data/images/v01_0217.jpg,Es peligroso salir por esa puerta.,False
+v01_0218,v01,ja,data/images/v01_0218.jpg,扉を出るのはいつだって危険なことだ。,True
+v01_0219,v01,ko,data/images/v01_0219.jpg,문을 나서는 건 늘 위험한 일이에요.,False
+v02_0000,v02,en,data/images/v02_0000.jpg,All we have to decide is what to do with the time given us.,False
+v02_0001,v02,es,data/images/v02_0001.jpg,Solo podemos decidir qué hacer con el tiempo que tenemos.,True
+v02_0002,v02,ja,data/images/v02_0002.jpg,決められるのは、与えられた時間をどう使うかだけだ。,True
+v02_0003,v02,ko,data/images/v02_0003.jpg,우리가 정할 수 있는 건 주어진 시간을 어떻게 쓰느냐예요.,False
+v02_0004,v02,zh,data/images/v02_0004.jpg,出门在外总是危险的。,False
+v02_0005,v02,el,data/images/v02_0005.jpg,Είναι επικίνδυνο να βγαίνεις απ' την πόρτα σου.,False
+v02_0006,v02,en,data/images/v02_0006.jpg,Not all who wander are lost.,False
+v02_0007,v02,es,data/images/v02_0007.jpg,No todo el que vaga está perdido.,False
+v02_0008,v02,ja,data/images/v02_0008.jpg,さまよう者がみな迷っているわけじゃない。,False
+v02_0009,v02,ko,data/images/v02_0009.jpg,떠도는 자가 다 길을 잃은 건 아니에요.,False
+v02_0010,v02,zh,data/images/v02_0010.jpg,我们能决定的，只是如何使用被给予的时间。,True
+v02_0011,v02,el,data/images/v02_0011.jpg,Το μόνο που αποφασίζουμε είναι τι θα κάνουμε με τον χρόνο μας.,False
+v02_0012,v02,en,data/images/v02_0012.jpg,Even the smallest person can change the course of things.,False
+v02_0013,v02,es,data/images/v02_0013.jpg,Hasta la persona más pequeña puede cambiar el rumbo de las cosas.,False
+v02_0014,v02,ja,data/images/v02_0014.jpg,どんなに小さな者でも流れを変えられる。,False
+v02_0015,v02,ko,data/images/v02_0015.jpg,아무리 작은 사람도 흐름을 바꿀 수 있어요.,False
+v02_0016,v02,zh,data/images/v02_0016.jpg,流浪的人未必都迷了路。,False
+v02_0017,v02,el,data/images/v02_0017.jpg,Δεν χάνονται όλοι όσοι περιπλανιούνται.,False
+v02_0018,v02,en,data/images/v02_0018.jpg,The night is dark and full of secrets.,False
+v02_0019,v02,es,data/images/v02_0019.jpg,La noche es oscura y está llena de secretos.,False
+v02_0020,v02,ja,data/images/v02_0020.jpg,夜は暗く、秘密に満ちている。,False
+v02_0021,v02,ko,data/images/v02_0021.jpg,밤은 어둡고 비밀로 가득해요.,False
+v02_0022,v02,zh,data/images/v02_0022.jpg,再渺小的人也能改变局势。,False
+v02_0023,v02,el,data/images/v02_0023.jpg,Ακόμα κι ο πιο μικρός μπορεί ν' αλλάξει την πορεία των πραγμάτων.,False
+v02_0024,v02,en,data/images/v02_0024.jpg,Speak softly and carry a big stick.,False
+v02_0025,v02,es,data/images/v02_0025.jpg,Habla con calma y actúa con firmeza.,True
+v02_0026,v02,ja,data/images/v02_0026.jpg,静かに話し、大きく行動しろ。,False
+v02_0027,v02,ko,data/images/v02_0027.jpg,조용히 말하고 크게 행동해요.,False
+v02_0028,v02,zh,data/images/v02_0028.jpg,夜色深沉，藏着无数秘密。,False
+v02_0029,v02,el,data/images/v02_0029.jpg,Η νύχτα είναι σκοτεινή και γεμάτη μυστικά.,False
+v02_0030,v02,en,data/images/v02_0030.jpg,Fortune favors the bold.,False
+v02_0031,v02,es,data/images/v02_0031.jpg,La fortuna favorece a los valientes.,False
+v02_0032,v02,ja,data/images/v02_0032.jpg,幸運は勇者に味方する。,False
+v02_0033,v02,ko,data/images/v02_0033.jpg,용기 있는 자에게 행운이 따라요.,False
+v02_0034,v02,zh,data/images/v02_0034.jpg,说话要轻，行动要有力。,False
+v02_0035,v02,el,data/images/v02_0035.jpg,"Μίλα ήσυχα, δράσε δυνατά.",True
+v02_0036,v02,en,data/images/v02_0036.jpg,"Adventure is out there, waiting.",False
+v02_0037,v02,es,data/images/v02_0037.jpg,"La aventura está ahí afuera, esperando.",False
+v02_0038,v02,ja,data/images/v02_0038.jpg,冒険はあそこで待っている。,True
+v02_0039,v02,ko,data/images/v02_0039.jpg,모험은 저 밖에서 기다리고 있어요.,True
+v02_0040,v02,zh,data/images/v02_0040.jpg,幸运总是眷顾勇敢的人。,False
+v02_0041,v02,el,data/images/v02_0041.jpg,Η τύχη ευνοεί τους τολμηρούς.,True
+v02_0042,v02,en,data/images/v02_0042.jpg,Some day you will be old enough to start reading fairy tales again.,False
+v02_0043,v02,es,data/images/v02_0043.jpg,Algún día tendrás edad para volver a leer cuentos de hadas.,True
+v02_0044,v02,ja,data/images/v02_0044.jpg,いつかまた、おとぎ話を読める歳になるよ。,False
+v02_0045,v02,ko,data/images/v02_0045.jpg,언젠가 다시 동화를 읽을 나이가 될 거예요.,True
+v02_0046,v02,zh,data/images/v02_0046.jpg,冒险就在外面等着呢。,False
+v02_0047,v02,el,data/images/v02_0047.jpg,Η περιπέτεια περιμένει εκεί έξω.,False
+v02_0048,v02,en,data/images/v02_0048.jpg,It always seems impossible until it's done.,False
+v02_0049,v02,es,data/images/v02_0049.jpg,Siempre parece imposible hasta que se logra.,False
+v02_0050,v02,ja,data/images/v02_0050.jpg,終わるまではいつも不可能に思えるものだ。,False
+v02_0051,v02,ko,data/images/v02_0051.jpg,다 되고 나면 항상 쉬워 보이죠.,False
+v02_0052,v02,zh,data/images/v02_0052.jpg,总有一天你会重新爱上童话。,False
+v02_0053,v02,el,data/images/v02_0053.jpg,Κάποια μέρα θα είσαι έτοιμος να διαβάσεις ξανά παραμύθια.,True
+v02_0054,v02,en,data/images/v02_0054.jpg,"Whatever you are, be a good one.",False
+v02_0055,v02,es,data/images/v02_0055.jpg,"Seas lo que seas, sé bueno en ello.",False
+v02_0056,v02,ja,data/images/v02_0056.jpg,何になるにせよ、いいものになれ。,True
+v02_0057,v02,ko,data/images/v02_0057.jpg,"뭐가 됐든, 제대로 된 사람이 되세요.",False
+v02_0058,v02,zh,data/images/v02_0058.jpg,事情做成之前，总看起来不可能。,True
+v02_0059,v02,el,data/images/v02_0059.jpg,"Πάντα φαίνεται αδύνατο, μέχρι να γίνει.",False
+v02_0060,v02,en,data/images/v02_0060.jpg,The best way out is always through.,False
+v02_0061,v02,es,data/images/v02_0061.jpg,La mejor salida siempre es seguir adelante.,True
+v02_0062,v02,ja,data/images/v02_0062.jpg,抜け出す一番の方法は、突き進むことだ。,False
+v02_0063,v02,ko,data/images/v02_0063.jpg,빠져나가는 가장 좋은 방법은 그냥 뚫고 가는 거예요.,True
+v02_0064,v02,zh,data/images/v02_0064.jpg,无论做什么，都要做到最好。,False
+v02_0065,v02,el,data/images/v02_0065.jpg,"Ό,τι κι αν είσαι, γίνε καλός σε αυτό.",True
+v02_0066,v02,en,data/images/v02_0066.jpg,"You see, but you do not observe.",True
+v02_0067,v02,es,data/images/v02_0067.jpg,"Usted ve, pero no observa.",False
+v02_0068,v02,ja,data/images/v02_0068.jpg,見てはいるが、観察はしていないね。,False
+v02_0069,v02,ko,data/images/v02_0069.jpg,보긴 하지만 관찰은 안 하는군요.,True
+v02_0070,v02,zh,data/images/v02_0070.jpg,脱身的最好办法，就是一直往前走。,False
+v02_0071,v02,el,data/images/v02_0071.jpg,Ο καλύτερος τρόπος να βγεις είναι να προχωρήσεις.,True
+v02_0072,v02,en,data/images/v02_0072.jpg,"It's quite simple, once you know how.",True
+v02_0073,v02,es,data/images/v02_0073.jpg,"Es bastante simple, una vez que sabes cómo.",False
+v02_0074,v02,ja,data/images/v02_0074.jpg,コツさえ分かれば簡単さ。,False
+v02_0075,v02,ko,data/images/v02_0075.jpg,알고 나면 아주 간단한 거예요.,False
+v02_0076,v02,zh,data/images/v02_0076.jpg,你只是看，却没有观察。,False
+v02_0077,v02,el,data/images/v02_0077.jpg,"Βλέπεις, αλλά δεν παρατηρείς.",False
+v02_0078,v02,en,data/images/v02_0078.jpg,"There's no use trying, that's impossible.",False
+v02_0079,v02,es,data/images/v02_0079.jpg,"No sirve de nada intentarlo, es imposible.",False
+v02_0080,v02,ja,data/images/v02_0080.jpg,無駄だよ、それは不可能だ。,False
+v02_0081,v02,ko,data/images/v02_0081.jpg,"그건 불가능해요, 소용없어요.",False
+v02_0082,v02,zh,data/images/v02_0082.jpg,知道方法之后其实很简单。,False
+v02_0083,v02,el,data/images/v02_0083.jpg,"Είναι απλό, αρκεί να ξέρεις πώς.",False
+v02_0084,v02,en,data/images/v02_0084.jpg,Curiouser and curiouser!,False
+v02_0085,v02,es,data/images/v02_0085.jpg,¡Cada vez más raro!,False
+v02_0086,v02,ja,data/images/v02_0086.jpg,ますます不思議になっていく！,False
+v02_0087,v02,ko,data/images/v02_0087.jpg,점점 더 이상해지네!,True
+v02_0088,v02,zh,data/images/v02_0088.jpg,别白费力气了，那不可能。,False
+v02_0089,v02,el,data/images/v02_0089.jpg,"Δεν έχει νόημα, είναι αδύνατο.",True
+v02_0090,v02,en,data/images/v02_0090.jpg,Who in the world am I?,False
+v02_0091,v02,es,data/images/v02_0091.jpg,¿Quién demonios soy yo?,False
+v02_0092,v02,ja,data/images/v02_0092.jpg,私はいったい誰なの？,False
+v02_0093,v02,ko,data/images/v02_0093.jpg,도대체 나는 누구지?,True
+v02_0094,v02,zh,data/images/v02_0094.jpg,越来越奇怪了！,False
+v02_0095,v02,el,data/images/v02_0095.jpg,Όλο και πιο περίεργο!,False
+v02_0096,v02,en,data/images/v02_0096.jpg,We're all mad here.,False
+v02_0097,v02,es,data/images/v02_0097.jpg,Aquí todos estamos locos.,False
+v02_0098,v02,ja,data/images/v02_0098.jpg,ここではみんな狂ってるよ。,False
+v02_0099,v02,ko,data/images/v02_0099.jpg,여긴 다 미쳤어요.,False
+v02_0100,v02,zh,data/images/v02_0100.jpg,我到底是谁？,False
+v02_0101,v02,el,data/images/v02_0101.jpg,Ποια είμαι επιτέλους εγώ;,False
+v02_0102,v02,en,data/images/v02_0102.jpg,It is a truth universally acknowledged.,True
+v02_0103,v02,es,data/images/v02_0103.jpg,Es una verdad reconocida por todos.,False
+v02_0104,v02,ja,data/images/v02_0104.jpg,それは誰もが認める真実だ。,False
+v02_0105,v02,ko,data/images/v02_0105.jpg,그건 누구나 아는 진실이죠.,True
+v02_0106,v02,zh,data/images/v02_0106.jpg,这里的人都疯了。,True
+v02_0107,v02,el,data/images/v02_0107.jpg,Εδώ όλοι είναι τρελοί.,False
+v02_0108,v02,en,data/images/v02_0108.jpg,I could not tell you what I really think.,False
+v02_0109,v02,es,data/images/v02_0109.jpg,No podría decirte lo que realmente pienso.,False
+v02_0110,v02,ja,data/images/v02_0110.jpg,本当の気持ちは言葉にできない。,False
+v02_0111,v02,ko,data/images/v02_0111.jpg,내 진심은 말로 다 못해요.,True
+v02_0112,v02,zh,data/images/v02_0112.jpg,这是人人都承认的真理。,False
+v02_0113,v02,el,data/images/v02_0113.jpg,Είναι μια αλήθεια που όλοι αποδέχονται.,True
+v02_0114,v02,en,data/images/v02_0114.jpg,Vanity and pride are different things.,False
+v02_0115,v02,es,data/images/v02_0115.jpg,La vanidad y el orgullo son cosas distintas.,False
+v02_0116,v02,ja,data/images/v02_0116.jpg,虚栄心とプライドは別物だよ。,False
+v02_0117,v02,ko,data/images/v02_0117.jpg,허영이랑 자존심은 다른 거예요.,False
+v02_0118,v02,zh,data/images/v02_0118.jpg,我说不出自己真正的想法。,False
+v02_0119,v02,el,data/images/v02_0119.jpg,Δεν μπορώ να πω τι πραγματικά σκέφτομαι.,True
+v02_0120,v02,en,data/images/v02_0120.jpg,I have been in a dream all afternoon.,False
+v02_0121,v02,es,data/images/v02_0121.jpg,He estado como en un sueño toda la tarde.,False
+v02_0122,v02,ja,data/images/v02_0122.jpg,午後じゅう夢の中にいたみたい。,True
+v02_0123,v02,ko,data/images/v02_0123.jpg,오후 내내 꿈속에 있었던 것 같아요.,False
+v02_0124,v02,zh,data/images/v02_0124.jpg,虚荣和自尊是两回事。,True
+v02_0125,v02,el,data/images/v02_0125.jpg,Η ματαιοδοξία κι η υπερηφάνεια είναι διαφορετικά πράγματα.,False
+v02_0126,v02,en,data/images/v02_0126.jpg,"It was the best of times, it was the worst of times.",False
+v02_0127,v02,es,data/images/v02_0127.jpg,"Era el mejor de los tiempos, era el peor de los tiempos.",False
+v02_0128,v02,ja,data/images/v02_0128.jpg,最良の時代であり、最悪の時代でもあった。,False
+v02_0129,v02,ko,data/images/v02_0129.jpg,"최고의 시절이자, 최악의 시절이었죠.",False
+v02_0130,v02,zh,data/images/v02_0130.jpg,整个下午我都像在做梦。,False
+v02_0131,v02,el,data/images/v02_0131.jpg,Ήμουν σαν σε όνειρο όλο το απόγευμα.,False
+v02_0132,v02,en,data/images/v02_0132.jpg,"God bless us, every one.",False
+v02_0133,v02,es,data/images/v02_0133.jpg,Que Dios nos bendiga a todos.,False
+v02_0134,v02,ja,data/images/v02_0134.jpg,みんなに神の祝福を。,False
+v02_0135,v02,ko,data/images/v02_0135.jpg,모두에게 신의 축복이 있기를.,False
+v02_0136,v02,zh,data/images/v02_0136.jpg,那是最好的时代，也是最坏的时代。,False
+v02_0137,v02,el,data/images/v02_0137.jpg,"Ήταν η καλύτερη εποχή, ήταν η χειρότερη εποχή.",False
+v02_0138,v02,en,data/images/v02_0138.jpg,I will honor Christmas in my heart.,False
+v02_0139,v02,es,data/images/v02_0139.jpg,Guardaré la Navidad en mi corazón.,False
+v02_0140,v02,ja,data/images/v02_0140.jpg,心の中でクリスマスを大切にするよ。,False
+v02_0141,v02,ko,data/images/v02_0141.jpg,마음속으로 크리스마스를 기억할게요.,False
+v02_0142,v02,zh,data/images/v02_0142.jpg,愿上帝保佑我们每一个人。,False
+v02_0143,v02,el,data/images/v02_0143.jpg,Ο Θεός να μας ευλογεί όλους.,False
+v02_0144,v02,en,data/images/v02_0144.jpg,Are there no prisons? No workhouses?,False
+v02_0145,v02,es,data/images/v02_0145.jpg,¿No hay cárceles? ¿No hay asilos?,False
+v02_0146,v02,ja,data/images/v02_0146.jpg,刑務所も救貧院もないのか？,True
+v02_0147,v02,ko,data/images/v02_0147.jpg,감옥도 없나요? 구빈원도 없어요?,False
+v02_0148,v02,zh,data/images/v02_0148.jpg,我会把圣诞节永远放在心里。,True
+v02_0149,v02,el,data/images/v02_0149.jpg,Θα κρατήσω τα Χριστούγεννα στην καρδιά μου.,False
+v02_0150,v02,en,data/images/v02_0150.jpg,"Welcome to my house. Enter freely, of your own will.",False
+v02_0151,v02,es,data/images/v02_0151.jpg,Bienvenido a mi casa. Entre por su propia voluntad.,False
+v02_0152,v02,ja,data/images/v02_0152.jpg,ようこそ、私の家へ。自由に入っておくれ。,True
+v02_0153,v02,ko,data/images/v02_0153.jpg,제 집에 오신 걸 환영합니다. 마음대로 들어오세요.,False
+v02_0154,v02,zh,data/images/v02_0154.jpg,难道没有监狱？没有济贫院吗？,False
+v02_0155,v02,el,data/images/v02_0155.jpg,Δεν υπάρχουν φυλακές; Δεν υπάρχουν άσυλα;,False
+v02_0156,v02,en,data/images/v02_0156.jpg,"Listen to them, the children of the night.",True
+v02_0157,v02,es,data/images/v02_0157.jpg,"Escuche eso, los hijos de la noche.",False
+v02_0158,v02,ja,data/images/v02_0158.jpg,聞こえるかい、あれが夜の子たちの声だ。,False
+v02_0159,v02,ko,data/images/v02_0159.jpg,저 소리 들려요? 밤의 아이들이에요.,False
+v02_0160,v02,zh,data/images/v02_0160.jpg,欢迎来到我家，请自由进入。,False
+v02_0161,v02,el,data/images/v02_0161.jpg,Καλώς ήρθες στο σπίτι μου. Πέρασε ελεύθερα.,False
+v02_0162,v02,en,data/images/v02_0162.jpg,I never drink... wine.,True
+v02_0163,v02,es,data/images/v02_0163.jpg,Yo nunca bebo... vino.,False
+v02_0164,v02,ja,data/images/v02_0164.jpg,私はワインを…飲まないんだ。,True
+v02_0165,v02,ko,data/images/v02_0165.jpg,저는 와인을... 마시지 않아요.,False
+v02_0166,v02,zh,data/images/v02_0166.jpg,听，那是黑夜之子的声音。,False
+v02_0167,v02,el,data/images/v02_0167.jpg,"Άκου, τα παιδιά της νύχτας.",False
+v02_0168,v02,en,data/images/v02_0168.jpg,The blood is the life.,True
+v02_0169,v02,es,data/images/v02_0169.jpg,La sangre es la vida.,False
+v02_0170,v02,ja,data/images/v02_0170.jpg,血こそが命なんだ。,False
+v02_0171,v02,ko,data/images/v02_0171.jpg,피가 곧 생명이에요.,False
+v02_0172,v02,zh,data/images/v02_0172.jpg,我从不喝……酒。,False
+v02_0173,v02,el,data/images/v02_0173.jpg,Εγώ ποτέ δεν πίνω... κρασί.,False
+v02_0174,v02,en,data/images/v02_0174.jpg,Even a man who is pure of heart may fall to darkness.,False
+v02_0175,v02,es,data/images/v02_0175.jpg,Hasta un hombre puro puede caer en la oscuridad.,True
+v02_0176,v02,ja,data/images/v02_0176.jpg,純粋な心の持ち主でも闇に落ちることがある。,False
+v02_0177,v02,ko,data/images/v02_0177.jpg,순수한 사람도 어둠에 빠질 수 있어요.,False
+v02_0178,v02,zh,data/images/v02_0178.jpg,血就是生命。,True
+v02_0179,v02,el,data/images/v02_0179.jpg,Το αίμα είναι η ζωή.,False
+v02_0180,v02,en,data/images/v02_0180.jpg,It was a dark and stormy night.,False
+v02_0181,v02,es,data/images/v02_0181.jpg,Era una noche oscura y tormentosa.,False
+v02_0182,v02,ja,data/images/v02_0182.jpg,暗く嵐の夜だった。,True
+v02_0183,v02,ko,data/images/v02_0183.jpg,어둡고 폭풍우 치는 밤이었어요.,False
+v02_0184,v02,zh,data/images/v02_0184.jpg,再纯洁的人也可能坠入黑暗。,False
+v02_0185,v02,el,data/images/v02_0185.jpg,Ακόμα κι ένας αγνός άνθρωπος μπορεί να πέσει στο σκοτάδι.,False
+v02_0186,v02,en,data/images/v02_0186.jpg,"I have created a monster, and I cannot control it.",True
+v02_0187,v02,es,data/images/v02_0187.jpg,He creado un monstruo y ya no puedo controlarlo.,True
+v02_0188,v02,ja,data/images/v02_0188.jpg,怪物を作ってしまった、もう制御できない。,False
+v02_0189,v02,ko,data/images/v02_0189.jpg,"괴물을 만들었는데, 이제 통제가 안 돼요.",False
+v02_0190,v02,zh,data/images/v02_0190.jpg,那是一个黑暗又多雷雨的夜晚。,False
+v02_0191,v02,el,data/images/v02_0191.jpg,Ήταν μια σκοτεινή και θυελλώδης νύχτα.,False
+v02_0192,v02,en,data/images/v02_0192.jpg,"Beware, for I am fearless, and therefore powerful.",False
+v02_0193,v02,es,data/images/v02_0193.jpg,"Cuidado, porque no tengo miedo, y eso me hace poderoso.",False
+v02_0194,v02,ja,data/images/v02_0194.jpg,気をつけろ、私は恐れを知らない、だから強いんだ。,False
+v02_0195,v02,ko,data/images/v02_0195.jpg,"조심해요, 저는 두려움이 없으니까요.",True
+v02_0196,v02,zh,data/images/v02_0196.jpg,我造出了一个怪物，如今已无法控制它。,False
+v02_0197,v02,el,data/images/v02_0197.jpg,Δημιούργησα ένα τέρας και δεν μπορώ πια να το ελέγξω.,True
+v02_0198,v02,en,data/images/v02_0198.jpg,There can be no life without pain.,False
+v02_0199,v02,es,data/images/v02_0199.jpg,No puede haber vida sin dolor.,False
+v02_0200,v02,ja,data/images/v02_0200.jpg,痛みのない人生なんてない。,False
+v02_0201,v02,ko,data/images/v02_0201.jpg,고통 없인 삶도 없어요.,False
+v02_0202,v02,zh,data/images/v02_0202.jpg,小心点，我天不怕地不怕，所以才强大。,False
+v02_0203,v02,el,data/images/v02_0203.jpg,"Πρόσεχε, δεν φοβάμαι τίποτα, γι' αυτό είμαι δυνατός.",False
+v02_0204,v02,en,data/images/v02_0204.jpg,Nothing is impossible if you set your mind to it.,False
+v02_0205,v02,es,data/images/v02_0205.jpg,Nada es imposible si te lo propones.,False
+v02_0206,v02,ja,data/images/v02_0206.jpg,本気になれば不可能なんてない。,True
+v02_0207,v02,ko,data/images/v02_0207.jpg,마음만 먹으면 불가능한 건 없어요.,False
+v02_0208,v02,zh,data/images/v02_0208.jpg,没有痛苦，就没有真正的人生。,False
+v02_0209,v02,el,data/images/v02_0209.jpg,Δεν υπάρχει ζωή χωρίς πόνο.,True
+v02_0210,v02,en,data/images/v02_0210.jpg,The game is afoot.,False
+v02_0211,v02,es,data/images/v02_0211.jpg,El juego ha comenzado.,False
+v02_0212,v02,ja,data/images/v02_0212.jpg,勝負は始まった。,False
+v02_0213,v02,ko,data/images/v02_0213.jpg,게임이 시작됐어요.,True
+v02_0214,v02,zh,data/images/v02_0214.jpg,只要下定决心，没有什么不可能。,False
+v02_0215,v02,el,data/images/v02_0215.jpg,Τίποτα δεν είναι αδύνατο αν το θέλεις πραγματικά.,False
+v02_0216,v02,en,data/images/v02_0216.jpg,"Elementary, my dear fellow.",False
+v02_0217,v02,es,data/images/v02_0217.jpg,"Elemental, querido amigo.",False
+v02_0218,v02,ja,data/images/v02_0218.jpg,簡単なことだよ、君。,False
+v02_0219,v02,ko,data/images/v02_0219.jpg,"간단해요, 친구.",False
+v03_0000,v03,en,data/images/v03_0000.jpg,"When you eliminate the impossible, what remains must be true.",False
+v03_0001,v03,es,data/images/v03_0001.jpg,"Cuando eliminas lo imposible, lo que queda es la verdad.",False
+v03_0002,v03,ja,data/images/v03_0002.jpg,不可能を除いていけば、残るのが真実だ。,False
+v03_0003,v03,ko,data/images/v03_0003.jpg,불가능한 걸 지우면 남는 게 진실이에요.,False
+v03_0004,v03,zh,data/images/v03_0004.jpg,游戏开始了。,False
+v03_0005,v03,el,data/images/v03_0005.jpg,Το παιχνίδι άρχισε.,False
+v03_0006,v03,en,data/images/v03_0006.jpg,I never guess. It is a shocking habit.,False
+v03_0007,v03,es,data/images/v03_0007.jpg,Nunca adivino. Es un hábito terrible.,False
+v03_0008,v03,ja,data/images/v03_0008.jpg,私は推測しない。それは悪い癖だ。,False
+v03_0009,v03,ko,data/images/v03_0009.jpg,"저는 추측 안 해요, 그건 나쁜 버릇이죠.",False
+v03_0010,v03,zh,data/images/v03_0010.jpg,很简单，朋友。,False
+v03_0011,v03,el,data/images/v03_0011.jpg,"Απλό, φίλε μου.",True
+v03_0012,v03,en,data/images/v03_0012.jpg,"Data, data, data! I cannot make bricks without clay.",False
+v03_0013,v03,es,data/images/v03_0013.jpg,"¡Datos, datos, datos! No puedo trabajar sin ellos.",False
+v03_0014,v03,ja,data/images/v03_0014.jpg,データだ、データがなければ何も作れない。,True
+v03_0015,v03,ko,data/images/v03_0015.jpg,자료가 있어야 뭘 만들죠.,False
+v03_0016,v03,zh,data/images/v03_0016.jpg,排除掉不可能的，剩下的就是真相。,False
+v03_0017,v03,el,data/images/v03_0017.jpg,"Όταν αποκλείσεις το αδύνατο, ό,τι μένει είναι η αλήθεια.",False
+v03_0018,v03,en,data/images/v03_0018.jpg,I have often been wrong before.,False
+v03_0019,v03,es,data/images/v03_0019.jpg,Antes también me he equivocado muchas veces.,False
+v03_0020,v03,ja,data/images/v03_0020.jpg,私も以前は何度も間違えたよ。,False
+v03_0021,v03,ko,data/images/v03_0021.jpg,저도 예전에 자주 틀렸어요.,False
+v03_0022,v03,zh,data/images/v03_0022.jpg,我从不猜测，那是个坏习惯。,False
+v03_0023,v03,el,data/images/v03_0023.jpg,"Ποτέ δεν μαντεύω, είναι κακή συνήθεια.",False
+v03_0024,v03,en,data/images/v03_0024.jpg,Time flies over us but leaves its shadow behind.,False
+v03_0025,v03,es,data/images/v03_0025.jpg,"El tiempo pasa, pero deja su sombra.",False
+v03_0026,v03,ja,data/images/v03_0026.jpg,時は流れても、影を残していく。,False
+v03_0027,v03,ko,data/images/v03_0027.jpg,시간은 흘러가도 그림자를 남겨요.,True
+v03_0028,v03,zh,data/images/v03_0028.jpg,数据，数据，没有数据什么都做不出来。,False
+v03_0029,v03,el,data/images/v03_0029.jpg,"Στοιχεία, χρειάζομαι στοιχεία για να δουλέψω.",False
+v03_0030,v03,en,data/images/v03_0030.jpg,A man's real possession is his memory.,True
+v03_0031,v03,es,data/images/v03_0031.jpg,La verdadera posesión de un hombre es su memoria.,False
+v03_0032,v03,ja,data/images/v03_0032.jpg,人の本当の財産は記憶なんだ。,False
+v03_0033,v03,ko,data/images/v03_0033.jpg,사람의 진짜 재산은 기억이에요.,False
+v03_0034,v03,zh,data/images/v03_0034.jpg,我以前也常常犯错。,False
+v03_0035,v03,el,data/images/v03_0035.jpg,Κι εγώ έχω κάνει λάθος πολλές φορές.,False
+v03_0036,v03,en,data/images/v03_0036.jpg,The future is still in your hands.,False
+v03_0037,v03,es,data/images/v03_0037.jpg,El futuro todavía está en tus manos.,False
+v03_0038,v03,ja,data/images/v03_0038.jpg,未来はまだ君の手の中にある。,False
+v03_0039,v03,ko,data/images/v03_0039.jpg,미래는 아직 당신 손에 있어요.,False
+v03_0040,v03,zh,data/images/v03_0040.jpg,时光流逝，却留下影子。,True
+v03_0041,v03,el,data/images/v03_0041.jpg,"Ο χρόνος περνά, μα αφήνει τη σκιά του.",False
+v03_0042,v03,en,data/images/v03_0042.jpg,It is our choices that show who we truly are.,True
+v03_0043,v03,es,data/images/v03_0043.jpg,Son nuestras decisiones las que muestran quiénes somos.,False
+v03_0044,v03,ja,data/images/v03_0044.jpg,選択こそがその人を表すんだ。,False
+v03_0045,v03,ko,data/images/v03_0045.jpg,선택이 그 사람을 보여주는 거예요.,False
+v03_0046,v03,zh,data/images/v03_0046.jpg,一个人真正的财富是记忆。,False
+v03_0047,v03,el,data/images/v03_0047.jpg,Η αληθινή περιουσία ενός ανθρώπου είναι η μνήμη του.,True
+v03_0048,v03,en,data/images/v03_0048.jpg,"There's no place like home, is there?",False
+v03_0049,v03,es,data/images/v03_0049.jpg,"No hay lugar como el hogar, ¿verdad?",False
+v03_0050,v03,ja,data/images/v03_0050.jpg,やっぱり家に勝る場所はないね。,True
+v03_0051,v03,ko,data/images/v03_0051.jpg,역시 집만 한 곳이 없죠?,True
+v03_0052,v03,zh,data/images/v03_0052.jpg,未来依然掌握在你手中。,False
+v03_0053,v03,el,data/images/v03_0053.jpg,Το μέλλον είναι ακόμα στα χέρια σου.,False
+v03_0054,v03,en,data/images/v03_0054.jpg,I don't know half of you half as well as I should like.,False
+v03_0055,v03,es,data/images/v03_0055.jpg,No los conocía ni la mitad de lo que debería.,False
+v03_0056,v03,ja,data/images/v03_0056.jpg,君のことを半分も分かっていなかったよ。,True
+v03_0057,v03,ko,data/images/v03_0057.jpg,당신을 절반도 제대로 몰랐네요.,True
+v03_0058,v03,zh,data/images/v03_0058.jpg,选择才真正显示一个人是谁。,False
+v03_0059,v03,el,data/images/v03_0059.jpg,Οι επιλογές μας δείχνουν ποιοι πραγματικά είμαστε.,False
+v03_0060,v03,en,data/images/v03_0060.jpg,"It's a dangerous business, going out your door.",False
+v03_0061,v03,es,data/images/v03_0061.jpg,Es peligroso salir por esa puerta.,False
+v03_0062,v03,ja,data/images/v03_0062.jpg,扉を出るのはいつだって危険なことだ。,False
+v03_0063,v03,ko,data/images/v03_0063.jpg,문을 나서는 건 늘 위험한 일이에요.,False
+v03_0064,v03,zh,data/images/v03_0064.jpg,还是家里最好，不是吗？,True
+v03_0065,v03,el,data/images/v03_0065.jpg,"Πουθενά σαν το σπίτι, έτσι δεν είναι;",False
+v03_0066,v03,en,data/images/v03_0066.jpg,All we have to decide is what to do with the time given us.,False
+v03_0067,v03,es,data/images/v03_0067.jpg,Solo podemos decidir qué hacer con el tiempo que tenemos.,False
+v03_0068,v03,ja,data/images/v03_0068.jpg,決められるのは、与えられた時間をどう使うかだけだ。,False
+v03_0069,v03,ko,data/images/v03_0069.jpg,우리가 정할 수 있는 건 주어진 시간을 어떻게 쓰느냐예요.,False
+v03_0070,v03,zh,data/images/v03_0070.jpg,我对你的了解还不到一半。,False
+v03_0071,v03,el,data/images/v03_0071.jpg,Δεν σε ήξερα ούτε στο μισό όσο έπρεπε.,True
+v03_0072,v03,en,data/images/v03_0072.jpg,Not all who wander are lost.,True
+v03_0073,v03,es,data/images/v03_0073.jpg,No todo el que vaga está perdido.,False
+v03_0074,v03,ja,data/images/v03_0074.jpg,さまよう者がみな迷っているわけじゃない。,False
+v03_0075,v03,ko,data/images/v03_0075.jpg,떠도는 자가 다 길을 잃은 건 아니에요.,False
+v03_0076,v03,zh,data/images/v03_0076.jpg,出门在外总是危险的。,False
+v03_0077,v03,el,data/images/v03_0077.jpg,Είναι επικίνδυνο να βγαίνεις απ' την πόρτα σου.,False
+v03_0078,v03,en,data/images/v03_0078.jpg,Even the smallest person can change the course of things.,False
+v03_0079,v03,es,data/images/v03_0079.jpg,Hasta la persona más pequeña puede cambiar el rumbo de las cosas.,False
+v03_0080,v03,ja,data/images/v03_0080.jpg,どんなに小さな者でも流れを変えられる。,False
+v03_0081,v03,ko,data/images/v03_0081.jpg,아무리 작은 사람도 흐름을 바꿀 수 있어요.,False
+v03_0082,v03,zh,data/images/v03_0082.jpg,我们能决定的，只是如何使用被给予的时间。,False
+v03_0083,v03,el,data/images/v03_0083.jpg,Το μόνο που αποφασίζουμε είναι τι θα κάνουμε με τον χρόνο μας.,False
+v03_0084,v03,en,data/images/v03_0084.jpg,The night is dark and full of secrets.,True
+v03_0085,v03,es,data/images/v03_0085.jpg,La noche es oscura y está llena de secretos.,False
+v03_0086,v03,ja,data/images/v03_0086.jpg,夜は暗く、秘密に満ちている。,False
+v03_0087,v03,ko,data/images/v03_0087.jpg,밤은 어둡고 비밀로 가득해요.,False
+v03_0088,v03,zh,data/images/v03_0088.jpg,流浪的人未必都迷了路。,False
+v03_0089,v03,el,data/images/v03_0089.jpg,Δεν χάνονται όλοι όσοι περιπλανιούνται.,True
+v03_0090,v03,en,data/images/v03_0090.jpg,Speak softly and carry a big stick.,False
+v03_0091,v03,es,data/images/v03_0091.jpg,Habla con calma y actúa con firmeza.,False
+v03_0092,v03,ja,data/images/v03_0092.jpg,静かに話し、大きく行動しろ。,False
+v03_0093,v03,ko,data/images/v03_0093.jpg,조용히 말하고 크게 행동해요.,False
+v03_0094,v03,zh,data/images/v03_0094.jpg,再渺小的人也能改变局势。,False
+v03_0095,v03,el,data/images/v03_0095.jpg,Ακόμα κι ο πιο μικρός μπορεί ν' αλλάξει την πορεία των πραγμάτων.,False
+v03_0096,v03,en,data/images/v03_0096.jpg,Fortune favors the bold.,True
+v03_0097,v03,es,data/images/v03_0097.jpg,La fortuna favorece a los valientes.,True
+v03_0098,v03,ja,data/images/v03_0098.jpg,幸運は勇者に味方する。,False
+v03_0099,v03,ko,data/images/v03_0099.jpg,용기 있는 자에게 행운이 따라요.,True
+v03_0100,v03,zh,data/images/v03_0100.jpg,夜色深沉，藏着无数秘密。,False
+v03_0101,v03,el,data/images/v03_0101.jpg,Η νύχτα είναι σκοτεινή και γεμάτη μυστικά.,False
+v03_0102,v03,en,data/images/v03_0102.jpg,"Adventure is out there, waiting.",False
+v03_0103,v03,es,data/images/v03_0103.jpg,"La aventura está ahí afuera, esperando.",False
+v03_0104,v03,ja,data/images/v03_0104.jpg,冒険はあそこで待っている。,False
+v03_0105,v03,ko,data/images/v03_0105.jpg,모험은 저 밖에서 기다리고 있어요.,False
+v03_0106,v03,zh,data/images/v03_0106.jpg,说话要轻，行动要有力。,False
+v03_0107,v03,el,data/images/v03_0107.jpg,"Μίλα ήσυχα, δράσε δυνατά.",False
+v03_0108,v03,en,data/images/v03_0108.jpg,Some day you will be old enough to start reading fairy tales again.,False
+v03_0109,v03,es,data/images/v03_0109.jpg,Algún día tendrás edad para volver a leer cuentos de hadas.,True
+v03_0110,v03,ja,data/images/v03_0110.jpg,いつかまた、おとぎ話を読める歳になるよ。,True
+v03_0111,v03,ko,data/images/v03_0111.jpg,언젠가 다시 동화를 읽을 나이가 될 거예요.,True
+v03_0112,v03,zh,data/images/v03_0112.jpg,幸运总是眷顾勇敢的人。,False
+v03_0113,v03,el,data/images/v03_0113.jpg,Η τύχη ευνοεί τους τολμηρούς.,True
+v03_0114,v03,en,data/images/v03_0114.jpg,It always seems impossible until it's done.,False
+v03_0115,v03,es,data/images/v03_0115.jpg,Siempre parece imposible hasta que se logra.,False
+v03_0116,v03,ja,data/images/v03_0116.jpg,終わるまではいつも不可能に思えるものだ。,False
+v03_0117,v03,ko,data/images/v03_0117.jpg,다 되고 나면 항상 쉬워 보이죠.,False
+v03_0118,v03,zh,data/images/v03_0118.jpg,冒险就在外面等着呢。,False
+v03_0119,v03,el,data/images/v03_0119.jpg,Η περιπέτεια περιμένει εκεί έξω.,False
+v03_0120,v03,en,data/images/v03_0120.jpg,"Whatever you are, be a good one.",False
+v03_0121,v03,es,data/images/v03_0121.jpg,"Seas lo que seas, sé bueno en ello.",False
+v03_0122,v03,ja,data/images/v03_0122.jpg,何になるにせよ、いいものになれ。,False
+v03_0123,v03,ko,data/images/v03_0123.jpg,"뭐가 됐든, 제대로 된 사람이 되세요.",False
+v03_0124,v03,zh,data/images/v03_0124.jpg,总有一天你会重新爱上童话。,False
+v03_0125,v03,el,data/images/v03_0125.jpg,Κάποια μέρα θα είσαι έτοιμος να διαβάσεις ξανά παραμύθια.,True
+v03_0126,v03,en,data/images/v03_0126.jpg,The best way out is always through.,False
+v03_0127,v03,es,data/images/v03_0127.jpg,La mejor salida siempre es seguir adelante.,False
+v03_0128,v03,ja,data/images/v03_0128.jpg,抜け出す一番の方法は、突き進むことだ。,False
+v03_0129,v03,ko,data/images/v03_0129.jpg,빠져나가는 가장 좋은 방법은 그냥 뚫고 가는 거예요.,False
+v03_0130,v03,zh,data/images/v03_0130.jpg,事情做成之前，总看起来不可能。,False
+v03_0131,v03,el,data/images/v03_0131.jpg,"Πάντα φαίνεται αδύνατο, μέχρι να γίνει.",False
+v03_0132,v03,en,data/images/v03_0132.jpg,"You see, but you do not observe.",False
+v03_0133,v03,es,data/images/v03_0133.jpg,"Usted ve, pero no observa.",False
+v03_0134,v03,ja,data/images/v03_0134.jpg,見てはいるが、観察はしていないね。,True
+v03_0135,v03,ko,data/images/v03_0135.jpg,보긴 하지만 관찰은 안 하는군요.,True
+v03_0136,v03,zh,data/images/v03_0136.jpg,无论做什么，都要做到最好。,False
+v03_0137,v03,el,data/images/v03_0137.jpg,"Ό,τι κι αν είσαι, γίνε καλός σε αυτό.",False
+v03_0138,v03,en,data/images/v03_0138.jpg,"It's quite simple, once you know how.",False
+v03_0139,v03,es,data/images/v03_0139.jpg,"Es bastante simple, una vez que sabes cómo.",False
+v03_0140,v03,ja,data/images/v03_0140.jpg,コツさえ分かれば簡単さ。,False
+v03_0141,v03,ko,data/images/v03_0141.jpg,알고 나면 아주 간단한 거예요.,False
+v03_0142,v03,zh,data/images/v03_0142.jpg,脱身的最好办法，就是一直往前走。,False
+v03_0143,v03,el,data/images/v03_0143.jpg,Ο καλύτερος τρόπος να βγεις είναι να προχωρήσεις.,True
+v03_0144,v03,en,data/images/v03_0144.jpg,"There's no use trying, that's impossible.",False
+v03_0145,v03,es,data/images/v03_0145.jpg,"No sirve de nada intentarlo, es imposible.",False
+v03_0146,v03,ja,data/images/v03_0146.jpg,無駄だよ、それは不可能だ。,False
+v03_0147,v03,ko,data/images/v03_0147.jpg,"그건 불가능해요, 소용없어요.",False
+v03_0148,v03,zh,data/images/v03_0148.jpg,你只是看，却没有观察。,False
+v03_0149,v03,el,data/images/v03_0149.jpg,"Βλέπεις, αλλά δεν παρατηρείς.",False
+v03_0150,v03,en,data/images/v03_0150.jpg,Curiouser and curiouser!,False
+v03_0151,v03,es,data/images/v03_0151.jpg,¡Cada vez más raro!,False
+v03_0152,v03,ja,data/images/v03_0152.jpg,ますます不思議になっていく！,False
+v03_0153,v03,ko,data/images/v03_0153.jpg,점점 더 이상해지네!,False
+v03_0154,v03,zh,data/images/v03_0154.jpg,知道方法之后其实很简单。,False
+v03_0155,v03,el,data/images/v03_0155.jpg,"Είναι απλό, αρκεί να ξέρεις πώς.",False
+v03_0156,v03,en,data/images/v03_0156.jpg,Who in the world am I?,True
+v03_0157,v03,es,data/images/v03_0157.jpg,¿Quién demonios soy yo?,False
+v03_0158,v03,ja,data/images/v03_0158.jpg,私はいったい誰なの？,False
+v03_0159,v03,ko,data/images/v03_0159.jpg,도대체 나는 누구지?,True
