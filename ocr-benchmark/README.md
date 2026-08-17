@@ -41,6 +41,8 @@ real difficulty, zero real people, zero rights ambiguity.
   nothing sensitive to crop out here).
 - `baselines/geeklink.csv` — GeekLink's own OCR engine's raw output on this
   set (no post-filtering), for comparison.
+- `external_baselines/` — raw output from PaddleOCR, EasyOCR, and Tesseract
+  on the same set, same no-filtering methodology (see Baselines below).
 
 | lang | samples |
 |---|---|
@@ -71,33 +73,54 @@ whether the sample has a watermark.
 > both languages have no whitespace word boundaries. CER is the reliable
 > metric across all languages here.
 
-## Baseline (GeekLink's own OCR, raw output — no post-filtering)
+## Baselines: GeekLink vs. PaddleOCR vs. EasyOCR vs. Tesseract
 
-This baseline concatenates every text region the engine detects, exactly
-like `eval.py` would score any other engine's raw dump — no subtitle
-selection or watermark filtering applied. It's meant to show the *scale*
-of the watermark problem, not GeekLink's product-level accuracy.
+All four are scored the same way: **raw output, no post-filtering or
+cropping** — every text region the engine detects is concatenated and
+scored against the single-line ground truth, exactly what `eval.py` would
+do with any prediction file you hand it. This is not each tool's
+product-level accuracy (a real product adds subtitle-region selection on
+top) — it's meant to isolate the underlying detection+recognition
+difficulty, especially the watermark-interference case.
 
-| lang | n | CER | WER |
-|---|---|---|---|
-| el | 98 | 0.4184 | 0.4677 |
-| en | 101 | 0.4611 | 0.4199 |
-| es | 101 | 0.4561 | 0.4292 |
-| ja | 101 | 0.8090 | 1.9010 |
-| ko | 101 | 1.1300 | 1.1900 |
-| zh | 98 | 1.6605 | 3.4082 |
-| **ALL** | **600** | **0.6460** | **0.7228** |
+Versions: PaddleOCR = official `paddleocr` pip package v3.7.0 (PP-OCRv6
+default / PP-OCRv5 per-language, auto-downloaded); EasyOCR = official
+`easyocr` pip package (PyTorch, CPU); Tesseract = `tesseract-ocr` 5.x via
+`pytesseract`, no image preprocessing; GeekLink = the ONNX det+rec models
+bundled in the app. All CPU, no GPU. EasyOCR has no Greek (`el`) language
+pack, so its `el` rows are excluded rather than scored as zero.
 
-| | n | CER | WER |
-|---|---|---|---|
-| clean | 485 | 0.5086 | 0.6241 |
-| **watermark** | 115 | **1.2579** | 1.1502 |
+| engine | overall CER | overall WER | clean CER | watermark CER |
+|---|---|---|---|---|
+| **PaddleOCR** | **0.6293** | 0.6140 | 0.4889 | 1.2546 |
+| GeekLink | 0.6460 | 0.7228 | 0.5086 | 1.2579 |
+| EasyOCR | 0.6814 | 0.9749 | 0.5596 | 1.2645 |
+| Tesseract | 0.9670 | 1.2426 | 0.9099 | 1.2215 |
 
-The watermark subset more than doubles CER (0.51 → 1.26) — an engine that
-doesn't filter out nearby overlapping text pays for it, which is exactly
-the failure mode this benchmark is designed to surface. Run
-`python3 eval/eval.py --pred baselines/geeklink.csv` yourself to reproduce
-this table, or substitute your own engine's output.
+Per-language CER:
+
+| lang | PaddleOCR | GeekLink | EasyOCR | Tesseract |
+|---|---|---|---|---|
+| en | 0.4456 | 0.4611 | 0.4706 | 0.7839 |
+| es | 0.4281 | 0.4561 | 0.4670 | 0.7546 |
+| el | 0.3883 | 0.4184 | n/a | 0.6646 |
+| ja | 0.8769 | 0.8090 | 0.8276 | 1.2987 |
+| ko | 1.0354 | 1.1300 | 1.0470 | 1.6021 |
+| zh | 1.7273 | 1.6605 | 1.3353 | 1.8366 |
+
+Reproduce any row with `python3 eval/eval.py --pred baselines/geeklink.csv`
+or `--pred external_baselines/<engine>.csv`.
+
+**The headline finding**: every engine loses 2-2.6x accuracy on the
+watermark subset, regardless of how well it does on clean subtitles —
+PaddleOCR's CER goes from 0.49 to 1.25, GeekLink's from 0.51 to 1.26,
+EasyOCR's from 0.56 to 1.26. Watermark/overlay interference is a shared
+blind spot across every general-purpose OCR engine we tested here, not
+something specific to any one of them — raw text recognition quality
+barely matters once there's a second text region competing for the same
+space. Tesseract, which has no scene-text detection stage at all and just
+OCRs the whole frame as a document, is the outlier: consistently worst,
+as expected for a tool not built for this.
 
 > Note on CJK: WER > 1.0 for ja/ko/zh happens because raw concatenation of
 > multiple detected lines (subtitle + watermark) produces far more
