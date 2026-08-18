@@ -92,53 +92,60 @@ in this table is really "PaddleOCR's official weights, an older version,
 run through ONNX Runtime" — see the explanation below for why that's not
 quite the same as the `paddleocr` pip package's numbers.
 
-Versions: PaddleOCR = official `paddleocr` pip package v3.7.0, which
-defaults to the newer **PP-OCRv6** for en/es/ja/zh and falls back to
-PP-OCRv5 for ko/el (auto-downloaded, native PaddlePaddle inference);
-EasyOCR = official `easyocr` pip package (PyTorch, CPU); Tesseract =
-`tesseract-ocr` 5.x via `pytesseract`, no image preprocessing; GeekLink =
-**PP-OCRv5 ONNX weights (PP-OCRv4 for Japanese specifically)**, run
-through ONNX Runtime rather than native PaddlePaddle. All CPU, no GPU.
-EasyOCR has no Greek (`el`) language pack, so its `el` rows are excluded
-rather than scored as zero.
+Versions: PaddleOCR = official `paddleocr` pip package v3.7.0. PP-OCRv6
+ships three size tiers (tiny/small/medium); the tier only affects
+en/es/ja/zh — ko/el aren't covered by PP-OCRv6 yet and always run on
+PP-OCRv5 regardless of tier. EasyOCR = official `easyocr` pip package
+(PyTorch, CPU); Tesseract = `tesseract-ocr` 5.x via `pytesseract`, no
+image preprocessing; GeekLink = **PP-OCRv5 ONNX weights (PP-OCRv4 for
+Japanese specifically)**, run through ONNX Runtime rather than native
+PaddlePaddle. All CPU, no GPU. EasyOCR has no Greek (`el`) language pack,
+so its `el` rows are excluded rather than scored as zero.
 
 | engine | overall CER | overall WER | clean CER | watermark CER | ms/image (CPU) |
 |---|---|---|---|---|---|
-| **PaddleOCR** | **0.6293** | 0.6140 | 0.4889 | 1.2546 | 1398.6 |
-| GeekLink | 0.6460 | 0.7228 | 0.5086 | 1.2579 | **564.3** |
+| PP-OCRv6 tiny | 0.6875 | 0.6689 | 0.5416 | 1.3369 | **169.4** |
+| **PP-OCRv6 small** | **0.6330** | 0.6279 | 0.4866 | 1.2849 | 381.0 |
+| PP-OCRv6 medium | 0.6293 | 0.6140 | 0.4889 | 1.2546 | 1398.6 |
+| GeekLink | 0.6460 | 0.7228 | 0.5086 | 1.2579 | 564.3 |
 | EasyOCR | 0.6814 | 0.9749 | 0.5596 | 1.2645 | 591.1 |
 | Tesseract | 0.9670 | 1.2426 | 0.9099 | 1.2215 | 106.4 |
 
 Speed is wall-clock per image on the same machine (Apple Silicon, CPU
 only, no GPU), averaged over the 101 English samples, model load time
 excluded (one warm-up call before timing). Tesseract's speed isn't
-comparable to the other three — it has no scene-text detection stage, so
-it's doing far less work (and scoring far worse for it).
+comparable to the others — it has no scene-text detection stage, so it's
+doing far less work (and scoring far worse for it).
 
-**Why is PaddleOCR's own pip package slightly more accurate than
-"GeekLink"?** Same model lineage, different versions and runtime: the
-`paddleocr` package auto-selects the newer PP-OCRv6 for 4 of our 6
-languages, while GeekLink bundles the older PP-OCRv5 (PP-OCRv4 for
-Japanese) for local inference-speed reasons, converted to ONNX. That
-version gap accounts for essentially all of the accuracy difference —
-GeekLink is running roughly a generation-older version of the same
-official weights, not a worse or different model. The payoff shows up in
-the speed column instead: GeekLink is 2.5x faster than the official
-package on the same hardware, for a ~2.7% relative CER cost.
+**The tier picture matters more than the single "PaddleOCR" number
+above**: PP-OCRv6 **small** is both more accurate *and* 1.5x faster than
+what GeekLink currently ships (0.633 CER / 381ms vs. 0.646 CER / 564ms) —
+it dominates on both axes, not a trade-off. Medium buys essentially no
+extra accuracy over small (0.6293 vs 0.6330, within noise) for 3.7x the
+latency, so on this benchmark medium isn't worth it. Tiny is dramatically
+faster (169ms) but loses a lot specifically on Japanese (CER 1.497 vs
+small's 0.880) — the "one model for 50 languages" tradeoff seems to bite
+hardest on CJK scripts at the smallest size. For our own roadmap, this
+says "evaluate upgrading to PP-OCRv6 small," not "medium is state of the
+art so bigger is better."
 
 Per-language CER:
 
-| lang | PaddleOCR | GeekLink | EasyOCR | Tesseract |
-|---|---|---|---|---|
-| en | 0.4456 | 0.4611 | 0.4706 | 0.7839 |
-| es | 0.4281 | 0.4561 | 0.4670 | 0.7546 |
-| el | 0.3883 | 0.4184 | n/a | 0.6646 |
-| ja | 0.8769 | 0.8090 | 0.8276 | 1.2987 |
-| ko | 1.0354 | 1.1300 | 1.0470 | 1.6021 |
-| zh | 1.7273 | 1.6605 | 1.3353 | 1.8366 |
+| lang | v6-tiny | v6-small | v6-medium | GeekLink | EasyOCR | Tesseract |
+|---|---|---|---|---|---|---|
+| en | 0.4493 | 0.4469 | 0.4456 | 0.4611 | 0.4706 | 0.7839 |
+| es | 0.4304 | 0.4350 | 0.4281 | 0.4561 | 0.4670 | 0.7546 |
+| el | 0.3883 | 0.3883 | 0.3883 | 0.4184 | n/a | 0.6646 |
+| ja | 1.4968 | 0.8801 | 0.8769 | 0.8090 | 0.8276 | 1.2987 |
+| ko | 1.0354 | 1.0354 | 1.0354 | 1.1300 | 1.0470 | 1.6021 |
+| zh | 1.6850 | 1.7468 | 1.7273 | 1.6605 | 1.3353 | 1.8366 |
+
+(el/ko are identical across tiers since they always run PP-OCRv5,
+unaffected by the PP-OCRv6 tier choice.)
 
 Reproduce any row with `python3 eval/eval.py --pred baselines/geeklink.csv`
-or `--pred external_baselines/<engine>.csv`.
+or `--pred external_baselines/<file>.csv` (`paddleocr.csv` is the medium
+tier; `paddleocr_tiny.csv` / `paddleocr_small.csv` are the other two).
 
 **Not included (yet)**: dedicated subtitle-extraction tools like
 [VideOCR](https://github.com/timminator/VideOCR) (744★). VideOCR's local
