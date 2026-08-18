@@ -83,19 +83,48 @@ product-level accuracy (a real product adds subtitle-region selection on
 top) — it's meant to isolate the underlying detection+recognition
 difficulty, especially the watermark-interference case.
 
-Versions: PaddleOCR = official `paddleocr` pip package v3.7.0 (PP-OCRv6
-default / PP-OCRv5 per-language, auto-downloaded); EasyOCR = official
-`easyocr` pip package (PyTorch, CPU); Tesseract = `tesseract-ocr` 5.x via
-`pytesseract`, no image preprocessing; GeekLink = the ONNX det+rec models
-bundled in the app. All CPU, no GPU. EasyOCR has no Greek (`el`) language
-pack, so its `el` rows are excluded rather than scored as zero.
+**What "GeekLink" means here**: GeekLink's local OCR is built directly on
+PaddleOCR's official pre-trained weights (PP-OCRv4/PP-OCRv5, converted to
+ONNX for local inference) — not a custom-trained model. We're in the
+process of collecting real correction data to eventually fine-tune our own
+detection/recognition models, but haven't shipped one yet. So "GeekLink"
+in this table is really "PaddleOCR's official weights, an older version,
+run through ONNX Runtime" — see the explanation below for why that's not
+quite the same as the `paddleocr` pip package's numbers.
 
-| engine | overall CER | overall WER | clean CER | watermark CER |
-|---|---|---|---|---|
-| **PaddleOCR** | **0.6293** | 0.6140 | 0.4889 | 1.2546 |
-| GeekLink | 0.6460 | 0.7228 | 0.5086 | 1.2579 |
-| EasyOCR | 0.6814 | 0.9749 | 0.5596 | 1.2645 |
-| Tesseract | 0.9670 | 1.2426 | 0.9099 | 1.2215 |
+Versions: PaddleOCR = official `paddleocr` pip package v3.7.0, which
+defaults to the newer **PP-OCRv6** for en/es/ja/zh and falls back to
+PP-OCRv5 for ko/el (auto-downloaded, native PaddlePaddle inference);
+EasyOCR = official `easyocr` pip package (PyTorch, CPU); Tesseract =
+`tesseract-ocr` 5.x via `pytesseract`, no image preprocessing; GeekLink =
+**PP-OCRv5 ONNX weights (PP-OCRv4 for Japanese specifically)**, run
+through ONNX Runtime rather than native PaddlePaddle. All CPU, no GPU.
+EasyOCR has no Greek (`el`) language pack, so its `el` rows are excluded
+rather than scored as zero.
+
+| engine | overall CER | overall WER | clean CER | watermark CER | ms/image (CPU) |
+|---|---|---|---|---|---|
+| **PaddleOCR** | **0.6293** | 0.6140 | 0.4889 | 1.2546 | 1398.6 |
+| GeekLink | 0.6460 | 0.7228 | 0.5086 | 1.2579 | **564.3** |
+| EasyOCR | 0.6814 | 0.9749 | 0.5596 | 1.2645 | 591.1 |
+| Tesseract | 0.9670 | 1.2426 | 0.9099 | 1.2215 | 106.4 |
+
+Speed is wall-clock per image on the same machine (Apple Silicon, CPU
+only, no GPU), averaged over the 101 English samples, model load time
+excluded (one warm-up call before timing). Tesseract's speed isn't
+comparable to the other three — it has no scene-text detection stage, so
+it's doing far less work (and scoring far worse for it).
+
+**Why is PaddleOCR's own pip package slightly more accurate than
+"GeekLink"?** Same model lineage, different versions and runtime: the
+`paddleocr` package auto-selects the newer PP-OCRv6 for 4 of our 6
+languages, while GeekLink bundles the older PP-OCRv5 (PP-OCRv4 for
+Japanese) for local inference-speed reasons, converted to ONNX. That
+version gap accounts for essentially all of the accuracy difference —
+GeekLink is running roughly a generation-older version of the same
+official weights, not a worse or different model. The payoff shows up in
+the speed column instead: GeekLink is 2.5x faster than the official
+package on the same hardware, for a ~2.7% relative CER cost.
 
 Per-language CER:
 
@@ -110,6 +139,18 @@ Per-language CER:
 
 Reproduce any row with `python3 eval/eval.py --pred baselines/geeklink.csv`
 or `--pred external_baselines/<engine>.csv`.
+
+**Not included (yet)**: dedicated subtitle-extraction tools like
+[VideOCR](https://github.com/timminator/VideOCR) (744★). VideOCR's local
+engine is PaddleOCR itself, so a raw-recognition comparison would just
+reproduce the PaddleOCR row above — the genuinely different thing about
+VideOCR is that it asks the user to manually draw a crop box around the
+subtitle region per video, which sidesteps the watermark problem by
+construction rather than solving it algorithmically. That's a real and
+interesting comparison (manual region selection vs. automatic detection),
+just a different one than this raw-engine table, and it currently requires
+Docker or Linux/Windows to run (no native macOS build) — planned as a
+follow-up rather than blocking this release.
 
 **The headline finding**: every engine loses 2-2.6x accuracy on the
 watermark subset, regardless of how well it does on clean subtitles —
