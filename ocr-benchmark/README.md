@@ -147,6 +147,39 @@ Reproduce any row with `python3 eval/eval.py --pred baselines/geeklink.csv`
 or `--pred external_baselines/<file>.csv` (`paddleocr.csv` is the medium
 tier; `paddleocr_tiny.csv` / `paddleocr_small.csv` are the other two).
 
+## Apple Silicon: using each engine's actual best backend
+
+The table above is deliberately CPU-only for a level cross-platform
+comparison, but it undersells what you'd actually get on a Mac — GeekLink
+doesn't run ONNX Runtime CPU in production, it runs the same model weights
+through **CoreML**, and PyTorch (which EasyOCR is built on) has an Apple
+GPU backend (MPS) that isn't enabled by default. Re-running with each
+engine's real best-available backend on Apple Silicon:
+
+| engine | backend | ms/image | overall CER |
+|---|---|---|---|
+| **GeekLink (CoreML)** | Apple Neural Engine / GPU via CoreML | **97.3** | 0.6539 |
+| EasyOCR (MPS) | PyTorch Apple GPU backend | 141.7 | 0.6814 (unchanged) |
+| Tesseract | CPU only — no GPU backend exists | 106.4 | 0.9670 |
+| PaddleOCR (any tier) | CPU only — official PaddlePaddle has no Apple GPU/Metal backend | 169–1399 | 0.629–0.688 |
+
+GeekLink's CoreML path is **5.8x faster** than the ONNX CPU number in the
+table above, for a ~1.2% relative CER difference (0.646 → 0.654 — within
+normal float-precision noise between backends, not a real accuracy
+change) — CoreML lets the Apple Neural Engine and GPU do the work instead
+of the CPU. EasyOCR gets a real speedup too (591ms → 142ms) once MPS is
+enabled, though `easyocr.Reader(gpu=True)` isn't the default. PaddleOCR
+has no such option on this platform at all: we checked directly
+(`paddle.device.is_compiled_with_mps` doesn't exist, no custom device
+types registered) — the official `paddlepaddle` package is CPU-only on
+macOS regardless of which tier you pick, so its numbers are identical to
+the CPU table above.
+
+**On Apple Silicon specifically, GeekLink's CoreML path is the fastest
+option in this entire comparison** — faster than Tesseract, which does
+far less work — while landing close to PaddleOCR's raw accuracy.
+Reproduce with `python3 eval/eval.py --pred baselines/geeklink_coreml.csv`.
+
 **Not included (yet)**: dedicated subtitle-extraction tools like
 [VideOCR](https://github.com/timminator/VideOCR) (744★). VideOCR's local
 engine is PaddleOCR itself, so a raw-recognition comparison would just
