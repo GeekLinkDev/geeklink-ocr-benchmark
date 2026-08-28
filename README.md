@@ -1,5 +1,11 @@
 # GeekLink OCR Benchmark
 
+*Published by [GeekLink](https://geeklink.dev), a Mac/Windows app for extracting,
+translating, and burning in video subtitles. This repo is an open benchmark
+dataset we use to evaluate our own OCR model against other engines — not the
+app itself. If you're looking for the GeekLink app, see
+[geeklink.dev](https://geeklink.dev).*
+
 A benchmark for **burned-in video subtitle OCR**: 1,140 subtitle images
 across 6 languages (English, Spanish, Japanese, Korean, Chinese, Greek),
 rendered onto real film footage with exact known ground truth — so there's
